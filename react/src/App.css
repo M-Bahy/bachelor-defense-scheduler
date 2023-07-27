@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed&display=swap');
+*{
+  box-sizing: border-box ;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+} 
+.addForm{
+  border: 2px solid rgb(205, 199, 199);
+  background-color:#fff;
+  height: 500px;
+  position: relative;
+  width: 70%;
+  margin-top: 1%;
+  margin-left: 15%;
+  border-radius: 20px;
+}
+.formTitle{
+  position: absolute; 
+  width: 100%;
+  text-align: center;
+  height: 50px;
+  font-size: 20px;
+  font-weight:500;
+  padding-top: 10px ;
+
+}
+.divLabel-1{
+  position: absolute;
+  width: 100%;
+  margin-top: 70px;
+  left: 2%;
+  font-size: 1rem;
+  font-weight:500;
+  padding: 0.625rem 0.125rem 0.125rem 0.15rem;
+}
+.divLabel-2{
+  position: absolute;
+  width: 100%;
+  margin-top: 120px;
+  left: 2%;
+  font-size: 1rem;
+  font-weight:500;
+  padding: 0.625rem 0.125rem 0.125rem 0.15rem;
+}
+.divLabel-3{
+  position: absolute;
+  width: 100%;
+  margin-top: 180px;
+  left: 2%;
+  font-size: 1rem;
+  font-weight:500;
+  padding: 0.625rem 0.125rem 0.125rem 0.15rem;
+}
+.uploadLabel {
+  width: 150px;
+  margin-top: 80px;
+  color: black;
+  position: absolute;
+  left: 2%;
+  text-align: left;
+  font-weight: 500;
+  font-size: 16px;
+}
+.info{
+  width: 10px;
+  margin-top: 105px;
+  font-size: small;
+  color: rgb(125, 105, 105);
+  font-weight:500;
+  position: absolute;
+  left: 18%;
+  text-align: center;
+}
+.inpt{
+  width: 200px;
+  color: black;
+  margin-top: 53px;
+  position: absolute;
+  left: 18%;
+  text-align: left;
+  margin-right: 30px;
+  font-weight: bold;
+}
+.dateLabel {
+  width: 150px;
+  margin-top: 110px;
+  color: black;
+  position: absolute;
+  left: 2%;
+  text-align: left;
+  font-weight: 500;
+  font-size: 16px;
+}
+.roomLabel {
+  width: 150px;
+  margin-top: 160px;
+  color: black;
+  position: absolute;
+  left: 2%;
+  text-align: left;
+  font-weight: 500;
+  font-size: 16px;
+}
+.datePicker{
+  margin-top: 110px;
+  position: absolute;
+  left: 18%;
+  text-align: left;
+  margin-right: 30px;
+}
+.room{
+  margin-top: 160px;
+  position: absolute;
+  left: 18%;
+  text-align: left;
+  margin-right: 30px;
+
+}
+
+.list{
+  display: inline;
+}
+
+.required{
+  color: rgb(205, 18, 18);
+}
+.btn{
+  width: 120px;
+  border-radius : 100px;
+  border: none;
+  position: absolute;
+  margin-top: 23%;
+  left: 85%;
+  bottom: 10%;
+  letter-spacing: 1px;
+  font-weight: bold;
+  background-color: #c98402;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.btn:hover{
+  background-color:#b1721a ;
+  transform: scale(1.1);
+}
+.btn-const{
+  width: 120px;
+  border-radius : 100px;
+  border: none;
+  position: absolute;
+  margin-top: 10%;
+  left: 80%;
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #c98402  ;
+  color: white;
+  cursor: pointer;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: 0.7s ease;
+}
+.btn-const1{
+  width: 250px;
+  border-radius : 100px;
+  border: none;
+  position: absolute;
+  margin-top: 10%;
+  left: 42%;
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-align: center;
+  background-color:#c98402;
+  color: white;
+  cursor: pointer;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: 0.7s ease;
+}
+.btn-const2{
+  width: 250px;
+  border-radius : 100px;
+  border: none;
+  position: relative;
+  margin-top: 5%;
+  left: 42%;  
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #c98402;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 5%;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: 0.7s ease;
+}
+.btn-const:hover{
+  background-color:#b1721a ;
+  transform: scale(1.1);
+}
+.btn-const1:hover{
+  background-color:#b1721a ;
+  transform: scale(1.1);
+}
+.btn-const2:hover{
+  background-color:#b1721a ;
+  transform: scale(1.1);
+}
+.Constarints-1{
+  border: 2px solid rgb(205, 199, 199);
+  background-color:#fff;
+  height: 500px;
+  position: relative;
+  width: 70%;
+  margin-top: 1%;
+  margin-left: 15%;
+  border-radius: 20px;
+}
+.Constarints-2{
+  border: 1px solid rgb(205, 199, 199);
+  background-color:#fff;
+  position: absolute;
+  width: 48%;
+  height: 300px;
+  margin-top: -580px;
+  margin-left: 49rem;
+}
+.Constarints-3{
+  border: 1px solid rgb(205, 199, 199);
+  background-color:#fff;
+  position: absolute;
+  width: 48%;
+  height: 300px;
+  margin-top: -270px;
+  margin-left: 49rem;
+}
+.divTitle{
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight:500;
+  padding: 0.625rem 0.125rem 0.125rem 0.15rem;
+}
+.dropdown-1{
+  position: absolute;
+  margin-top: 70px; 
+  margin-left: 35%;
+  font-size: large;
+  width: 200px;
+}
+.dropdown-2{
+  position: absolute;
+  margin-top: 17px; 
+  margin-left: 35%;
+  font-size: large;
+  width: 200px;
+}
+.dropdown-3{
+  position: absolute;
+  margin-top: 20px; 
+  margin-left: 35%;
+  font-size: large;
+  width: 350px;
+}
+.slots1 input{
+  margin-left: 20px;
+}
+.slots1 label{
+  margin-left: 5px;
+}
+.slots2 label{
+  margin-left: 5px;
+}
+.slots2{
+  position: absolute;
+  display: flex;
+  left: 8%;
+  margin-top: 260px;
+  flex-direction: row;
+}
+.slots2 input{
+  margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .about-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    margin-bottom: 10px;
+  }
+  

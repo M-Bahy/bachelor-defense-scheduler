@@ -1,0 +1,36 @@
+/*   */
+table {
+  margin-top: 49px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.del {
+  width: 90px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: #f71f14;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.slots1 {
+  position: absolute;
+  display: flex;
+  left: 8%;
+  margin-top: 230px;
+  flex-direction: row;
+}
