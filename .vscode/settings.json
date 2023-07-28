@@ -21,6 +21,9 @@
     "editor.formatOnSave": true,
     "python.analysis.extraPaths": [
         "./src"
-    ]
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
     
     }    

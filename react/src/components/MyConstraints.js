@@ -1,9 +1,9 @@
 import React from "react";
 import "./MyConstraints.css";
-import Card from  "./Card.js"
+import Card from "./Card.js";
 function MyConstraints() {
   return (
-    <form >
+    <form>
       <Card></Card>
     </form>
   );

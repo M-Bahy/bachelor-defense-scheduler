@@ -6,9 +6,9 @@ function About() {
     <div className="about-container">
       <h1>About Us</h1>
       <p>
-        We are a team of 6 students from the German University in Cairo who
-        have come together to create a website to schedule bachelor defenses.
-        Our goal is to make the process of scheduling defenses easier for both
+        We are a team of 6 students from the German University in Cairo who have
+        come together to create a website to schedule bachelor defenses. Our
+        goal is to make the process of scheduling defenses easier for both
         students and faculty members.
       </p>
       <p>

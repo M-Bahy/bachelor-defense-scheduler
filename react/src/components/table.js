@@ -1,13 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
-import LoadingScreen from 'react-loading-screen';
-import spinner from './download.gif';
-import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-import './table.css';
-import ip from './ip.txt';
-
-
+import React, { useState, useEffect } from "react";
+import axios from "axios";
+import LoadingScreen from "react-loading-screen";
+import spinner from "./download.gif";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import "./table.css";
+import ip from "./ip.txt";
 
 function Table() {
   const [data, setData] = useState(null);
@@ -17,17 +15,15 @@ function Table() {
   const [loadingTime, setLoadingTime] = useState(null);
   const [intervalId, setIntervalId] = useState(null);
 
-  const [ipAddr, setIpAddr] = useState('');
-  const [download, setDownload] = useState('');
-
+  const [ipAddr, setIpAddr] = useState("");
+  const [download, setDownload] = useState("");
 
   useEffect(() => {
     fetch(ip)
-      .then(response => response.text())
-      .then(data => setIpAddr(data))
-      .catch(error => console.error(error));
+      .then((response) => response.text())
+      .then((data) => setIpAddr(data))
+      .catch((error) => console.error(error));
   }, []);
-
 
   const checkIterations = () => {
     axios
@@ -35,13 +31,13 @@ function Table() {
       .then((res) => {
         setLoadingTime(res.data.iterations);
         const iterations = parseInt(res.data.iterations);
-        console.log("iterations: " + iterations + "%")
+        console.log("iterations: " + iterations + "%");
         if (iterations >= 99) {
           clearInterval(intervalId);
         }
       })
       .catch((error) => {
-        console.error('Failed to get iterations:', error);
+        console.error("Failed to get iterations:", error);
       });
   };
 
@@ -57,35 +53,34 @@ function Table() {
         console.log(res.data[0]);
         setData(res.data[0]);
         setIsLoading(false);
-        console.log(newIntervalId)
+        console.log(newIntervalId);
         clearInterval(newIntervalId);
-        setDownload(`http://${ipAddr}/downloadFile/`)
+        setDownload(`http://${ipAddr}/downloadFile/`);
       })
       .catch((error) => {
         clearInterval(newIntervalId);
         setLoadingTime("Failed to generate: " + error);
-        console.error('Failed to generate:', error);
+        console.error("Failed to generate:", error);
       });
   };
 
   const handleSubmit = (event) => {
-    toast('CSV file is downloading !!!');
+    toast("CSV file is downloading !!!");
   };
-
 
   return (
     <div>
       {isLoading ? (
         <>
-        {/* {checkIterations} */}
-         {/* <button className="btn-const1" onClick={checkIterations}>
+          {/* {checkIterations} */}
+          {/* <button className="btn-const1" onClick={checkIterations}>
               check iterations remaining
             </button>
           <p> This might take a while ~{loadingTime} mins</p> */}
           <LoadingScreen
             loading={true}
             logoSrc={spinner}
-            text={`This might take a while ~${loadingTime ?? '0.0'}%`}
+            text={`This might take a while ~${loadingTime ?? "0.0"}%`}
             // textStyle={{ fontSize: "2px", color: "gray" }}
           />
         </>
@@ -93,7 +88,7 @@ function Table() {
         <>
           {showButton && (
             <button className="btn-const1" onClick={onGenerate}>
-              Generate Solution 
+              Generate Solution
             </button>
           )}
 
@@ -148,6 +143,6 @@ function Table() {
       )}
     </div>
   );
-};
+}
 
 export default Table;

@@ -16,10 +16,10 @@ function App() {
         </div>
       </div>
       <Routes>
-      <Route exact path="/" element={<Home />}></Route>
-      <Route exact path='/myConst' element={< MyConstraints />}></Route>
-      <Route exact path='/about' element={< About />}></Route>
-      <Route exact path='/table' element={< Table />}></Route>
+        <Route exact path="/" element={<Home />}></Route>
+        <Route exact path="/myConst" element={<MyConstraints />}></Route>
+        <Route exact path="/about" element={<About />}></Route>
+        <Route exact path="/table" element={<Table />}></Route>
       </Routes>
     </Router>
   );
