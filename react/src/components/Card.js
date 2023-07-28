@@ -83,13 +83,13 @@ function Card() {
       let tmplist2=[]
       for(let i in tmplist){
         if(tmplist[i]){
-          if(i==0){
+          if(i===0){
             tmplist2.push({ value: 0, label: '1st' })
           }
-          else if(i==1){
+          else if(i===1){
             tmplist2.push({ value: 1, label: '2nd' })  
           }
-          else if(i==2){
+          else if(i===2){
             tmplist2.push({ value: 2, label: '3rd' })  
           }
           else{
