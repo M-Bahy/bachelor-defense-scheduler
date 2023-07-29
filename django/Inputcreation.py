@@ -19,18 +19,18 @@ def Create_input(Name, dates, rooms):
     # Dates = [""]
     # for i in range(len(df_excel)-1):
     #     Dates.append(df_excel["Defense Date"][i])
-    for i in range(len(df_excel) - 1):
+    for i in range(len(df_excel)):
         External.append(df_excel["External Reviewer Name"][i])
-    for i in range(len(df_excel) - 1):
+    for i in range(len(df_excel)):
         Supervisor.append(df_excel["GUC Supervisor"][i])
-    for i in range(len(df_excel) - 1):
+    for i in range(len(df_excel)):
         ID.append(df_excel["Student ID"][i])
-    for i in range(len(df_excel) - 1):
+    for i in range(len(df_excel)):
         name.append(df_excel["Student Name"][i])
-    for i in range(len(df_excel) - 1):
+    for i in range(len(df_excel)):
         email.append(df_excel["Student Email"][i])
-    for i in range(len(df_excel) - 1):
-        if df_excel["Topic Title"][i] != None:
+    for i in range(len(df_excel)):
+        if df_excel["Topic Title"][i] is not None:
             topic.append(df_excel["Topic Title"][i])
         else:
             topic.append("")
