@@ -4,6 +4,7 @@ import DatePanel from "react-multi-date-picker/plugins/date_panel";
 import { Text, View, FlatList, TouchableOpacity } from "react-native";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { useNavigate } from "react-router-dom";
 import ip from "./ip.txt";
 
 const axios = require("axios").default;
@@ -13,7 +14,7 @@ function Form() {
   const [dates, setDates] = useState([]);
   const [rooms, setRooms] = useState([]);
   const [room, setRoom] = useState("");
-
+  const navigate = useNavigate();
   const [ipAddr, setIpAddr] = useState("");
 
   useEffect(() => {
@@ -39,14 +40,23 @@ function Form() {
       console.log(response.data);
     });
     toast(
-      "Data successfully added. You can move to Examiner's Constraints tab!"
+      "Data successfully added. Redirecting to the Examiner's Constraints Form"
     );
+    setTimeout(() => {
+      navigate("/Examiner Constraints");
+    }, 5500);
   };
 
   const handleAddRoom = () => {
     const newList = rooms.concat(room);
     setRooms(newList);
     setRoom("");
+  };
+
+  const handleRemoveRoom = (index) => {
+    const newList = [...rooms];
+    newList.splice(index, 1);
+    setRooms(newList);
   };
 
   const handleKeyPress = (event) => {
@@ -118,7 +128,7 @@ function Form() {
                 flexWrap: "wrap",
                 paddingHorizontal: 10,
               }}
-              renderItem={({ item }) => (
+              renderItem={({ item, index }) => (
                 <TouchableOpacity style={{ padding: 10 }}>
                   <Text
                     style={{
@@ -130,13 +140,16 @@ function Form() {
                   >
                     {item}
                   </Text>
+                  <button type="button" onClick={() => handleRemoveRoom(index)}>
+                    Remove
+                  </button>
                 </TouchableOpacity>
               )}
             />
           </div>
         </div>
         <button className="btn" onClick={handleSumbit}>
-          Submit
+          Next
         </button>
         <ToastContainer />
       </form>

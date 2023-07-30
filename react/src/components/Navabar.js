@@ -8,7 +8,7 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <h1 className="navbar-logo">Bachelor Defense Schedule</h1>
-        <ul className="nav-menu">
+        {/* <ul className="nav-menu">
           {menuItems.map((item, index) => {
             return (
               <li key={index}>
@@ -18,7 +18,7 @@ class Navbar extends Component {
               </li>
             );
           })}
-        </ul>
+        </ul> */}
       </nav>
     );
   }

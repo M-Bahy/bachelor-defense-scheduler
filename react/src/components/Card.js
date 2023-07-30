@@ -5,12 +5,13 @@ import Select from "react-select";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import ip from "./ip.txt";
-
+import { useNavigate } from "react-router-dom";
 const axios = require("axios").default;
 // const url = `http://${ipAddr}/allExternals/`;
 const animatedComponents = makeAnimated();
 
 function Card() {
+  const navigate = useNavigate();
   const [SelectedExaminar, setSelectedExaminar] = useState({
     value: "",
     label: "",
@@ -125,6 +126,14 @@ function Card() {
     toast("Examiner constraints successfully added!");
   };
 
+  const go = (event) => {
+    event.preventDefault();
+    toast("Redirecting to the Internal Constraints Form");
+    setTimeout(() => {
+      navigate("/Internal Constraints");
+    }, 5500);
+  };
+
   if (ipAddr == "") {
     return null;
   } else {
@@ -178,9 +187,20 @@ function Card() {
             //       menuPlacement="auto"
             // menuPosition="fixed"
           />
-          <button className="btn-const" onClick={handleSubmit}>
+          <button
+            className="btn-const"
+            style={{
+              marginTop: "20px",
+            }}
+            onClick={handleSubmit}
+          >
             Add
           </button>
+
+          <button className="btn-const" onClick={go}>
+            Next
+          </button>
+
           <ToastContainer />
         </form>
       </>
