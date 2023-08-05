@@ -537,7 +537,7 @@ def evolutionary_algorithm():
                     and solution[0][k]["Time"] >= u
                     and solution[0][k]["Time"] < ue
                 ):
-                    solution[0][k]["Color"] = "Red"
+                    solution[0][k]["Color"] = "Red 1"
 
         for Examiner in solution[1]:
             for day in range(days):
@@ -553,7 +553,7 @@ def evolutionary_algorithm():
                             and solution[0][k]["Time"] >= day * 15
                             and solution[0][k]["Time"] < (day * 15 + 15)
                         ):
-                            solution[0][k]["Color"] = "Red"
+                            solution[0][k]["Color"] = "Red 2"
 
     examiners = [""] * slots
     numberofexaminers = [0] * slots
