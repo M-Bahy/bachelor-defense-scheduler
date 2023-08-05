@@ -284,6 +284,7 @@ def evolutionary_algorithm():
     Then it changes the value of the solution to the new solution.
     It checks for hard constraints such as the number of examiners, supervisors, and classrooms per slot and continuity of the schedule.
     """
+    f = True
     max_generations = 2000
     num_runs = 1
     best_timetable = None
@@ -307,7 +308,20 @@ def evolutionary_algorithm():
             days,
             slots,
         )  # generate a solution by creating the first timetable by random
-
+        index = 0
+        if f:
+            print("The solution is : ")
+            for x in solution:
+                print()
+                print()
+                print(f"At index {index}")
+                print()
+                print("The value is : ")
+                print(x)
+                print()
+                print()
+                index += 1
+            f = False
         flag = False
         c = 0
         for j in range(max_generations):
@@ -446,9 +460,7 @@ def evolutionary_algorithm():
                         solution[0][c]["Examiner"] == Examiner
                         and solution[0][c]["Time"] == i
                     ):
-                        solution[0][c][
-                            "Color"
-                        ] = "more than 2 per slot for examiner"
+                        solution[0][c]["Color"] = "Red"
                         flagc = False
                     c += 1
     flagc = True
@@ -465,9 +477,7 @@ def evolutionary_algorithm():
                         solution[0][c]["Supervisor"] == Supervisor
                         and solution[0][c]["Time"] == i
                     ):
-                        solution[0][c][
-                            "Color"
-                        ] = "more than 2 per slot for supervisor"
+                        solution[0][c]["Color"] = "Red"
                         flagc = False
                     c += 1
     flagc = True
@@ -484,7 +494,7 @@ def evolutionary_algorithm():
                 c = 0
                 while flagc:
                     if solution[0][c]["Time"] == slot:
-                        solution[0][c]["Color"] = "more slots than room"
+                        solution[0][c]["Color"] = "Red"
                         flagc = False
                     c += 1
     flagc = True
@@ -504,9 +514,7 @@ def evolutionary_algorithm():
                         solution[0][c]["Examiner"] == Examiner
                         and solution[0][c]["Time"] == l[i]
                     ):
-                        solution[0][c][
-                            "Color"
-                        ] = "slot of examiner in external constraint"
+                        solution[0][c]["Color"] = "Red"
                         flagc = False
                     c += 1
     flagc = True
@@ -537,7 +545,7 @@ def evolutionary_algorithm():
                     and solution[0][k]["Time"] >= u
                     and solution[0][k]["Time"] < ue
                 ):
-                    solution[0][k]["Color"] = "Red 1"
+                    solution[0][k]["Color"] = "Red"
 
         for Examiner in solution[1]:
             for day in range(days):
@@ -553,7 +561,7 @@ def evolutionary_algorithm():
                             and solution[0][k]["Time"] >= day * 15
                             and solution[0][k]["Time"] < (day * 15 + 15)
                         ):
-                            solution[0][k]["Color"] = "Red 2"
+                            solution[0][k]["Color"] = "Red"
 
     examiners = [""] * slots
     numberofexaminers = [0] * slots
