@@ -52,10 +52,10 @@ function InternalConst() {
   ];
 
   const loadExaminars = (searchExaminar) => {
-    return axios.get(`http://${ipAddr}/allExternals/`).then((res) => {
+    return axios.get(`http://${ipAddr}/allInternals/`).then((res) => {
       let list = [];
       console.log(res.data);
-      res.data["externals"].forEach((ex) =>
+      res.data["internals"].forEach((ex) =>
         list.push({ value: ex, label: ex })
       );
       return list.filter((d) =>
@@ -65,7 +65,7 @@ function InternalConst() {
   };
 
   const loadDates = (searchDate) => {
-    return axios.get(`http://${ipAddr}/allExternals/`).then((res) => {
+    return axios.get(`http://${ipAddr}/allInternals/`).then((res) => {
       const exams = res.data["dates"];
       setDates(exams);
       let list = [];
@@ -122,8 +122,8 @@ function InternalConst() {
     res[SelectedExaminar.value] = tmplist;
     console.log("Done with temp");
     console.log(tmplist);
-    axios.post(`http://${ipAddr}/external/`, res);
-    toast("Examiner constraints successfully added!");
+    axios.post(`http://${ipAddr}/internal/`, res);
+    toast("Internal constraints successfully added!");
   };
 
   const go = (event) => {

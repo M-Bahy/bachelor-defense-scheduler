@@ -80,6 +80,22 @@ def external(request):
         return Response({"data": inputData}, status=status.HTTP_200_OK)
 
 
+@api_view(["POST"])
+def internal(request):
+    if request.method == "POST":
+        with open("InputData.json", "r") as read_file:
+            inputData = json.load(read_file)
+        print(inputData[2])
+        ename = list(request.data.keys())[0]
+        eslots = request.data[ename]
+        inputData[2][ename] = eslots
+        json_object = json.dumps(inputData, indent=4)
+        with open("InputData.json", "w") as outfile:
+            outfile.write(json_object)
+
+        return Response(inputData)
+
+
 @api_view(["GET"])
 def getAllExternals(request):
     if request.method == "GET":
@@ -95,6 +111,25 @@ def getAllExternals(request):
         ) = dt.load_data("InputData.json")
         return Response(
             {"externals": external, "dates": dates}, status=status.HTTP_200_OK
+        )
+
+
+@api_view(["GET"])
+def getAllInternals(request):
+    if request.method == "GET":
+        (
+            defense,
+            rooms,
+            external_constraints,
+            supervisor_constraints,
+            external,
+            supervisor,
+            ex,
+            dates,
+        ) = dt.load_data("InputData.json")
+        return Response(
+            {"internals": supervisor, "dates": dates},
+            status=status.HTTP_200_OK,
         )
 
 

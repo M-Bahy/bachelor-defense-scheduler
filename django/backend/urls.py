@@ -18,15 +18,17 @@ from django.urls import path
 from backend import views
 
 urlpatterns = [
-    path('',views.uploadFile),
-    path('admin/', admin.site.urls),
-    path('upload-file/', views.uploadFile),
-    path('downloadFile/', views.downloadFile),
-    path('external/', views.external),
-    path('allExternals/', views.getAllExternals),
-    path('student/', views.student),
-    path('supervisor/', views.supervisor),
-    path('allSupervisors/', views.getAllSupervisors),
-    path('generate/', views.generate),
-    path('get_iterations/', views.get_iterations),
+    path("", views.uploadFile),
+    path("admin/", admin.site.urls),
+    path("upload-file/", views.uploadFile),
+    path("downloadFile/", views.downloadFile),
+    path("external/", views.external),
+    path("allExternals/", views.getAllExternals),
+    path("student/", views.student),
+    path("supervisor/", views.supervisor),
+    path("allSupervisors/", views.getAllSupervisors),
+    path("generate/", views.generate),
+    path("get_iterations/", views.get_iterations),
+    path("allInternals/", views.getAllInternals),
+    path("internal/", views.internal),
 ]
