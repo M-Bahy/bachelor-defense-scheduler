@@ -460,7 +460,9 @@ def evolutionary_algorithm():
                         solution[0][c]["Examiner"] == Examiner
                         and solution[0][c]["Time"] == i
                     ):
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c][
+                            "Color"
+                        ] = "more than 2 per slot for examiner"
                         flagc = False
                     c += 1
     flagc = True
@@ -477,7 +479,9 @@ def evolutionary_algorithm():
                         solution[0][c]["Supervisor"] == Supervisor
                         and solution[0][c]["Time"] == i
                     ):
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c][
+                            "Color"
+                        ] = "more than 2 per slot for supervisor"
                         flagc = False
                     c += 1
     flagc = True
@@ -494,7 +498,7 @@ def evolutionary_algorithm():
                 c = 0
                 while flagc:
                     if solution[0][c]["Time"] == slot:
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c]["Color"] = "more slots than room"
                         flagc = False
                     c += 1
     flagc = True
@@ -514,7 +518,9 @@ def evolutionary_algorithm():
                         solution[0][c]["Examiner"] == Examiner
                         and solution[0][c]["Time"] == l[i]
                     ):
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c][
+                            "Color"
+                        ] = "Examiner assigned in his day off"
                         flagc = False
                     c += 1
     flagc = True
@@ -545,7 +551,9 @@ def evolutionary_algorithm():
                     and solution[0][k]["Time"] >= u
                     and solution[0][k]["Time"] < ue
                 ):
-                    solution[0][k]["Color"] = "Red"
+                    solution[0][k][
+                        "Color"
+                    ] = "Examiner assigned for more than 2 days"
 
         for Examiner in solution[1]:
             for day in range(days):
@@ -561,7 +569,32 @@ def evolutionary_algorithm():
                             and solution[0][k]["Time"] >= day * 15
                             and solution[0][k]["Time"] < (day * 15 + 15)
                         ):
-                            solution[0][k]["Color"] = "Red"
+                            solution[0][k][
+                                "Color"
+                            ] = "Examiner assigned for less than 3 slots per day or more than 10 slots per day"
+
+    # internal in his day off
+    for Examiner in solution[2]:
+        l = []
+        for g in solution[5][Examiner]:
+            if solution[5][Examiner][g] == 1:
+                l.append(g)
+        for i in range(len(l)):
+            flagc = True
+            c = 0
+            if solution[2][Examiner][l[i]] >= 1:
+                while flagc:
+                    if (
+                        solution[0][c]["Supervisor"] == Examiner
+                        and solution[0][c]["Time"] == l[i]
+                    ):
+                        solution[0][c][
+                            "Color"
+                        ] = "Supervisor assigned in his day off"
+                        flagc = False
+                    c += 1
+    flagc = True
+    c = 0
 
     examiners = [""] * slots
     numberofexaminers = [0] * slots
