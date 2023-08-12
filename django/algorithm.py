@@ -509,9 +509,27 @@ def evolutionary_algorithm():
         for g in solution[4][Examiner]:
             if solution[4][Examiner][g] == 1:
                 l.append(g)
+        print(
+            "The L is : \n",
+            l,
+            "\n",
+            "and its length is : ",
+            "\n",
+            len(l),
+            "\n",
+        )
         for i in range(len(l)):
             flagc = True
             c = 0
+            print(
+                "The argument is : ",
+                "\n",
+                solution[1][Examiner][l[i]],
+                "\n",
+                "and its length is : ",
+                "\n",
+                len(solution[1][Examiner][l[i]]),
+            )
             if len(solution[1][Examiner][l[i]]) >= 1:
                 while flagc:
                     if (
@@ -595,6 +613,16 @@ def evolutionary_algorithm():
                     c += 1
     flagc = True
     c = 0
+
+    count = 0
+    with open("Inspected solution.txt", "w") as f:
+        for i in solution:
+            f.write("\n")
+            f.write("\n")
+            f.write(f"At index : {count} : ")
+            f.write("\n")
+            f.write(str(i))
+            count += 1
 
     examiners = [""] * slots
     numberofexaminers = [0] * slots
