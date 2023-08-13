@@ -460,7 +460,9 @@ def evolutionary_algorithm():
                         solution[0][c]["Examiner"] == Examiner
                         and solution[0][c]["Time"] == i
                     ):
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c][
+                            "Color"
+                        ] = "more than 2 per slot for examiner"
                         flagc = False
                     c += 1
     flagc = True
@@ -477,7 +479,9 @@ def evolutionary_algorithm():
                         solution[0][c]["Supervisor"] == Supervisor
                         and solution[0][c]["Time"] == i
                     ):
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c][
+                            "Color"
+                        ] = "more than 2 per slot for supervisor"
                         flagc = False
                     c += 1
     flagc = True
@@ -494,7 +498,7 @@ def evolutionary_algorithm():
                 c = 0
                 while flagc:
                     if solution[0][c]["Time"] == slot:
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c]["Color"] = "more slots than room"
                         flagc = False
                     c += 1
     flagc = True
@@ -502,21 +506,58 @@ def evolutionary_algorithm():
     # slot of examiner in external constraint
     for Examiner in solution[1]:
         l = []
+        check = []
+        position = 0
         for g in solution[4][Examiner]:
             if solution[4][Examiner][g] == 1:
                 l.append(g)
-        for i in range(len(l)):
+                check.append(position)
+            position += 1
+        for index in check:
             flagc = True
             c = 0
-            if len(solution[1][Examiner][l[i]]) >= 1:
+            if (
+                len(solution[1][Examiner][index]) >= 1
+                and solution[4][Examiner][index] == 1
+            ):
+                print(
+                    "There is a violation in external constraint for examiner"
+                )
                 while flagc:
                     if (
                         solution[0][c]["Examiner"] == Examiner
-                        and solution[0][c]["Time"] == l[i]
+                        and solution[0][c]["Time"] == index
                     ):
-                        solution[0][c]["Color"] = "Red"
+                        solution[0][c][
+                            "Color"
+                        ] = "Examiner assigned in his day off"
                         flagc = False
                     c += 1
+
+        # for i in range(len(l)):
+        #     flagc = True
+        #     c = 0
+        #     # print(
+        #     #     "The argument is : ",
+        #     #     "\n",
+        #     #     solution[1][Examiner][l[i]],
+        #     #     "\n",
+        #     #     "and its length is : ",
+        #     #     "\n",
+        #     #     len(solution[1][Examiner][l[i]]),
+        #     # )
+        #     if len(solution[1][Examiner][i]) >= 1 and check[i] == 1:
+        #         while flagc:
+        #             if (
+        #                 solution[0][c]["Examiner"] == Examiner
+        #                 and solution[0][c]["Time"] == l[i]
+        #             ):
+        #                 solution[0][c][
+        #                     "Color"
+        #                 ] = "Examiner assigned in his day off"
+        #                 flagc = False
+        #             c += 1
+
     flagc = True
     c = 0
 
@@ -545,15 +586,19 @@ def evolutionary_algorithm():
                     and solution[0][k]["Time"] >= u
                     and solution[0][k]["Time"] < ue
                 ):
-                    solution[0][k]["Color"] = "Red"
+                    solution[0][k][
+                        "Color"
+                    ] = "Examiner assigned for more than 2 days"
 
         for Examiner in solution[1]:
             for day in range(days):
                 temp1 = 0
                 for slot in range(15):
                     time1 = day * 15 + slot
+                    print(f"the time is {time1}")
                     if len(solution[1][Examiner][time1]) >= 1:
                         temp1 += 1
+                print(f"{Examiner} has {temp1} slots in day {day}")
                 if temp1 > 10 or (temp1 < 3 and temp1 > 0):
                     for k in range(len(solution[0])):
                         if (
@@ -561,7 +606,74 @@ def evolutionary_algorithm():
                             and solution[0][k]["Time"] >= day * 15
                             and solution[0][k]["Time"] < (day * 15 + 15)
                         ):
-                            solution[0][k]["Color"] = "Red"
+                            solution[0][k][
+                                "Color"
+                            ] = "Examiner assigned for less than 3 slots per day or more than 10 slots per day"
+    flagc = True
+    c = 0
+    # internal in his day off
+
+    for Examiner in solution[2]:
+        l = []
+        check = []
+        position = 0
+        for g in solution[5][Examiner]:
+            if solution[5][Examiner][g] == 1:
+                l.append(g)
+                check.append(position)
+            position += 1
+        for index in check:
+            flagc = True
+            c = 0
+            if (
+                solution[2][Examiner][index] >= 1
+                and solution[5][Examiner][index] == 1
+            ):
+                print(
+                    "There is a violation in external constraint for examiner"
+                )
+                while flagc:
+                    if (
+                        solution[0][c]["Supervisor"] == Examiner
+                        and solution[0][c]["Time"] == index
+                    ):
+                        solution[0][c][
+                            "Color"
+                        ] = "Supervisor assigned in his day off"
+                        flagc = False
+                    c += 1
+
+    # for Examiner in solution[2]:
+    #     l = []
+    #     for g in solution[5][Examiner]:
+    #         if solution[5][Examiner][g] == 1:
+    #             l.append(g)
+    #     for i in range(len(l)):
+    #         flagc = True
+    #         c = 0
+    #         if solution[2][Examiner][l[i]] >= 1:
+    #             while flagc:
+    #                 if (
+    #                     solution[0][c]["Supervisor"] == Examiner
+    #                     and solution[0][c]["Time"] == l[i]
+    #                 ):
+    #                     solution[0][c][
+    #                         "Color"
+    #                     ] = "Supervisor assigned in his day off"
+    #                     flagc = False
+    #                 c += 1
+    flagc = True
+    c = 0
+
+    count = 0
+    with open("Inspected solution.txt", "w") as f:
+        for i in solution:
+            f.write("\n")
+            f.write("\n")
+            f.write(f"At index : {count} : ")
+            f.write("\n")
+            f.write(str(i))
+            count += 1
 
     examiners = [""] * slots
     numberofexaminers = [0] * slots
