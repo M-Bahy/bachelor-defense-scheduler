@@ -451,6 +451,26 @@ def evolutionary_algorithm():
     c = 0
 
     # the slots of the least working day for the examiner
+
+    for Examiner in solution[1]:
+        for day in range(days):
+            temp1 = 0
+            for slot in range(15):
+                time1 = day * 15 + slot
+                print(f"the time is {time1}")
+                if len(solution[1][Examiner][time1]) >= 1:
+                    temp1 += 1
+            print(f"{Examiner} has {temp1} slots in day {day}")
+            if temp1 > 10 or (temp1 < 3 and temp1 > 0):
+                for k in range(len(solution[0])):
+                    if (
+                        solution[0][k]["Examiner"] == Examiner
+                        and solution[0][k]["Time"] >= day * 15
+                        and solution[0][k]["Time"] < (day * 15 + 15)
+                    ):
+                        solution[0][k][
+                            "Color"
+                        ] = "Examiner assigned for less than 3 slots per day or more than 10 slots per day"
     for Examiner in solution[1]:
         working_days = 0
         min = 13
@@ -478,26 +498,6 @@ def evolutionary_algorithm():
                     solution[0][k][
                         "Color"
                     ] = "Examiner assigned for more than 2 days"
-
-        for Examiner in solution[1]:
-            for day in range(days):
-                temp1 = 0
-                for slot in range(15):
-                    time1 = day * 15 + slot
-                    print(f"the time is {time1}")
-                    if len(solution[1][Examiner][time1]) >= 1:
-                        temp1 += 1
-                print(f"{Examiner} has {temp1} slots in day {day}")
-                if temp1 > 10 or (temp1 < 3 and temp1 > 0):
-                    for k in range(len(solution[0])):
-                        if (
-                            solution[0][k]["Examiner"] == Examiner
-                            and solution[0][k]["Time"] >= day * 15
-                            and solution[0][k]["Time"] < (day * 15 + 15)
-                        ):
-                            solution[0][k][
-                                "Color"
-                            ] = "Examiner assigned for less than 3 slots per day or more than 10 slots per day"
     flagc = True
     c = 0
 

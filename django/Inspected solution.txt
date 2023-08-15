@@ -1,22 +1,22 @@
 
 
 At index : 0 : 
-[{'Examiner': 'external1', 'Supervisor': 'internal1', 'Student': '49-14632', 'Studentname': 'A', 'Studentemail': 'e1', 'Topic': 't1', 'Time': 2, 'Room': '1'}, {'Examiner': 'external1', 'Supervisor': 'internal2', 'Student': '32-17306', 'Studentname': 'B', 'Studentemail': 'e2', 'Topic': 't2', 'Time': 8, 'Room': '1'}, {'Examiner': 'external1', 'Supervisor': 'internal3', 'Student': '49-14633', 'Studentname': 'C', 'Studentemail': 'e3', 'Topic': 't3', 'Time': 6, 'Room': '1'}, {'Examiner': 'external1', 'Supervisor': 'internal3', 'Student': '49-14633', 'Studentname': 'C', 'Studentemail': 'e3', 'Topic': 't3', 'Time': 4, 'Room': '1'}]
+[{'Examiner': 'external1', 'Supervisor': 'internal1', 'Student': '49-14632', 'Studentname': 'A', 'Studentemail': 'e1', 'Topic': 't1', 'Time': 6, 'Room': '1'}, {'Examiner': 'external1', 'Supervisor': 'internal2', 'Student': '32-17306', 'Studentname': 'B', 'Studentemail': 'e2', 'Topic': 't2', 'Time': 8, 'Room': '1', 'Color': 'Examiner assigned in his day off'}, {'Examiner': 'external1', 'Supervisor': 'internal3', 'Student': '49-14633', 'Studentname': 'C', 'Studentemail': 'e3', 'Topic': 't3', 'Time': 9, 'Room': '1', 'Color': 'Examiner assigned in his day off'}, {'Examiner': 'external1', 'Supervisor': 'internal3', 'Student': '49-14633', 'Studentname': 'C', 'Studentemail': 'e3', 'Topic': 't3', 'Time': 7, 'Room': '1'}]
 
 At index : 1 : 
-{'external1': [[], [], ['1'], [], ['1'], [], ['1'], [], ['1'], [], [], [], [], [], []]}
+{'external1': [[], [], [], [], [], [], ['1'], ['1'], ['1'], ['1'], [], [], [], [], []]}
 
 At index : 2 : 
-{'internal1': [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'internal2': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0], 'internal3': [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{'internal3': [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0], 'internal1': [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0], 'internal2': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
 
 At index : 3 : 
-{'1': [0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{'1': [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]}
 
 At index : 4 : 
-{'external1': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{'external1': [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]}
 
 At index : 5 : 
-{'internal1': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'internal2': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'internal3': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{'internal3': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'internal1': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'internal2': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 
 At index : 6 : 
 {'external1': 4}
