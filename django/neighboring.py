@@ -7,7 +7,7 @@ from copy import deepcopy
 def neighbor(solution, flag1, days, slots):
     candidates = []
 
-    for Examiner in solution[1]:
+    for Examiner in solution[1]:  # check if <3 or >10 slots in a day
         for day in range(days):
             temp1 = 0
             for slot in range(15):
@@ -23,7 +23,7 @@ def neighbor(solution, flag1, days, slots):
                     ):
                         candidates.append((k, "maxAndMin"))
 
-    for Examiner in solution[1]:
+    for Examiner in solution[1]:  # check if examiner has more than 2 days
         working_days = 0
         for day in range(days):
             for slot in range(15):
@@ -39,7 +39,7 @@ def neighbor(solution, flag1, days, slots):
                             ):
                                 candidates.append((k, "moreThan2Days"))
                     break
-
+    # check if assignments are more than rooms in a given time slot
     for slot in range(slots):
         x1 = 0
         w = []
@@ -53,6 +53,7 @@ def neighbor(solution, flag1, days, slots):
 
     for i in range(len(solution[0])):
         w = solution[0][i]["Time"]
+        # byshoof law fe 2 slot 2bleha aw 1 slot b3deha
         if not (w - 2 < 0 or w + 2 >= slots):
             if (
                 not (

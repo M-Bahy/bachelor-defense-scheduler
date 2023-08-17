@@ -289,9 +289,9 @@ def evolutionary_algorithm():
     num_runs = 1
     best_timetable = None
     data = dt.load_data("InputData.json")
-    dates = data[7]
-    days = len(dates)
-    slots = len(dates) * 15
+    dates = data[7]  # 3/3/2023  , 4/3/2023
+    days = len(dates)  # 2
+    slots = len(dates) * 15  # 2 X 15 = 30
     neighbor = (
         neighboring.neighbor
     )  # call the neighbor function from neighboring file
