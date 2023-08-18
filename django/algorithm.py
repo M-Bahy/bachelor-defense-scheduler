@@ -667,16 +667,6 @@ def evolutionary_algorithm():
     flagc = True
     c = 0
 
-    count = 0
-    with open("Inspected solution.txt", "w") as f:
-        for i in solution:
-            f.write("\n")
-            f.write("\n")
-            f.write(f"At index : {count} : ")
-            f.write("\n")
-            f.write(str(i))
-            count += 1
-
     examiners = [""] * slots
     numberofexaminers = [0] * slots
     p = [""] * len(solution[7])
@@ -765,5 +755,15 @@ def evolutionary_algorithm():
     jsonFile.write(final)
     jsonFile.close()
     Outputcreation.Create_output()
+
+    count = 0
+    with open("Inspected solution.txt", "w") as f:
+        for i in solution:
+            f.write("\n")
+            f.write("\n")
+            f.write(f"At index : {count} : ")
+            f.write("\n")
+            f.write(str(i))
+            count += 1
 
     return solution
