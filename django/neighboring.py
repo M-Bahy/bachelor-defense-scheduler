@@ -256,9 +256,9 @@ def neighbor(solution, flag1, days, slots):
         mwday = 0
         for slot in range(15):
             if solution[4][selected_examiner][(day * 15) + slot] == 1:
-                continue
+                continue  # examiner in his day off
             if slot % 5 == 0 and not (slot % 3 == 0):
-                continue
+                continue  # break slot
             if len(solution[1][selected_examiner][(day * 15) + slot]) >= 1:
                 noOfSlots += 1
             # >12 then all slots in one day

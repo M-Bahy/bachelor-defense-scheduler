@@ -284,7 +284,7 @@ def evolutionary_algorithm():
     Then it changes the value of the solution to the new solution.
     It checks for hard constraints such as the number of examiners, supervisors, and classrooms per slot and continuity of the schedule.
     """
-    f = True
+    # f = True
     max_generations = 2000
     num_runs = 1
     best_timetable = None
@@ -308,20 +308,20 @@ def evolutionary_algorithm():
             days,
             slots,
         )  # generate a solution by creating the first timetable by random
-        index = 0
-        if f:
-            print("The solution is : ")
-            for x in solution:
-                print()
-                print()
-                print(f"At index {index}")
-                print()
-                print("The value is : ")
-                print(x)
-                print()
-                print()
-                index += 1
-            f = False
+        # index = 0
+        # if f:
+        #     print("The solution is : ")
+        #     for x in solution:
+        #         print()
+        #         print()
+        #         print(f"At index {index}")
+        #         print()
+        #         print("The value is : ")
+        #         print(x)
+        #         print()
+        #         print()
+        #         index += 1
+        #     f = False
         flag = False
         c = 0
         for j in range(max_generations):
@@ -457,10 +457,10 @@ def evolutionary_algorithm():
             temp1 = 0
             for slot in range(15):
                 time1 = day * 15 + slot
-                print(f"the time is {time1}")
+                # print(f"the time is {time1}")
                 if len(solution[1][Examiner][time1]) >= 1:
                     temp1 += 1
-            print(f"{Examiner} has {temp1} slots in day {day}")
+            # print(f"{Examiner} has {temp1} slots in day {day}")
             if temp1 > 10 or (temp1 < 3 and temp1 > 0):
                 for k in range(len(solution[0])):
                     if (

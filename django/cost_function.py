@@ -51,12 +51,19 @@ def cost(solution, days, slots):
     for Examiner in solution[1]:
         l = []
         for c in solution[4][Examiner]:
-            if solution[4][Examiner][c] == 1:
-                l.append(c)
+            l.append(c)
         for i in range(len(l)):
-            if len(solution[1][Examiner][l[i]]) >= 1:
+            if len(solution[1][Examiner][i]) >= 1 and l[i] == 1:
                 examiner_cost += 1
                 # print("Examiner time constraint violated")
+    for Supervisor in solution[2]:
+        l = []
+        for c in solution[5][Supervisor]:
+            l.append(c)
+        for i in range(len(l)):
+            if solution[2][Supervisor][i] >= 1 and l[i] == 1:
+                supervisor_cost += 1
+                # print("Supervisor time constraint violated")
 
     # Examiner has more than 2 days
     for Examiner in solution[1]:
@@ -72,15 +79,15 @@ def cost(solution, days, slots):
     # print("Examiner has more than 2 days violated")
 
     # Time cosntraints
-    for Examiner in solution[1]:
-        for day in range(days):
-            for slot in range(15):
-                time = day * 15 + slot
-                if (
-                    len(solution[1][Examiner][time]) >= 1
-                    and solution[4][Examiner][time] == 1
-                ):
-                    examiner_cost += 1
+    # for Examiner in solution[1]:
+    #     for day in range(days):
+    #         for slot in range(15):
+    #             time = day * 15 + slot
+    #             if (
+    #                 len(solution[1][Examiner][time]) >= 1
+    #                 and solution[4][Examiner][time] == 1
+    #             ):
+    #                 examiner_cost += 1
 
     # less than 3 or more than 10 slots per day
 
