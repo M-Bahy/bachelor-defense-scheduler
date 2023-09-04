@@ -4,6 +4,7 @@ from rest_framework import status
 import data as dt
 import json
 import algorithm as algo
+from new_algorithm import create
 from Inputcreation import Create_input
 from django.http import HttpResponse
 
@@ -43,6 +44,14 @@ def generate(request):
             if i.get("color") == "Red":
                 res.append(i)
         return Response(w, status=status.HTTP_200_OK)
+
+
+@api_view(["POST"])
+def new_algo(request):
+    if request.method == "POST":
+        answer = None
+        answer = create()
+        return Response(answer, status=status.HTTP_200_OK)
 
 
 @api_view(["GET"])
