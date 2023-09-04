@@ -645,25 +645,6 @@ def evolutionary_algorithm():
                         flagc = False
                     c += 1
 
-    # for Examiner in solution[2]:
-    #     l = []
-    #     for g in solution[5][Examiner]:
-    #         if solution[5][Examiner][g] == 1:
-    #             l.append(g)
-    #     for i in range(len(l)):
-    #         flagc = True
-    #         c = 0
-    #         if solution[2][Examiner][l[i]] >= 1:
-    #             while flagc:
-    #                 if (
-    #                     solution[0][c]["Supervisor"] == Examiner
-    #                     and solution[0][c]["Time"] == l[i]
-    #                 ):
-    #                     solution[0][c][
-    #                         "Color"
-    #                     ] = "Supervisor assigned in his day off"
-    #                     flagc = False
-    #                 c += 1
     flagc = True
     c = 0
 
