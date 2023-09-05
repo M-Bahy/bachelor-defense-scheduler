@@ -55,6 +55,14 @@ def new_algo(request):
 
 
 @api_view(["GET"])
+def download_file(request):
+    if request.method == "GET":
+        f = open("Solution1.csv", "r")
+        response = HttpResponse(f.read(), content_type="text/csv")
+        return response
+
+
+@api_view(["GET"])
 def get_iterations(request):
     if request.method == "GET":
         iterations = algo.get_iterations()

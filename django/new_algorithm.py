@@ -3,10 +3,12 @@ import os
 import json
 import csv
 import math
+import random
 
 
 def create():
     infile = None
+    go = 25
     if os.path.exists("InputData.json"):
         infile = "InputData.json"
     else:
@@ -15,7 +17,7 @@ def create():
     dates = data[7]  # 3/3/2023  , 4/3/2023
     days = len(dates)  # 2
     slots = len(dates) * 15  # 2 X 15 = 30
-    solution = dt.generate_solution(
+    solution1 = dt.generate_solution(
         data[0],
         data[1],
         data[4],
@@ -26,34 +28,68 @@ def create():
         days,
         slots,
     )
-    solution = checks(solution, days, slots)
-    solution = write_output(solution, data, 1)
-    prof = profile(solution)
-    solution2 = dt.generate_solution(
-        data[0],
-        data[1],
-        data[4],
-        data[5],
-        data[2],
-        data[3],
-        data[6],
-        days,
-        slots,
-    )
-    solution2 = checks(solution2, days, slots)
-    solution2 = write_output(solution2, data, 2)
-    prof2 = profile(solution2)
-    print(f"Profile 1 is : \n {prof}")
-    print("--------------------------------------------------")
-    print(f"Profile 2 is : \n {prof2}")
-    print("--------------------------------------------------")
-    for examiner in prof:
-        first_percentage = float(prof[examiner].replace("%", ""))
-        second_percentage = float(prof2[examiner].replace("%", ""))
-        if second_percentage < first_percentage:
-            print(f"Examiner {examiner} is better in solution 2")
-        else:
-            print(f"Examiner {examiner} is better in solution 1")
+    solution1 = checks(solution1, days, slots)
+    # solution1 = write_output(solution1, data, 1)
+    for i in range(1000):
+        prof1 = profile(solution1)
+        first_good, first_bad = judge(prof1)
+        should_print = random.choice([True, False])
+        if should_print:
+            # if go > 0:
+            print(f"First Good: {first_good} , First Bad: {first_bad}")
+        solution2 = dt.generate_solution(
+            data[0],
+            data[1],
+            data[4],
+            data[5],
+            data[2],
+            data[3],
+            data[6],
+            days,
+            slots,
+        )
+        solution2 = checks(solution2, days, slots)
+        # solution2 = write_output(solution2, data, 2)
+        prof2 = profile(solution2)
+        should_print = random.choice([True, False])
+        second_good, second_bad = judge(prof2)
+        if should_print:
+            # if go > 0:
+            print(f"Second Good: {second_good} , Second Bad: {second_bad}")
+            go -= 1
+        better = {}
+        for examiner in prof1:
+            first_percentage = float(prof1[examiner].replace("%", ""))
+            second_percentage = float(prof2[examiner].replace("%", ""))
+            if second_percentage < first_percentage:
+                better[examiner] = 2
+            elif second_percentage > first_percentage:
+                better[examiner] = 1
+            else:
+                choice = math.floor(random.random() * 2) + 1
+                better[examiner] = choice
+        template = create_template(solution1, slots)
+
+        for examiner in better:
+            best = better[examiner]
+            if best == 1:
+                for index in solution1[0]:
+                    if index["Examiner"] == examiner:
+                        template = assign(template, index)
+            else:
+                for index in solution2[0]:
+                    if index["Examiner"] == examiner:
+                        template = assign(template, index)
+        solution1 = template
+        solution1 = checks(solution1, days, slots)
+    solution1 = write_output(solution1, data, 1)
+    answer = profile(solution1)
+    final_good, final_bad = judge(answer)
+    with open("why.txt", "a") as f:
+        f.write(f"Good: {final_good} , Bad: {final_bad}\n")
+    print("Done")
+    print(f"Final Good: {final_good} , Final Bad: {final_bad}\n")
+    return solution1
 
 
 def checks(solution, days, slots):
@@ -317,4 +353,51 @@ def Create_output(number):
     return
 
 
-create()
+def create_template(solution1, slots):
+    template = [[], {}, {}, {}, {}, {}, {}, []]
+    template[4] = solution1[4]
+    template[5] = solution1[5]
+    template[6] = solution1[6]
+    template[7] = solution1[7]
+    for room in template[7]:
+        template[3][room] = [0] * slots
+    for internal in template[5]:
+        template[2][internal] = [0] * slots
+    for external in template[4]:
+        template[1][external] = []
+        for i in range(slots):
+            template[1][external].append([])
+    return template
+
+
+def assign(template, index):
+    index.pop("Color", None)
+    template[0].append(index)
+    external = index["Examiner"]
+    internal = index["Supervisor"]
+    time = index["Time"]
+    room = index["Room"]
+    for target in template[1]:
+        if target == external:
+            template[1][target][time].append(room)
+    for target in template[2]:
+        if target == internal:
+            template[2][target][time] += 1
+    for target in template[3]:
+        if target == room:
+            template[3][target][time] += 1
+    return template
+
+
+def judge(profile):
+    good = 0
+    bad = 0
+    for examiner in profile:
+        if float(profile[examiner].replace("%", "")) <= 30:
+            good += 1
+        else:
+            bad += 1
+    return good, bad
+
+
+# create()
