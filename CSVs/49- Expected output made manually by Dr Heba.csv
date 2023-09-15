@@ -1,0 +1,503 @@
+Ser.,Student Name,Topic Title,GUC Supervisor,External Reviewer Name,Defense Date,Defense Time,Defense Location,Exam days to be Blocked,Extra Notes
+1,Tarteel Abdelfattah Abdelfattah Ibrahim Elattar, Egyptian License Plate recognition in vehicles and motorcycles ,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Magdy Aboelela,Sunday 25th of June 2023,01:00 - 01:30,C5.201,,
+2,Youssef Mohamed Bahei Elsayed Abdelatty, License Plate Detection and Recognition,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Magdy Aboelela,Wednesday 21st of June 2023,01:00 - 01:30,C5.206,,
+3,Ziyad Zohair Abdelraouf Fahmy,(Offline) Visual Matching of Hand-drawn Entities ,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,09:00 - 09:30,C5.202,,
+4,Mostafa Akram Mohamed Abdelrahman,(Rough) Formal Description of Hand-drawn Sketches: hand-drawn to symbolic,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,09:30 - 10:00,C5.202,,
+5,Abdelrhman Yaser Mohamed Mohamed Aly Yousef,(Rough) Formal Description of Hand-drawn Sketches: symbolic to hand-drawn,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,12:00 - 12:30,C5.202,,
+6,Nouran Atef Talat Mohamed Mohamed Fayad,2D realistic unity supermarket with market basket analysis,Dr. Milad Michel Ghantous ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,11:00 - 11:30,C5.202,,
+7,Ahmad Haytham Omar Aboelshawareb Mohamed Ragheb,3D Face Construction from Multiple Face images,Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,09:00 - 09:30,C5.208,,
+8,Mina Shady Mourad Kamel,3D Mesh Model Generation form 2D Images for Small Furniture Items,Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,09:30 - 10:00,C5.208,,
+9,Ali Ahmed Samy Saad Aly Shaheen,3D Model Reconstruction from 2D images Using Graph Neural Networks - CoSupervised Dr Ahmed Abdelfattah,Dr. Mohammed Abdel Megeed Salem ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,10:00 - 10:30,C5.202,,
+10,Karim Ahmed Abdelaziz Ahmed Mahmoud,3D reconstruction of human characters,Dr. Rimon . Elias ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,12:00 - 12:30,C5.201,,
+11,Sonia Medhat Mohamed Ahmed Elshamy,3D reconstruction of statues using 2D images and deep learning,Dr. Rimon . Elias ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,12:30 - 01:00,C5.201,,
+12,Jack Amir Zoser Nashed Bebawy,3D segmentation using deep learning,Dr. Rimon . Elias ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,11:30 - 12:00,C5.202,,
+13,Shahd Mostafa Elsayed Mostafa Elawad,A Cybersecurity Framework using Cryptography & Deep Steganography,Dr. Maggie Ahmed Ezzat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,03:00 - 03:30,C5.204,,
+14,Sara Sherif Kamal Hassan,A Dataset Generation Framework for Explainable Movie Recommender Systems,Miss Nourhan Ehab Azab ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,12:30 - 01:00,C5.205,,
+15,Roberto Joseph Nabil Selim,A deep Learning Approach for Answer Selection,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,09:00 - 09:30,C5.208,,
+16,Ahmed Osama Ramadan Mitwalli,A Deep Learning Approach for Computer-Aided Diagnosis,Dr. Gamal Abdel Shafy ,Dr. Walaa Ibrahim Gabr,Wednesday 21st of June 2023,02:30 - 03:00,C5.212,,
+17,Ahmed Amr Ahmed Elgendi,A Deep Learning Approach for Intelligent Intrusion Detection,Dr. Gamal Abdel Shafy ,Dr. Tamer Mostafa,Sunday 25th of June 2023,02:30 - 03:00,C5.206,,
+18,Mahmoud Khaled Abdelrahim Abdelghaffar,A Deep Learning Approach for Pectoral Muscle Removal in Breast Cancer Diagnosis,Dr. Gamal Abdel Shafy ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 26th of June 2023,10:30 - 11:00,C5.201,,
+19,Adam Nizar Fathy Mostafa,A Deep Learning Model for Identifying Plants from Digital Images,Dr. Gamal Abdel Shafy ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,03:00 - 03:30,C5.201,,
+20,Osama Mohamed Elsaied Awad Sayed Ahmed,A Deep-Learning Approach for Data Mining in Social Networks,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,09:30 - 10:00,C5.208,,
+21,Ahmed Hamdy Sayed Hussein Elkallawy,A machine learning treatment of the graph coloring problem,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,12:30 - 01:00,C5.202,,
+22,Aser Ashraf Mohamed Ali Ali,A medical device for early detection of melanoma,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,09:00 - 09:30,C5.211,,
+23,Mostafa Mohamed Mostafa Abdelrahman Sherif,A modern treatment of graph-based problems: heuristics for the easy tasks ,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,10:30 - 11:00,C5.204,,
+24,Michel Raouf Ramzy Iskander,A Neuro-Symbolic Recommender System,Miss Nourhan Ehab Azab ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,09:00 - 09:30,C5.204,,
+25,Aya Ahmed Mohamed Abdelrahman,A scheduling app for GUC professors staff and students,Dr. Milad Michel Ghantous ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,08:30 - 09:00,C5.201,,
+26,Nourhan Ahmed Hossein Mostafa Khedr,A Simulator for Rescue Scenarios in Disaster Zones,Miss Nourhan Ehab Azab ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,09:00 - 09:30,C5.201,,
+27,Muhammad Hany Mohamed Bakr Mohamed Khalil Ghaly,A Study on Reading Text in the Periphery,Dr. Wael  Mohamed AbulSadat ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,12:30 - 01:00,C5.202,,
+28,Menatallah Hassan Ahmed Mohamed Abdullah,Abduction in LogAG,Dr. Haytham Osman Ismail ,N.N.,,,,,
+29,Moataz Tarek Hosny Amin,Adaptive Swarm Robots: algorithms ,Dr. Hassan . Soubra ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,09:00 - 09:30,C5.202,,
+30,Ingy Ashraf Rezkalla Fam,Adaptive Swarm Robots: human psychology,Dr. Hassan . Soubra ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,01:30 - 02:00,C5.208,,
+31,Nora Osama Ali Marei Khalifa,Adaptive Swarm Robots: reconfiguration,Dr. Hassan . Soubra ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 26th of June 2023,12:30 - 01:00,C5.201,,
+32,Ibrahim Abouelenein Ibrahim Abouelenein,Adding Events to LogAS,Dr. Haytham Osman Ismail ,N.N.,,,,,
+33,Mina Ehab Sadek Ibrahim Khalil,AI for Safe Transportation: Use Case on Smart Cities (Dell/MCIT Hackathon) ,Dr. Maggie Ahmed Ezzat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,03:30 - 04:00,C5.204,,
+34,Youssef Atef Mourad Gad,Algorithms for Conjunctive Queries,Dr. Haytham Osman Ismail ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,09:30 - 10:00,C5.202,,
+35,Khaled Mohamed Ibrahim Eladawy Nowara,Algorithms for Inconsistency Measurement,Dr. Haytham Osman Ismail ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,09:30 - 10:00,C5.201,,
+36,Sara Tarek Kamal Elsayed Genina,An AI-Based Chatbot for People with Social and Communication Problem,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,09:30 - 10:00,C5.201,,
+37,Mohamed Osama Mohamed Abdellatif,An intelligent interviewer Bot ,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Walaa Gad,Monday 26th of June 2023,12:00 - 12:30,C5.211,,
+38,Alaaeldin Abdelwahed Rashad Sayed,Analyzing Genomic Sequences using Big-Data Analytics,Dr. Gamal Abdel Shafy ,Dr. Walaa Ibrahim Gabr,Wednesday 21st of June 2023,03:00 - 03:30,C5.212,,
+39,Mohamed Assem Ahmed Ahmed Mohamed Shoheib,Analyzing Interface Preferences based on Personal Traits: A Music Player Use Case (Co-Supervised with Assoc. Prof. Mervat Mustafa Abuelkheir),Dr. Nada Ahmed Hamed ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Thursday 15th of June 2023,10:00 - 10:30,C5.211,,
+40,Mahmoud Abdelaziz Wagdy Abdelaziz,Android application for translation office ,Dr. Rimon . Elias ,Dr. Wagdy Anis Aziz ,Saturday 17th of June 2023,09:30 - 10:00,C5.202,,
+41,Maram Hossameldeen Mohamed Ahmed,Animating human characters based on predefined scripts using Maya and MEL,Dr. Rimon . Elias ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,01:00 - 01:30,C5.201,,
+42,Adam Samy Mohamed Ali Abouelmagd,Animating human characters based on predefined scripts using Maya and Python,Dr. Rimon . Elias ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,01:30 - 02:00,C5.201,,
+43,Adham Ibrahim Saber Elahwal,Animating lips based on audio files,Dr. Rimon . Elias ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,02:00 - 02:30,C5.201,,
+44,Omar Walid Kamal Ahmed Mahmoud Mostafa,Applying Machine Learning Techniques in Cryptographic Algorithms,Dr. Gamal Abdel Shafy ,Dr. Nawal Ahmed El-Fishawy,Monday 26th of June 2023,01:00 - 01:30,C5.206,,
+45,Ahmed Mamdouh Alwasifey Mohamed Alwasifey,AR Experiment Designer,Dr. Wael  Mohamed AbulSadat ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,09:30 - 10:00,C5.201,,
+46,Maryam Sherif Hamdy Amin,AR for Embroidery Design,Dr. Wael  Mohamed AbulSadat ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,10:00 - 10:30,C5.201,,
+47,Gharam Walid Mohamed Bayoumy,Assist blind people,Dr. Wael Zakaria Abdallah ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,10:30 - 11:00,C5.205,,
+48,Eyad Emadeldin Hassan Ahmed,Audio File encryption by Asymmetric Physical Transformation (Co-Supervised with Dr. Hisham Othman) ,Dr. Amr Abdallah Abou Shousha ,Dr. Hussein Abdelaty Elsayed Mohamed,Tuesday 20th of June 2023,10:00 - 10:30,C5.204,,
+49,Mohab Hisham Ibrahim Mohamed Ibrahim,Augmented Printed Circuits,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,09:00 - 09:30,C5.205,,
+50,Amir Abdelmageed Mohamed Abdelghafor Ammar,Auto Scaling for Cloud Applications,Dr. Wagdy Anis Aziz ,Dr. Tamer Mostafa,Sunday 25th of June 2023,04:00 - 04:30,C5.206,,
+51,Mohamed Medhat Mohamed Elbehiri Abdelfatah,Autoencoder for Bearings Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,09:30 - 10:00,C5.202,,
+52,Amr Yasser Elsaeed Galal,Autoencoder for Fans Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. M. A. Moustafa Hassan,Wednesday 21st of June 2023,09:30 - 10:00,C5.205,"15.06
+17.06
+18.06
+20.06
+22.06",
+53,Youssef Ahmed Abdelhamid Ibrahim Khadragy,Autoencoder for Gearboxes Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,10:30 - 11:00,C5.202,,
+54,Youssef Ashraf Mohamed Ramzy Zaky,Autoencoder for Sliders Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,01:00 - 01:30,C5.204,,
+55,Ziad Ashraf Said Mostafa,Autoencoder for ToyCars Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,01:30 - 02:00,C5.204,,
+56,Khaled Barakat Abdelaziz Mahmoud,Autoencoder for ToyTrains Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,02:30 - 03:00,C5.204,,
+57,Abdallah Adel Saleh Amin,Autoencoder for Valves Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,09:00 - 09:30,C5.202,"18.06
+20.06
+22.06",
+58,Farah Ahmed Afifi Afifi Ahmed Ibrahim Zidan,Automatic distribution of RT tasks ,Dr. Hassan . Soubra ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,10:00 - 10:30,C5.201,,
+59,Seifeldeen Adham Mohamed Mahmoud Youssef,Automatic Generation of Hand-drawn Elementary 2D Shapes,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,01:00 - 01:30,C5.202,,
+60,Rana Ahmed Osman Mahmoud Elsaid,Automatic Generation of Hand-drawn Sketches of Specific Categories,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,01:30 - 02:00,C5.202,,
+61,Mina Samy Hannalla Tofiles,Autonomous Vehicle Path planning Based on Deep Learning,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,10:00 - 10:30,C5.201,,
+62,Omar Moataz Abdelwahed Abdelmotaleb Elmekkawy,Back of Steering Wheel Interaction Techniques,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,09:30 - 10:00,C5.205,,
+63,Eid Ahmed Eid Abdelhai Mansour,Basket Analysis Retail Analytics,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Hussein Ismail Hassan Shahin,Sunday 25th of June 2023,09:00 - 09:30,C5.212,"15.06
+17.06
+18.06
+20.06
+22.06",
+64,Abdallah Ehab Abdelfattah Alkashawy,Blockchain Security,Dr. Gamal Abdel Shafy ,Dr. Tamer Mostafa,Sunday 25th of June 2023,03:00 - 03:30,C5.206,,
+65,Akram Adel Aziz Fahim,Blockchain-based Identity Registrar,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 1st of June 2023,09:00 - 09:30,C5.311,,defense scheduled earlier - Internship abroad
+66,Mohamed Ahmed Saeed Elghazouly,Breast Cancer Detection Model Based on Machine Learning,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,10:00 - 10:30,C5.208,,
+67,Mohamed Ayman Fathy Ahmed Shalaby,Building a 3D voxel-based tracking system for hand-drawn elements (task1: interface and sub-tools),Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,09:00 - 09:30,C5.208,"15.06
+17.06
+18.06
+20.06
+22.06",
+68,Ibrahim Ahmed Zaki Eltohamy Elgalfy,Building a 3D voxel-based tracking system for hand-drawn elements (task2: dataset collection and processing) (co-supervised with Prof. M. Salem),Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,09:30 - 10:00,C5.208,"15.06
+17.06
+18.06
+20.06
+22.06",
+69,Youssef Ahmed Kamal Ahmed Abouseif,Building a 3D voxel-based tracking system for hand-drawn elements (task3: ML with 3D bodies) (co-supervised with Prof. M. Salem),Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,10:00 - 10:30,C5.208,"15.06
+17.06
+18.06
+20.06
+22.06",
+70,Kurolos Gamal Labib Mossad,Building a graphical user interface for a text categorization engine,Dr. Ahmed Abd El-Hamid Mohamed Shafik Maarouf ,Dr. Ahmed Hassan Mohamed Yousef,Tuesday 20th of June 2023,10:30 - 11:00,C5.201,,
+71,Ahmed Hatem Mahmoud Somida,Building a GUI for Skin disease recognition using deep learning,Dr. Milad Michel Ghantous ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,08:30 - 09:00,C5.205,,
+72,Aya Emadeldin Mahmoud Mohamed,Building a text categorization engine,Dr. Ahmed Abd El-Hamid Mohamed Shafik Maarouf ,Dr. Walaa Gad,Wednesday 21st of June 2023,01:00 - 01:30,C5.211,,
+73,Aseel Mohamed Omar Abdelaziz Khedr,Business card scanner,Dr. Mahmoud Ibrahim Khalil ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,10:30 - 11:00,C5.202,,
+74,Omar Ashraf Abdelhamid Salem Aboelazm,Business Intelligence Retail Analytics,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,12:30 - 01:00,C5.201,,
+75,Abdulaziz Hassan Zohair Hassan Alamri,Classifying Software Projects into their Design Patterns,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,10:30 - 11:00,C5.208,,
+76,Mohammed Waleed Eleraky Elazab Eleraky,Cloud Infrastructure as a code IaC,Dr. Wagdy Anis Aziz ,Dr. Islam Ahmed Mahmoud Elmaddah,Saturday 17th of June 2023,12:00 - 12:30,C5.201,,
+77,Mennatullah Mohamed Ibrahim Hamed Abdullah,Color Detection,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Magdy Aboelela,Wednesday 21st of June 2023,01:30 - 02:00,C5.206,,
+78,Omar Mahmoud Ahmed Ibrahim Warda,Comparing Ethical Frameworks for Autonomous Vehicles  in Unavoidable Accident Scenarios Using the CARLA Simulator (Co-supervised by Assoc. Prof. Amr Elmougy),Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,11:30 - 12:00,C5.204,,
+79,Mohamed Ahmed Bahaaeldin Mohamed Elbakly,Comprehensive Proteome analysis of Lung adenocarcinoma ,Dr. Mohamed Hamed Fahmy ,Dr. Islam Ahmed Mahmoud Elmaddah,Saturday 17th of June 2023,12:30 - 01:00,C5.201,,
+80,Omar Mamdouh Mahmoud Ibrahim,Conflict Resolution in Unavoidable Accidents Scenarios in a Swarm of Autonomous Vehicles (Co-supervised by Assoc. Prof. Amr Elmougy),Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,12:30 - 01:00,C5.204,,
+81,Rola Sameh Fouad Abdelaziz,Context Aware Explainable AI Systems,Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,01:00 - 01:30,C5.204,,
+82,Mostafa Yousry Mohamed Abdelrahman,Creating an elevator system using petrinet ,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Magdy Aboelela,Sunday 25th of June 2023,02:30 - 03:00,C5.201,"15.06
+17.06
+18.06
+20.06
+22.06",
+83,Mayar Ibrahim Ibrahim Abdelaziz,Creating Petrinet Model for client server architecture,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,01:00 - 01:30,C5.201,"15.06
+18.06
+21.06",
+84,Eslam Hesham Mohamed Ehab Milad Abdelkarim,Credit Card Fraud detection model based on deep learning,Dr. Gamal Abdel Shafy ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 26th of June 2023,11:00 - 11:30,C5.201,,
+85,Ahmed Yehia Hassan Hosny Omar Abdelmagid,Cybersecurity HW metrics,Dr. Hassan . Soubra ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,12:30 - 01:00,C5.202,,
+86,Salma Ihab Abdelmonem Abdelrahman,Cybersecurity SW metrics,Dr. Hassan . Soubra ,Dr. Nawal Ahmed El-Fishawy,Thursday 15th of June 2023,03:00 - 03:30,C5.212,,
+87,Marwan Ashraf Ali Ahmed Farag,Data Analytics Model for Analyzing Car Accidents,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,10:30 - 11:00,C5.201,,
+88,Habiba Khaled Mohamed Masoud,Data Augmentation Generator,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,09:00 - 09:30,C5.202,,
+89,Hazem Reda Ali Mohamed Ali,Deep image De-blurring,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,09:30 - 10:00,C5.211,,
+90,Laila Hassan Aly Hegazy,Deep image de-raining,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,10:00 - 10:30,C5.211,,
+91,Nada Abdelrahman Mohamed Hegazy,Deep learning for Lesion Segmentation in Skin Cancer Images,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,10:30 - 11:00,C5.211,,
+92,Yehia Samir Saleh Abdo Mousa,Deep learning for Melanoma classification,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,11:00 - 11:30,C5.211,,
+93,Sarah Mohamed Elsayed Mohamed Waly,Deep/ Federated Learning Algorithms for Ultrasound Breast Cancer Image Enhancement,Dr. Mohammed Abdel Megeed Salem ,Dr. Tamer Mostafa,Sunday 25th of June 2023,10:30 - 11:00,C5.206,,
+94,Mariam Ashraf Ahmed Mohamed Ali,Demand Forecasting Retail Analytics,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Magdy Aboelela,Sunday 25th of June 2023,03:00 - 03:30,C5.201,,
+95,Omar Hassan Ali Fadel Hassan Mohamed,Denial of Service (DoS) Attack Detection Using Machine Learning,Dr. Gamal Abdel Shafy ,Dr. Tamer Mostafa,Sunday 25th of June 2023,03:30 - 04:00,C5.206,,
+96,Karim Mohamed Hesham Ibrahim Elmosalamy,Design and Implementation of Quantum Key Security Systems,Dr. Haitham Abdelsalam Ahmed Omran ,Dr. Hussein Kotb,Monday 19th of June 2023,12:30 - 01:00,C5.204,,
+97,Ahmad Essameldin Fahmy Kadeeb,Design and Simulation of Quantum Key Security System ,Dr. Haitham Abdelsalam Ahmed Omran ,Dr. Hussein Kotb,Monday 19th of June 2023,01:00 - 01:30,C5.204,,
+98,Mohamed Kassem Mohamed Mostafa Nassar,Detection of Abnormal Behavior in Video Traffic Monitoring,Dr. Mohammed Abdel Megeed Salem ,Dr. Nawal Ahmed El-Fishawy,Thursday 15th of June 2023,02:30 - 03:00,C5.212,,
+99,Mohamed Tarek Ahmed Ismail,Detection of corners in 3D space using Maya and MEL,Dr. Rimon . Elias ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,12:30 - 01:00,C5.201,,
+100,Karim Ashraf Salah Hasanien Abouelhawa,Detection of corners in 3D space using Maya and Python,Dr. Rimon . Elias ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,01:00 - 01:30,C5.201,,
+101,Hala Medhat Adly Yakan Ahmed Hashad,Detection of Plants Diseases for Smart Agriculture (Dell/MCIT Hackathon),Dr. Maggie Ahmed Ezzat ,Dr. Magdy Aboelela,Sunday 25th of June 2023,01:30 - 02:00,C5.201,,
+102,Fady Medhat Helmy Malak,Detection of targets in images using deep learning,Dr. Rimon . Elias ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,01:00 - 01:30,C5.208,,
+103,Nada Nazeer Yassar Awaad Elbehesy,Development of a Human-Machine Interface (HMI) for a Lab-Assistant Robot (in cooperation with MRS Lab from EMS),Mr. Omar Mahmoud Mohamed ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,11:00 - 11:30,C5.202,,
+104,Kariman Kamaleldein Hussein Mostafa Zeineldein,Development of a Human-Machine Interface (HMI) for a Tour-Guide Robot (in cooperation with MRS Lab from EMS),Mr. Omar Mahmoud Mohamed ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,10:30 - 11:00,C5.204,,
+105,Omar Atef Hussien Abdelrazek,Digital Twinning for Production Process Reengineering using Internet of Things,Dr. Maggie Ahmed Ezzat ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,09:30 - 10:00,C5.208,,
+106,Yasmine Khaled Abdelmoniem Mohamed Elserafy,Digitization of Inventory Systems for SMEs: Building a Recommendation System Tool (sponsored by Orion360),Dr. Maggie Ahmed Ezzat ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,01:30 - 02:00,C5.202,,
+107,Haneen Gamal Aly Mohamed Elzawawy,Directed Sound Input Channel,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,10:00 - 10:30,C5.205,,
+108,Elshimaa Ahmed Elsayed Mohamed Betah,Distributed Graph Database,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,10:30 - 11:00,C5.205,,
+109,Andrew Ashraf Kamal Shehata,DSP HW Dynamic Noise cancellation system  ,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,09:00 - 09:30,C5.206,,
+110,Hoda Ahmed Mostafa Desouki,DSP Runtime Emulator on FPGA,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,09:30 - 10:00,C5.206,,
+111,Mahmoud Moamen Mahmoud Othman Alkoush,DSP Runtime Simulator on Simulink,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,10:00 - 10:30,C5.206,,
+112,Karim Walid Mohmed Mohmed Mahmoud Hassanein Wahdan,Dynamic Path Planning for Autonomous Vehicles using Adaptive Reinforcement Learning (Co-supervised by Assoc. Prof. Amr Elmougy),Miss Nourhan Ehab Azab ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,12:30 - 01:00,C5.208,,
+113,Dina Ayman Mohamed Salaheldin Hamed,Edge computing for ML computational needs,Dr. Hassan . Soubra ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 26th of June 2023,01:00 - 01:30,C5.201,,
+114,Adel Mostafa Adel Eltoweiry,Edge Device Implementation for Smart Agriculture and Insect Pests Detection [Co-Supervisor Dr Mohamed AbdelGhany],Dr. Mohammed Abdel Megeed Salem ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,09:00 - 09:30,C5.205,,
+115,Abdelrahman Ali Salem Mohamed Mubarak,Embedded Systems Implementation of LoRaWAN Class A Specification,Dr. Tallal Osama Elshabrawy ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,09:30 - 10:00,C5.206,,
+116,Rola Rakan Mohamed Rashad Soliman,Emotion Recognition & Synthesis in Arabic/Egyptian Tongues,Dr. Mohammed Abdel Megeed Salem ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,10:00 - 10:30,C5.208,,
+117,Yehea Ahmed Abdelrahim Elsayed Eldib,Emotional Agent Desktop ,Dr. Wael  Mohamed AbulSadat ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,01:00 - 01:30,C5.202,,
+118,Hussein Ahmed Mohamed Lotfy Hussein Ahmed Aly,Employee Management Systems,Dr. Wael Zakaria Abdallah ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,02:00 - 02:30,C5.202,,
+119,Mahmoud Mostafa Hussein Mostafa,Energy efficient scheduling of dynamic job shops (Co-supervised with Dr. Maggie Mashaly),Dr. Lamia Ahmed Shihata ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,09:00 - 09:30,C5.204,"15.06
+17.06
+18.06
+20.06
+22.06",
+120,Zeyad Mohamed Mamdouh Fahmy Elkott,Energy-Efficient Resource Selection in Cloud Computing Environments,Dr. Gamal Abdel Shafy ,Dr. Walaa Ibrahim Gabr,Wednesday 21st of June 2023,03:30 - 04:00,C5.212,,
+121,Abdullah Ahmad Fouad Aly Ahmed,Ethereum Dapp Framework,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,09:30 - 10:00,C5.204,,
+122,Mostafa Mohamed Abdelzaher Abdelalim Khalifa,Explainable AI for Autonomous Vehicles in Unavoidable Accident Scenarios  Using the Chronograph and Deep Leaning (Co-supervised by Assoc. Prof. Amr Elmougy) ,Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,01:30 - 02:00,C5.204,,
+123,Khadija Ahmed Mohamed Diaaeldin Eltantawi,Explainable AI for Autonomous Vehicles in Unavoidable Accident Scenarios Using  Counterfactuals (Co-supervised by Assoc. Prof. Amr Elmougy),Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,02:30 - 03:00,C5.204,,
+124,Adham Sameh Seddiek Abdelaziz Haggag,Extracting Knowledge Graphs from Unstructured Data,Miss Nourhan Ehab Azab ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,03:00 - 03:30,C5.208,,
+125,Youssef Amer Elsayed Ouda Ahmed,Eye tracking analysis for emotion recognition,Dr. Milad Michel Ghantous ,Dr. Mona Farouk Ahmed,Monday 26th of June 2023,12:30 - 01:00,C5.205,,
+126,Karim Mohamed Abdelrahman Moustafa Ahmed,Face and eye pose fusion for driver vigilance monitoring ,Dr. Milad Michel Ghantous ,Dr. Mona Farouk Ahmed,Monday 26th of June 2023,01:00 - 01:30,C5.205,,
+127,Mazen Mahmoud Mohamed Hejazy,Face mask detection system,Dr. Mahmoud Ibrahim Khalil ,Dr. Hossam Eldin Hassan Abdelmoneim,Thursday 15th of June 2023,10:00 - 10:30,C5.205,,
+128,Somaya Mohamed Ahmed Ahmed Elziady,Face Recognition,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Magdy Aboelela,Wednesday 21st of June 2023,02:30 - 03:00,C5.206,,
+129,Malak Wael Mohamed Fathy,Family photo face detection system,Dr. Mahmoud Ibrahim Khalil ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,01:00 - 01:30,C5.202,,
+130,John Nabil Kamel Amin,Fast Continuous Feedback,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,10:00 - 10:30,C5.204,,
+131,Yahya Ramzy Attia Ahmed Akel,Feature Extraction for Sketch-based Image Retrieval  (co-supervised with Prof. M. Salem),Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,10:30 - 11:00,C5.202,,
+132,Zeyad Sadek Elway Sadek,Feature Extraction from Hand-drawn Elements using Formal Concept Analysis and Rough Set Theory: an interface for representation,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,11:00 - 11:30,C5.202,,
+133,Yahya Essam Abdelgaber Mohamed Elgaar,Federated Learning for Resource Management in Edge Computing,Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,09:30 - 10:00,C5.202,,
+134,Yasmine Amr Mohamed Salaheldin Hassan Haggag,Federated Learning Framework for Cloud-Edge Computing ,Dr. Mohammed Abdel Megeed Salem ,Dr. Tamer Mostafa,Sunday 25th of June 2023,11:00 - 11:30,C5.206,,
+135,Hossam Magdy Abdelati Meligy,Fixed Virtual Network Operator (FVNO) End-to-End Quality of Service  Optimization,Dr. Wagdy Anis Aziz ,Dr. Tamer Mostafa,Sunday 25th of June 2023,12:00 - 12:30,C5.206,"15.06
+17.06
+18.06
+20.06
+22.06
+24.06
+26.06",
+136,Sama Yasser Elprince Abdelgawad,Foot-based Interface and Interaction Techniques,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,10:30 - 11:00,C5.204,,
+137,Marco Moheb Nasry Khouzam,Fuzzy logic Robo-Advisor for Stock Market,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,11:00 - 11:30,C5.201,,
+138,Mohamed Ahmed Abdellatif Abdellah,Gait analysis and classification using deep learning,Dr. Gamal Abdel Shafy ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 26th of June 2023,12:00 - 12:30,C5.201,,
+139,Moreen Rizk Marco Tawfeles,Generation of architectural plans using deep learning,Dr. Rimon . Elias ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,11:00 - 11:30,C5.204,,
+140,Aya Mahmoud Nagi Hassan Abdelghaffar,GUC campus map navigator using AR,Dr. Milad Michel Ghantous ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,09:00 - 09:30,C5.201,,
+141,Zeyad Ehab Fawzy Mohamed Alashaal,Hacking Password using Audio Profile,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,11:00 - 11:30,C5.204,,
+142,Yasmin Mohamed Abdelbadie Mohamed,Hand gesture control system ,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,02:30 - 03:00,C5.202,,
+143,Ahmed Hesham Fathy Mohamed Abouelela,Hand gesture recognition system,Dr. Mahmoud Ibrahim Khalil ,Dr. Walaa Ibrahim Gabr,Wednesday 21st of June 2023,04:00 - 04:30,C5.212,,
+144,Rawan Mostafa Ahmed Ahmed Mohamed,Handling Class Imbalance in Soccer Video Analysis using Deep Neural Networks,Dr. Tallal Osama Elshabrawy ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,10:00 - 10:30,C5.202,,
+145,Mostafa Mohamed Bayoumy Hassanien,Handwritten Character Recognition,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,09:30 - 10:00,C5.202,,
+146,Basmala Mustafa Ahmed Mahmoud,Handwritten signature recognition,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,10:00 - 10:30,C5.202,,
+147,Hossam Mostafa Ibrahim Sanad Shousha,Haptic Interaction on the Belt,Dr. Wael  Mohamed AbulSadat ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,11:00 - 11:30,C5.204,,
+148,Amna Ahmed Mahmoud Saleh,Hardware Acceleration for Cascade classifier,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Mahmoud Ibrahim Khalil,Tuesday 20th of June 2023,12:00 - 12:30,C5.205,,
+149,Abdelrahman Amgad Abdallah Ibrahim,Hardware Acceleration for Deep Learning model,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Mahmoud Ibrahim Khalil,Tuesday 20th of June 2023,12:30 - 01:00,C5.205,,
+150,Mazen Alaa Ahmed Aly Mostafa,Hardware software co-design for Machine Learning,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Mahmoud Ibrahim Khalil,Tuesday 20th of June 2023,01:00 - 01:30,C5.205,,
+151,Ahmed Salah Hedar Abokhater,Head Hunter Bot,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Hussein Ismail Hassan Shahin,Sunday 25th of June 2023,09:30 - 10:00,C5.212,,
+152,Abdelrahman Fekri Fadlallah Sebak,Health Monitoring using Facial Expression & Machine Learning,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,11:00 - 11:30,C5.205,,
+153,Hesham Shawkat Mohamed Helmy Mahmoud Raslan,High Availability Solution for Cloud applications,Dr. Wagdy Anis Aziz ,Dr. Tamer Mostafa,Sunday 25th of June 2023,12:30 - 01:00,C5.206,,
+154,Abdullah Ibrahim Mohamed Mohamed Shoeib,HR Turnover analytics,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Hussein Ismail Hassan Shahin,Sunday 25th of June 2023,10:00 - 10:30,C5.212,,
+155,Ibrahim Mahmoud Ibrahim Abdelmageed,Human Detection in Drone Videos,Dr. Mahmoud Ibrahim Khalil ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,10:30 - 11:00,C5.201,,
+156,Hussen Hany Kotb Ali Elrefaay,Human Emotion Recognition System,Dr. Mahmoud Ibrahim Khalil ,Dr. Hossam Eldin Hassan Abdelmoneim,Thursday 15th of June 2023,10:30 - 11:00,C5.205,,
+157,Misk Mohamed Mohamed Ali Abdalla,Human Pose Detection,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Mona Farouk Ahmed,Monday 26th of June 2023,02:30 - 03:00,C5.205,,
+158,Ahmed Hicham Hosni Mahmoud,Image and Picture describer for visually impaired,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,09:00 - 09:30,C5.201,,
+159,Sara Mohamed Saadeldein Hassan,Image and Video Forgery Detection Using Federated Learning for Edge Devices,Dr. Mohammed Abdel Megeed Salem ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,01:00 - 01:30,C5.204,,
+160,Ahmed Mohamed Ahmed Azooz,Image denoising using autoencoders,Dr. Milad Michel Ghantous ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,09:00 - 09:30,C5.201,,
+161,Noureldin Hesham Mohamed Reda Moustafa Shaker,image denoising using GANs,Dr. Milad Michel Ghantous ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,01:30 - 02:00,C5.208,,
+162,Nour Khaled Mounir Elsayed Elfaramawy,Image de-raining Enhancement tool,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,03:00 - 03:30,C5.202,,
+163,Ayten Mazen Mohamed Ali Flaifl,Image Encryption Using a Hyperchaotic Function (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,09:00 - 09:30,C5.204,,
+164,Salma Khaled Abdelmoneam Khashaba,Image Encryption Using Cellular Automata (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,09:30 - 10:00,C5.204,,
+165,Dina Hatem Mahmoud Shaheen,Image Encryption Using DNA Coding (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,10:00 - 10:30,C5.204,"15.06
+17.06
+18.06
+20.06
+22.06",
+166,Yousef Walaaeldin Aly Youssry Korayem,Image Encryption Using Novel Variations of Chaotic Functions (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,10:30 - 11:00,C5.204,,
+167,Salma Ahmed Kamal Abdelmonem,Image Encryption Using the Sine Chaotic Map (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,11:00 - 11:30,C5.204,,
+168,Mohammed Hazem Mostafa Ahmed,Image Encryption Using the Single Neuron Model (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,12:00 - 12:30,C5.204,,
+169,Omar Mohamed Awad Mahmoud Elnoamy,Image Encryption Using the Tent Chaotic Map (Co-supervised with Dr. Amr Aboshousha),Dr. Wassim Joseph  Alexan ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,12:30 - 01:00,C5.204,,
+170,Rana Reda Mohamed Sherif Mohamed,Image Enhancement tool for blurry Images,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,03:30 - 04:00,C5.202,,
+171,Jana Hazem Mohamed Mohamed Abbas,Image Search Engine,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Magdy Aboelela,Wednesday 21st of June 2023,03:00 - 03:30,C5.206,,
+172,Rana Emad Nahas Ahmed,Image Steganography,Dr. Gamal Abdel Shafy ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,09:00 - 09:30,C5.202,,
+173,Adham Mohamed Ahmed Sayed Ahmed,Imperative Programming Languages Capturing P and NP,Dr. Haytham Osman Ismail ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,09:30 - 10:00,C5.204,,
+174,Abdelrahman Mohamed Ibrahim Hanafi Mahmoud,Improved CMS system for adaptive learning,Dr. Milad Michel Ghantous ,Dr. Ahmed Hassan Mohamed Yousef,Tuesday 20th of June 2023,12:00 - 12:30,C5.201,,
+175,Mohamed Osama Yehya Osman,Integrating Cloud Computing with Blockchain-Enabled Supply Chain (Co-Supervised with Dr. Nada Sharaf),Dr. Maggie Ahmed Ezzat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,04:00 - 04:30,C5.204,,
+176,Ahmed Essam Moheyeldin Mohamed Hamed Khairallah,Intelligent Cloud Bursting Model,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,11:00 - 11:30,C5.201,,
+177,Omar Ashraf Mohamed Mohamed Awad,Intelligent Cloud Computing Security Model,Dr. Gamal Abdel Shafy ,Dr. Nawal Ahmed El-Fishawy,Monday 26th of June 2023,01:30 - 02:00,C5.206,"15.06
+18.06
+21.06",
+178,Ahmed Othman Fahmy Shetewy,Intelligent Content-Based Video Retrieval System,Dr. Gamal Abdel Shafy ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,12:00 - 12:30,C5.204,,
+179,Dina Tamer Samir Ali Sadek,Intelligent Driver's Drowsiness Detection Model,Dr. Gamal Abdel Shafy ,Dr. Nawal Ahmed El-Fishawy,Monday 26th of June 2023,02:00 - 02:30,C5.206,,
+180,Youseef Ehab Elsayid Mohamed,Intelligent Image-Based Plant Disease Identification,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,11:00 - 11:30,C5.208,"15.06
+18.06
+21.06",
+181,Salma Ahmed Abdallah Azzam,Intelligent Model for Skin Cancer Detection,Dr. Gamal Abdel Shafy ,Dr. Nawal Ahmed El-Fishawy,Monday 26th of June 2023,03:00 - 03:30,C5.206,,
+182,Hassan Usama Mohamed Mahmoud Abdelqader,Intelligent online Shopping Recommendation,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,12:00 - 12:30,C5.208,,
+183,Mark Sherif Anwar Meshreky,Intelligent Pillow,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,12:00 - 12:30,C5.205,,
+184,Abdelrahman Mohamed Ezzat Metwally Hassnien,Intelligent Resource Management in Vehicular Cloud,Dr. Gamal Abdel Shafy ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Thursday 15th of June 2023,09:00 - 09:30,C5.211,,
+185,Malak Ahmed Amr Mostafa Naguib Sayed Fahmy,Intelligent Sentiment Analysis Model,Dr. Gamal Abdel Shafy ,Dr. Walaa Gad,Sunday 25th of June 2023,12:30 - 01:00,C5.208,,
+186,Kirillos Raef Zouzou Metry,Intelligent Sign Language Recognition,Dr. Gamal Abdel Shafy ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,12:00 - 12:30,C5.202,,
+187,Mohamed Hossam Abouelmawahb Eltouny,Intelligent Traffic Prediction System,Dr. Gamal Abdel Shafy ,Dr. Nawal Ahmed El-Fishawy,Monday 26th of June 2023,03:30 - 04:00,C5.206,,
+188,Mohamed Mamdouh Mohamed Aly Salem,Intelligent Video Content Analysis Model,Dr. Gamal Abdel Shafy ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,01:00 - 01:30,C5.208,,
+189,Loay Sameh Mahmoud Abdelmoneim,Intelligent Virtual Machines Migration Reduction Model in Cloud Computing Environments,Dr. Gamal Abdel Shafy ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Thursday 15th of June 2023,09:30 - 10:00,C5.211,,
+190,Omar Walid Hamid Nofal,Interactive Image-Searching Utilizing Hand Drawing and Machine Learning,Dr. Wael  Mohamed AbulSadat ,Dr. Magdy Aboelela,Sunday 25th of June 2023,11:00 - 11:30,C5.201,,
+191,Mohamed Khalid Mohamed Ali Almarsafy,Investigating AraBERT for opinion analysis in arabic tweets,Dr. Milad Michel Ghantous ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,09:30 - 10:00,C5.201,,
+192,Mohamed Hossam Fouad Eldeeb,iOS application for translation office ,Dr. Rimon . Elias ,Dr. Wagdy Anis Aziz ,Saturday 17th of June 2023,10:00 - 10:30,C5.202,,
+193,Zeyad Ayman Mohamed Abdulazeez Elsayed,IoT ML Planter care System,Dr. Hassan . Soubra ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,10:00 - 10:30,C5.204,,
+194,Andrew Sameh Emad Kamel,IoT-based continuous monitoring of patient,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Nawal Ahmed El-Fishawy,Thursday 15th of June 2023,01:00 - 01:30,C5.212,,
+195,Aly Ayman Mohamed Abdelghafar Elsayed Hegazy,ITS- Priority-based constrained routing for road Vehicles,Dr. Hassan . Soubra ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,02:30 - 03:00,C5.208,,
+196,Ali Reda Ali Elsheshaiy,ITS-ML based pollution measurement of CAIRO,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,10:30-  11:00,C5.206,,
+197,Karim Sewilam Abdalla Sayed,ITS-multi-vehicle pollution management system,Dr. Hassan . Soubra ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,10:30 - 11:00,C5.206,,
+198,Laila Sherif Aly Hammouda,ITS-Real-time Impact of rerouting on initial pollution levels.,Dr. Hassan . Soubra ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,11:00 - 11:30,C5.206,,
+199,Antony Mina Younan Mikhail,Joint Mental Attitude Revision,Dr. Haytham Osman Ismail ,Dr. Hussein Abdelaty Elsayed Mohamed,Tuesday 20th of June 2023,11:00 - 11:30,C5.204,,
+200,Abdullah Sherif Mohamed Reda Eldahrawy,Knife detection,Dr. Wael Zakaria Abdallah ,Dr. Hesham N. Elmahdy,Thursday 22nd of June 2023,01:00 - 01:30,C5.204,,
+201,Abdullah Sameh Mohamed Mahmoud Khairat Rady,Knowledge Graphs-Aided Explainable Recommender Systems,Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,03:00 - 03:30,C5.204,,
+202,Ahmed Khaled Ahmed Gaber Diab,Learning of Symbolic Representations for Rescue Scenarios in Disaster Zones,Miss Nourhan Ehab Azab ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 17th of June 2023,03:30 - 04:00,C5.204,,
+203,Adham Ahmed Abdelaziz Aldeib,Library management system,Dr. Rimon . Elias ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,03:30 - 04:00,C5.202,,
+204,Heejin Yun ,License plate recognition system,Dr. Mahmoud Ibrahim Khalil ,Dr. Walaa Gad,Wednesday 21st of June 2023,12:30 - 01:00,C5.211,"15.06
+17.06
+18.06
+20.06
+22.06",
+205,Nayer Mohamed Ahmed Nayer Ibrahim Kotry,lidar and camera fusion for pedestrian detection and relevance to driver,Dr. Milad Michel Ghantous ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,02:30 - 03:00,C5.208,,
+206,Yasmin Hossam Mohamed Elsayed Elsayed Ismail,Lidar and camera fusion for traffic sign recognition and relevance to the driver,Dr. Milad Michel Ghantous ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,03:00 - 03:30,C5.208,,
+207,Marwan Mohamed Ashraf Saad Abdelrahman,Lie Detector using GSR,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,12:00 - 12:30,C5.204,,
+208,Youssef Tarek Hassan Fahmy Mahmoud,Logic and Ontology of Fairness,Dr. Haytham Osman Ismail ,Dr. Ahmed Hassan Mohamed Yousef,Tuesday 20th of June 2023,09:00 - 09:30,C5.201,,
+209,Yara Ayman Abdelkhalek Abdelzaher Ahmed,Logic and Ontology of Rumors,Dr. Haytham Osman Ismail ,Dr. Ahmed Hassan Mohamed Yousef,Tuesday 20th of June 2023,09:30 - 10:00,C5.201,,
+210,Mostafa Zakaria Abdelmoniem Mohamed Ibrahim,Logics for Believing P and Believing that P is True,Dr. Haytham Osman Ismail ,N.N.,,,,"15.06
+17.06
+18.06
+20.06
+22.06",
+211,Farah Fouad Farouk Abdelaziz,Logics of Mental Attitudes: A Survey (Co-Supervised by Assoc. Prof. Haythem Ismail),Miss Nourhan Ehab Azab ,Dr. Hussein Abdelaty Elsayed Mohamed,Tuesday 20th of June 2023,10:30 - 11:00,C5.204,,
+212,Amr Mohamed Samy Abdelmoniem Mohamed Darwish,Low-cost embedded system for smoke and fire detection ,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,10:30 - 11:00,C5.201,,
+213,Amr Mahmoud Fawzy Mahmoud,Machine Learning for Arabic Handwritten Scripts: part1 “Recognition”,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Ahmed Hassan Mohamed Yousef,Tuesday 20th of June 2023,10:00 - 10:30,C5.201,,
+214,Adham Mohamed Amr Farouk Abouelela,Machine Learning for Arabic Handwritten Scripts: part2 “Labeling and Segmentation”,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. M. A. Moustafa Hassan,Wednesday 21st of June 2023,09:00 - 09:30,C5.205,"15.06
+17.06
+18.06
+20.06
+22.06",
+215,Ahmed Safa Refaat Abdelmoniem,Machine Learning for Arabic Handwritten Scripts: part3 “Generation and Evaluation”,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,03:00 - 03:30,C5.202,,
+216,Omar Khaled Mohamed Abdelfattah Hassan Ali Melouk,Machine learning for live/dead cells detection & counting [Co Supervisor Dr. Anke Klingner],Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,10:00 - 10:30,C5.202,,
+217,Abdelrahman Hussein Mahmoud Abdelhamid,Marked and unmarked bump detection for ADAS systems,Dr. Milad Michel Ghantous ,Dr. Mahmoud Ibrahim Khalil,Tuesday 20th of June 2023,03:00 - 03:30,C5.205,,
+218,Mina Magdy Mousa Morgan Ebrahim,MCQ and true false automatic grading using computer vision,Dr. Milad Michel Ghantous ,Dr. Mona Farouk Ahmed,Monday 26th of June 2023,01:30 - 02:00,C5.205,,
+219,Ashraf Mohamed Abdelrahman Khalifa,Microscopic Imaging: Grain Size and Orientation Detection based on Texture and Morphological Features [Co Supervisor Dr Mohamed Elwi],Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,10:30 - 11:00,C5.202,,
+220,Ahmed Ashraf Ahmed Bedair Ibrahim Attia,Midair-Gesture Recognizer using LeapMotion & Machine Learning,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,12:30 - 01:00,C5.204,,
+221,Ossama Abdelkader Abdelhamid Abdelrahman Elsheikh,Mind GRAF: Task 1 (Co-supervised by Assoc. Prof. Haythem Ismail),Miss Nourhan Ehab Azab ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,01:30 - 02:00,C5.208,,
+222,Hazem Khaled Saad Mohamed Elhegazy,Mind GRAF: Task 11,Dr. Haytham Osman Ismail ,N.N.,,,,,
+223,Elhossin Ahmed Abdelwahab Rihan,Mind GRAF: Task 2 (Co-supervised by Assoc. Prof. Haythem Ismail),Miss Nourhan Ehab Azab ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,02:00 - 02:30,C5.208,"15.06
+17.06
+18.06
+20.06
+21.06
+22.06",
+224,Ahmed Khaled Ahmed Hassan Ibrahim,Mind GRAF: Task 3 (Co-supervised by Assoc. Prof. Haythem Ismail),Miss Nourhan Ehab Azab ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,02:30 - 03:00,C5.208,"15.06
+17.06
+18.06
+20.06
+22.06",
+225,Ali Mohamed Ahmed Elserafy,Mind GRAF: Task 4 (Co-supervised by Assoc. Prof. Haythem Ismail),Miss Nourhan Ehab Azab ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,03:00 - 03:30,C5.208,,
+226,Mariam Tarek Salaheldin Elkhayat,Mind GRAF: Task 8,Dr. Haytham Osman Ismail ,N.N.,,,,,
+227,Malak Mohamed Emadeldin Elkhashab,ML IoT Smart Pet care taker,Dr. Hassan . Soubra ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,12:00 - 12:30,C5.208,,
+228,Mostafa Abdalfattah Mostafa Morsy Farahat,ML IoT Sport performance assessment system ,Dr. Hassan . Soubra ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,12:30 - 01:00,C5.208,,
+229,Bassant Tarek Abdelkader Aboulmagd,Mobile app for skin cancer detection,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,02:00 - 02:30,C5.204,,
+230,Hania Hamed Elsayed Hamed Abouelezz,Mobile Application & Edge Device for Early Detection of Insect Pests for Agriculture Applications,Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed Abouelatta,Sunday 25th of June 2023,03:00 - 03:30,C5.202,,
+231,Nezar Mahmoud Tarek Khalil Moumen,MobileNetV2 for Bearings Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 19th of June 2023,09:30 - 10:00,C5.202,"15.06
+17.06
+18.06
+20.06
+22.06",
+232,Noussa Mahmoud Hanafy Mohamed,MobileNetV2 for Fans Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hossam Eldin Hassan Abdelmoneim,Thursday 15th of June 2023,12:30 - 01:00,C5.205,,
+233,Mostafa Ashraf Aboelenien Ahmed,MobileNetV2 for Gearboxes Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hossam Eldin Hassan Abdelmoneim,Thursday 15th of June 2023,01:00 - 01:30,C5.205,,
+234,Abdelrahman Mamdouh Anwar Othman Sharaky,MobileNetV2 for Sliders Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hossam Eldin Hassan Abdelmoneim,Thursday 15th of June 2023, 01:30 - 02:00,C5.205,,
+235,Sarah Farag Abdelghany Adam,MobileNetV2 for ToyCars Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hossam Eldin Hassan Abdelmoneim,Monday 19th of June 2023,10:00 - 10:30,C5.202,"15.06
+17.06
+18.06
+20.06
+22.06",
+236,Jana Haitham Saleh Mohamed Gabr,MobileNetV2 for ToyTrains Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hossam Eldin Hassan Abdelmoneim,Thursday 15th of June 2023,03:00 - 03:30,C5.205,,
+237,Omar Farid Moharam Farid,Modern and classical treatments of COPs: task 2,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Sahar Selim,Thursday 15th of June 2023,02:30 - 03:00,C6.203,"18.06
+20.06
+22.06",
+238,Mohamed Tamer Hassan Abdelfatah,Multiple Features ResNet for ToyCars Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mahmoud Ibrahim Khalil,Tuesday 20th of June 2023,02:00 - 02:30,C5.205,"15.06
+18.06
+21.06",
+239,Mira Emad Mounir Roshdy,Natural Language to SQL Conversion,Dr. Gamal Abdel Shafy ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,02:00 - 02:30,C5.201,,
+240,Omar Wael Osman Aly Elsayed Saad,Near-mouse Interaction Techniques,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 22nd of June 2023,12:30 - 01:00,C5.205,"15.06
+18.06
+21.06",
+241,Zeyad Hesham Mostafa Mossa Amer,Network Management System and Monitoring for Cloud Applications,Dr. Wagdy Anis Aziz ,Dr. Tamer Mostafa,Sunday 25th of June 2023,01:00 - 01:30,C5.206,,
+242,Omar Tarek Ibrahim Elrasas,Neuro-Symbolic Dynamic Path Planning for Autonomous Vehicles (Co-supervised by Assoc. Prof. Amr Elmougy),Miss Nourhan Ehab Azab ,Dr. Magdy Aboelela,Sunday 25th of June 2023,10:30 - 11:00,C5.201,,
+243,Ahmed Amir Fouad Ajamy Elsafty,Object tracking in a video,Dr. Mahmoud Ibrahim Khalil ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,12:00 - 12:30,C5.201,,
+244,Islam Medhat Fattoh Zahra,Offline Arabic handwriting characters and digits recognition,Dr. Wael Zakaria Abdallah ,Dr. M. A. Moustafa Hassan,Wednesday 21st of June 2023,10:00 - 10:30,C5.205,"15.06
+17.06
+18.06
+20.06
+22.06",
+245,Omar Hossam Talat Abdelrahman,Offline Arabic handwriting images into lines and words,Dr. Wael Zakaria Abdallah ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,11:00 - 11:30,C5.205,"15.06
+17.06
+18.06
+20.06
+22.06",
+246,Rana Mohamed Gamaleldin Abdelaziz Wally,Offline Arabic handwriting words into characters,Dr. Wael Zakaria Abdallah ,Dr. M. A. Moustafa Hassan,Wednesday 21st of June 2023,10:30 - 11:00,C5.205,,
+247,Omar Muhammad Alsaied Dawood,Offline Arabic handwriting words recognition,Dr. Wael Zakaria Abdallah ,Dr. Magdy Aboelela,Sunday 25th of June 2023,09:00 - 09:30,C5.201,,
+248,Hossam Atef Ibrahim Elsayed Gamil,On Graph-Neural Networks: algorithms and applications,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Tamer Mostafa,Sunday 25th of June 2023,09:00 - 09:30,C5.206,,
+249,Karim Hesham Abdelhamid Abdelhamid Ahmed,On Graph-Neural Networks: GNNs for NLP ,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Tamer Mostafa,Sunday 25th of June 2023,09:30 - 10:00,C5.206,,
+250,Abanob Kamal Naeim Wahba Badrous,Online Assessment simulator with questions generator,Dr. Milad Michel Ghantous ,Dr. Hesham N. Elmahdy,Thursday 15th of June 2023,12:30 - 01:00,C5.204,,
+251,Omar Walid Hussain Zaki Mohamed Elmahdy,Outlier Exposure for Bearings Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,10:00 - 10:30,C5.206,"18.06
+20.06
+22.06",
+252,Doha Adel Ebrahiem Mohamed Abdelhady,Outlier Exposure for Sliders Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Hussein Abdelaty Elsayed Mohamed,Tuesday 20th of June 2023,09:30 - 10:00,C5.204,,
+253,Kareem Mohamed Khairy Abdelkader,Outlier Exposure for ToyCars Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,03:00 - 03:30,C5.204,,
+254,Omar Gamal Abdelaty Hafez Ahmed Nabail,Outlier Exposure for Valves Condition Monitoring,Dr. Hisham Hassaballah Othman ,Dr. Mohamed Hesham Farouk,Sunday 25th of June 2023,03:30 - 04:00,C5.204,"15.06
+17.06
+18.06
+20.06
+22.06",
+255,Abdelrahman Yasser Samir Aly Abdelkader,Pedestrian detection system,Dr. Mahmoud Ibrahim Khalil ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,10:30 - 11:00,C5.208,,
+256,Mario Maurice Farouk Shehata,People counting system,Dr. Mahmoud Ibrahim Khalil ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,01:30 - 02:00,C5.202,,
+257,Mohammad Sherif Ibrahim Mahmoud Elwan,Performance Evaluation of Mobile Cloud Computing,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,12:00 - 12:30,C5.201,,
+258,Karim Ayman Fouad Elsaeed,Performance Evaluation of Real Time and Non-Real Time Applications,Dr. Wagdy Anis Aziz ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,01:00 - 01:30,C5.201,,
+259,Ali Amr Hatem Ahmed Elhennawi,Personal Protective Equipment (PPE) detection system,Dr. Mahmoud Ibrahim Khalil ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,09:00 - 09:30,C5.206,,
+260,Nada Tamer Mohamed Elraggal,Pixel-Wise Classification of Traffic Scene Images With 1D Convolutional SVM Networks,Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,11:00 - 11:30,C5.202,,
+261,Radwan Walid Ali Khalil,Play Bricks IV: Desktop and Web-based Play Bricks App for Architectural Styles,Dr. Mohammed Abdel Megeed Salem ,Dr. Sahar Selim,Thursday 15th of June 2023,03:30 - 04:00,C6.203,,
+262,Youssef Ahmed Salah Mousa,Populating 3D Scenes with human characters,Dr. Rimon . Elias ,Dr. Ahmed Mohamed El Bialy,Thursday 15th of June 2023,10:30 - 11:00,C5.201,,
+263,Gannah Sherif Mohamed Abdelsattar Abdelsalam Dorah,ProfTandem: Mobile & Web Application for Professional 1-1 Coaching,Dr. Mohammed Abdel Megeed Salem ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,09:30 - 10:00,C5.205,,
+264,Omar Sherif Kamal Moussa Elmeteny,Programming Language Localization,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,01:00 - 01:30,C5.204,,
+265,Abdelrahman Abouelfadel Ali Mohamed Shahat,Qualitative Representation Dilemmas of Hand-drawn Elements: (task1: Shape sets),Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,02:30 - 03:00,C5.208,,
+266,Omar Samy Abdelrazek Ghoniem,Quantum HW Metrics,Dr. Hassan . Soubra ,Dr. Nawal Ahmed El-Fishawy,Thursday 15th of June 2023,03:30 - 04:00,C5.212,,
+267,Yousef Mohamed Hassan Mohamed,Quantum SW Metrics,Dr. Hassan . Soubra ,Dr. Nawal Ahmed El-Fishawy,Thursday 15th of June 2023,04:00 - 04:30,C5.212,,
+268,Mohamed Seif Elnasr Kamaleldin Hussein,Queuing Impact on VoIP Quality of Service (QoS) in Telecom Networks,Dr. Wagdy Anis Aziz ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,08:30 - 09:00,C5.205,,
+269,Hussein Hassan Ibrahim Gadallah Mohamed,Rapid GUI Prototype Construction using Hand Gestures,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,01:30 - 02:00,C5.204,,
+270,Nada Diaaeldin Mostafa Khalil,Reading and Browsing Pdf files for visually impaired,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,09:30 - 10:00,C5.201,,
+271,Hala Mohamed Elhuseiny Ibrahim Mansour,Real-Time Reconfigurable CNN for Autonomous Systems [Co-supervisor Dr Hassan Soubra],Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,10:00 - 10:30,C5.208,,
+272,Omar Yehia Abdelfattah Ahmed Taher,Reasoning about Pretense,Dr. Haytham Osman Ismail ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,10:30 - 11:00,C5.208,,
+273,Yomna Ayman Abdelkhalek Abdelzaher Ahmed,Reasoning about Time Travel in the Situation Calculus,Dr. Haytham Osman Ismail ,Dr. Islam Ahmed Mahmoud Elmaddah,Monday 26th of June 2023,11:00 - 11:30,C5.208,,
+274,Peter Lotfy Fayez Ghatas,Recognition of Arabic Handwritten signature ,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,01:30 - 02:00,C5.202,,
+275,Malak Khaled Mohamed Ahmed Zayan,Reinforced learning Robo-Advisor for Stock Market,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Walaa Gad,Monday 26th of June 2023,12:30 - 01:00,C5.211,,
+276,Reem Mostafa Mohamed Elsady,Remote Sensing Image Segmentation and Captioning Using Deep Learning,Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,10:30 - 11:00,C5.208,,
+277,Ziad Tamer Atef Abdelmonem Sherif,Resume builder system,Dr. Rimon . Elias ,Dr. Wagdy Anis Aziz ,Saturday 17th of June 2023,10:30 - 11:00,C5.202,,
+278,Mina Khaled Ibrahim Fahmy Elminiawy,Road lane detection,Dr. Mahmoud Ibrahim Khalil ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,11:00 - 11:30,C5.201,,
+279,Ahmed Tarek Ismail Elsherif,Sales Forecasting Retail Analytics,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,01:30 - 02:00,C5.201,,
+280,Nihal Samir Mohamed Mohamed Ahmed Mannaa,Scene-based searching for disabled people: extracting image descriptions,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,12:30 - 01:00,C5.208,,
+281,Youssef Ehab Salaheldin Abdalmoniem,Scene-based searching for disabled people: extracting textual descriptions,Dr. Ahmed Mohammed Hassan Abdelfattah ,Dr. M. A. Moustafa Hassan,Thursday 22nd of June 2023,04:00 - 04:30,C5.202,"15.06
+18.06
+21.06",
+282,Ehab Hesham Mohamed Ehab Milad Abdelkarim,Secure Mobile Cloud Computing,Dr. Gamal Abdel Shafy ,Dr. Islam Ahmed Mahmoud Elmaddah,Saturday 17th of June 2023,09:00 - 09:30,C5.201,,
+283,Yomna Ihab Fattouha Mohamed Khonfes,Securing Cloud Computing Environment using Homomorphic Encryption Algorithms,Dr. Gamal Abdel Shafy ,Dr. Islam Ahmed Mahmoud Elmaddah,Saturday 17th of June 2023,09:30 - 10:00,C5.201,,
+284,Farah Ahmed Rashad Wanas,Securing Internet of Things (IoT) Networks,Dr. Gamal Abdel Shafy ,Dr. Nawal Ahmed El-Fishawy,Monday 26th of June 2023,04:00 - 04:30,C5.206,,
+285,Shehabeldeen Sherif Mostafa Mohamed Ahmed Elsedody,Security in Software Defined Networking,Dr. Gamal Abdel Shafy ,Dr. Islam Ahmed Mahmoud Elmaddah,Saturday 17th of June 2023,10:00 - 10:30,C5.201,,
+286,Basel Mohamed Elsayed Ahmed Saad,Semantic and Instance Segmentation on Videos,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,10:00 - 10:30,C5.202,,
+287,Ahmed Nasser Gaafar Abdelghaffar Elkakhaia,Service Oriented RDBMS,Dr. Wael  Mohamed AbulSadat ,Dr. Wagdy Anis Aziz ,Thursday 1st of June 2023,09:30 - 10:00,C5.311,,defense scheduled earlier - Internship abroad
+288,Islam Mahmoud Mahmoud Ahmed Diab,Services Quality Management in Smart Government (Dell/MCIT Hackathon),Dr. Maggie Ahmed Ezzat ,Dr. Mona Farouk Ahmed,Monday 26th of June 2023,12:00 - 12:30,C5.205,,
+289,Ahmed Mahmoud Ahmed Mahmoud Ali Kayed,Sign language to Text using deep hand and face tracking,Dr. Milad Michel Ghantous ,Dr. Hanaa Bayoumi Ali Mobaraz,Sunday 18th of June 2023,10:00 - 10:30,C5.201,,
+290,Yahia Nasser Abdelsalam Abdelrehim,Skin scan app,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Hanaa Bayoumi Ali Mobaraz,Wednesday 21st of June 2023,04:00 - 04:30,C5.202,,
+291,Rana Tarek Adel Ibrahim Amer,Smart Bike - autonomous Rider assistance,Dr. Hassan . Soubra ,Dr. Sherif G. Aly,Sunday 18th of June 2023,09:00 - 09:30,C5.204,,
+292,Ziad Bahy Mohamed Mahmoud Amer,Smart Bike - Open Software Architecture Platform ,Dr. Hassan . Soubra ,Dr. Sherif G. Aly,Sunday 18th of June 2023,09:30 - 10:00,C5.204,,
+293,Loay Hesham Anwar Mohamed Ahmed Elagroody,Smart Bike- CPU needs estimation for routing purposes,Dr. Hassan . Soubra ,Dr. Sherif G. Aly,Sunday 18th of June 2023,10:00 - 10:30,C5.204,,
+294,Karim Mostafa Ahmed Abdelrahman Ouf,Smart Bike- Energy needs estimation,Dr. Hassan . Soubra ,Dr. Sherif G. Aly,Sunday 18th of June 2023,10:30 - 11:00,C5.204,,
+295,Haneen Mahmoud Seddik Hassan,Smart Bike fail safe task scheduling system,Dr. Hassan . Soubra ,Dr. Sherif G. Aly,Sunday 18th of June 2023,11:00 - 11:30,C5.204,,
+296,Nourhan Hazem Mahmoud Hegazy,Smart bike Green safe Virtual lane,Dr. Hassan . Soubra ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,12:00 - 12:30,C5.206,,
+297,Roba Maged Reda Askar,Smart Bike Intrusion Detection System,Dr. Hassan . Soubra ,Dr. Hussein Abdelaty Elsayed Mohamed,Thursday 15th of June 2023,12:30 - 01:00,C5.206,,
+298,Nour Shehab Ezzat Abdelrehim,Smart Bike obstacle detection and avoidance,Dr. Hassan . Soubra ,Dr. Magdy Aboelela,Sunday 25th of June 2023,10:00 - 10:30,C5.201,,
+299,Basil Waleed Moder Mohamed,Smart Bike Path odometry,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,11:00 - 11:30,C5.206,,
+300,Ahmed Sayed Foad Sayed,Smart Bike Safety Supervisor,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,12:00 - 12:30,C5.206,,
+301,Mohamed Emad Mohamed Mohamed Elzawawy,Smart Bike Secure B2X: platoons,Dr. Hassan . Soubra ,Dr. Mohamed Hesham Farouk,Monday 19th of June 2023,12:30 - 01:00,C5.206,,
+302,Eliane Simon Pierre Fares,Smart billboard Ads with geolocation,Dr. Milad Michel Ghantous ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,01:00 - 01:30,C5.208,,
+303,Hana Mohamed Sherif Salaheldin Elmonayeri,Smart camera gender and age detection,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,12:00 - 12:30,C5.211,,
+304,Bassel Magdy Ahmed Mahmoud Moustafa,Smart healthcare monitoring system,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,02:30 - 03:00,C5.211,"15.06
+17.06
+18.06
+20.06
+22.06",
+305,Mohamed Ahmed Salama Ahmed,Smoke and Fire Detection Models Optimization  on System-on-Chip,Dr. Mohammed Abdel Megeed Salem ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,10:30 - 11:00,C5.208,,
+306,Mohamed Hamdy Ahmed Morsy,Student results management system,Dr. Rimon . Elias ,Dr. Wagdy Anis Aziz ,Saturday 17th of June 2023,11:00 - 11:30,C5.202,,
+307,Mohamed Hatem Ibrahim Soliman Khater,Students’ attendance management system,Dr. Wael Zakaria Abdallah ,Dr. Walaa Gad,Wednesday 21st of June 2023,12:00 - 12:30,C5.211,,
+308,Sarah Amr Badawi Abdelfatah,Studying Gender Cognitive Differences in Switching between Opposite Emotions,Dr. Wael  Mohamed AbulSadat ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Monday 26th of June 2023,02:30 - 03:00,C5.204,,
+309,Ali Hesham Mahmoud Ghieth,Supervised Robo-Advisor for Stock Market,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Hussein Ismail Hassan Shahin,Sunday 25th of June 2023,10:30 - 11:00,C5.212,,
+310,Seif Ahmed Ahmed Othman Ebrahim Zeweeta,Synthetic Ultrasound Image Creation for Breast Cancer Using GANs,Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,12:00 - 12:30,C5.202,,
+311,Mohamed Ibrahim Mohamed Maher Ebrahim Dawod,System on Chip for skin cancer detection,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Yasser Mohammed Sabry Gad Aboelmad,Sunday 25th of June 2023,03:00 - 03:30,C5.211,,
+312,Dina Muhammed Hassan Elfiky,System-on-Chip for Fall Detection in Video Surveillance,Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,12:30 - 01:00,C5.202,,
+313,Hana Hassan Aziz Pasha,Text summarization using GANs,Dr. Milad Michel Ghantous ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,03:30 - 04:00,C5.208,,
+314,Hussein Mostafa Hussein Elsawaf,Time Series Data Mining,Dr. Wael Zakaria Abdallah ,Dr. Magdy Aboelela,Sunday 25th of June 2023,09:30 - 10:00,C5.201,"15.06
+18.06
+21.06",
+315,Kareem Mohamed Mosaad Eid,Touchless screens using computer vision and ML,Dr. Milad Michel Ghantous ,Dr. Magdy Aboelela,Sunday 25th of June 2023,12:30 - 01:00,C5.201,,
+316,Kareem Salah Heidar Abukhater,Towards Generalizing Building Interfaces based on Personal Traits (Co-Supervised with Assoc. Prof. Mervat Abuelkheir),Dr. Nada Ahmed Hamed ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Thursday 15th of June 2023,10:30 - 11:00,C5.211,,
+317,Sara Ahmed Mohamed Salem Alkot,Traffic light detection system,Dr. Mahmoud Ibrahim Khalil ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,09:00 - 09:30,C5.201,,
+318,Youssef Emad Elsayed Elshorbagy,Traffic Sign Detection,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Mohamed Abouelatta,Sunday 25th of June 2023,03:30 - 04:00,C5.202,,
+319,Rania Saleh Sharafeldin Yassin,Traffic Sign Detection SoC,Dr. Shereen Moataz Mahmoud Mohamed Afifi ,Dr. Mohamed Abouelatta,Sunday 25th of June 2023,04:00 - 04:30,C5.202,,
+320,Ziad Ahmad Sadek Othman,Twitter-replica: backend enhancement,Dr. Wael  Mohamed AbulSadat ,Dr. Mona Farouk Ahmed,Sunday 25th of June 2023,12:00 - 12:30,C5.205,,
+321,Ahmed Abdalla Mohamed Hussin,Unification with Variably-Polyadic Predicates,Dr. Haytham Osman Ismail ,N.N.,,,,"15.06
+17.06
+18.06
+20.06
+22.06",
+322,Adham Wael Sayed Abdelkawi Mohamed,Unraveling methylation landscape of lung cancer subtypes  ,Dr. Mohamed Hamed Fahmy ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,09:00 - 09:30,C5.202,"15.06
+18.06
+21.06",
+323,Mohamed Mahmoud Mohamed Mounir Elzalabany,Unraveling the role of non-coding RNAs in Lung Adenocarcinoma ,Dr. Mohamed Hamed Fahmy ,Dr. Ahmed Mohamed El Bialy,Tuesday 20th of June 2023,09:30 - 10:00,C5.202,"15.06
+18.06
+21.06",
+324,Ahmed Hesham Wahba Abdelhady Gallal,Using AR and computer vision to create a calorie logging app,Dr. Milad Michel Ghantous ,Dr. Mahmoud Ibrahim Khalil,Tuesday 20th of June 2023,03:30 - 04:00,C5.205,,
+325,Abdelrahman Fathy Mohamed Mabrouk Elsalh,Using BERT models to detect hate speech and offensive comments ,Dr. Milad Michel Ghantous ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,04:00 - 04:30,C5.208,,
+326,Aly Hassan Abdelrahman Hassan,Using Blockchain in Healthcare Systems (Co-Supervised with Dr. Maggie Mashaly),Dr. Nada Ahmed Hamed ,Dr. Nawal Ahmed El-Fishawy,Thursday 15th of June 2023,01:30 - 02:00,C5.212,,
+327,Omar Khaled Mohamed Mahmoud Ahmed Makled,Using Deep Learning Approaches in Remote Sensing,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,12:30 - 01:00,C5.201,"15.06
+17.06
+18.06
+20.06
+22.06",
+328,Yasmine Ashraf Gamaleldin Ahmed Alabyad,Using Internet-Of-Things to create Smart Blockchain-Enabled Supply Chain (Co-Supervised with Dr. Maggie Mashaly),Dr. Nada Ahmed Hamed ,Dr. Hassen Taher Dorrah,Thursday 15th of June 2023,12:00 - 12:30,C5.202,,
+329,Ziad Ayman Salem Ali Hegazy,Using machine learning and IoT to create a smart street parking system in non-smart cities ,Dr. Milad Michel Ghantous ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,01:30 - 02:00,C5.208,,
+330,Mahmoud Yassen Khodry Mahmoud,Vehicle Counting and Classification,Dr. Hossam Eldin Hassan Abdelmunim ,Dr. Hussein Ismail Hassan Shahin,Wednesday 21st of June 2023,08:30 - 09:00,C5.204,,
+331,Ahmed Mohamed Abdelmoaty Soliman,Vehicle Counting and Classification System,Dr. Mahmoud Ibrahim Khalil ,Dr. Hussein Ismail Hassan Shahin,Thursday 22nd of June 2023,12:30 - 01:00,C5.201,,
+332,Angela Emil Mekhail Eskandar,Vehicle Counting Classification and Tracking in Video Surveillance Using Deep Learning,Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed Refky Mohamed Amin,Wednesday 21st of June 2023,10:00 - 10:30,C5.208,,
+333,Habiba Yasser Adel Badie Mostafa Badie,Video Archive Summarization based on Query Object,Dr. Mohammed Abdel Megeed Salem ,Dr. Hassen Taher Dorrah,Sunday 18th of June 2023,10:30 - 11:00,C5.202,,
+334,Salma Mostafa Mohamed Mostafa Abdelqader,Video Summarization for Automatic Generation of Movie Trailers ,Dr. Mohammed Abdel Megeed Salem ,Dr. Mohamed M. Rehan,Thursday 15th of June 2023,11:00 - 11:30,C5.208,,
+335,Osama Hossiny Ali Hussien Hassan,Virus/Antivirus,Dr. Wael  Mohamed AbulSadat ,Dr. Sahar Selim,Thursday 15th of June 2023,03:00 - 03:30,C6.203,,
+336,Ahmed Moneer Ismaiel Mabrook Abouomar,Vision-based In-Vehilce Monitoring for Passengers' Safety & Emotion Recognition,Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,01:00 - 01:30,C5.202,,
+337,Zeina Yasser Adel Badie Mostafa Badie,Visual Dialog for E-Commerce Applications,Dr. Mohammed Abdel Megeed Salem ,Dr. Mahmoud Ibrahim Khalil,Monday 26th of June 2023,01:30 - 02:00,C5.202,,
+338,Marwan Tarek Farouk Elgemei,Visualizing PDF Files using mind mapping,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,10:00 - 10:30,C5.201,,
+339,Ismaiel Amr Hassan Abdelmoneim Nounou,Voice based email for the visually impaired,Dr. Islam Ahmed Mahmoud Elmaddah ,Dr. Sahar Ali Fawzi,Saturday 24th of June 2023,10:30 - 11:00,C5.201,,
+340,Peter Samir Armanyous Ywakim,Voice over IP (VoIP) Quality of Service Optimization,Dr. Wagdy Anis Aziz ,Dr. Mohamed Abouelatta,Sunday 25th of June 2023,02:30 - 03:00,C5.202,"18.06
+20.06
+22.06",
+341,Ahmed Ashraf Abdelmageed Karara,Weapon detection,Dr. Wael Zakaria Abdallah ,Dr. Hesham N. Elmahdy,Thursday 22nd of June 2023,01:30 - 02:00,C5.204,,
+342,Mohamed Shamseldin Mohamed Elsayed Mohamed,Weather Data Analysis and Prediction using Big-Data Analytics,Dr. Gamal Abdel Shafy ,Dr. Gamal Eldin Mohamed Aly,Wednesday 21st of June 2023,01:00 - 01:30,C5.201,,
+343,Abdelrahman Hazem Abdelbadie Ahmed,Web Application for Assignment of Class Sessions to Instructors,Dr. Haytham Osman Ismail ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,09:00 - 09:30,C5.208,,
+344,Mariam Mohamed Ibrahim Mohamed Elmadbouly,Web Pages Analysis & Classification using Computer Vision,Dr. Mohammed Abdel Megeed Salem ,Dr. Walaa Ibrahim Gabr,Monday 19th of June 2023,11:00 - 11:30,C5.208,,
+345,Seif Wael Abdelaziz Abdellatif,Web-based application for translation office,Dr. Rimon . Elias ,Dr. Islam Ahmed Mahmoud Elmaddah,Saturday 17th of June 2023,01:00 - 01:30,C5.201,,
+346,Maram Aly Mohamed Fakhry Abdulrahman,AI Hardware Acceleration using Approximate Computing ,Dr. Mohamed Abdel Ghany Ahmed Salem ,Dr. Mohamed Watheq Aly Kamel ElKharashy,Thursday 15th of June 2023,12:00 - 12:30,C5.211,,
+347,Yassin Akram Ahmed Elsaeed Ahmed Bayoumi,Dynamic Temporal Access Control in Sensor Networks,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,12:30 - 01:00,C6.204,,
+348,Farah Gaber Mohamed Ismail,Remote Driving of Golf Car Using VR: Experience Design (co-supervised by Dr. Amir Roshdy from EMS),Dr. Amr Hussien Elmougy ,Dr. Ahmed ElSheikh,Thursday 15th of June 2023,10:00 - 10:30,C6.204,,
+349,Mariam Hossameldin Attia Mostafa Elnaggar,Using VR Games to Detect Problems with Social Behavior,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,01:00 - 01:30,C6.204,,
+350,Doha Aboubakr Mahmoud Bersy,Remote Driving of Golf Car Using VR: Control and Communications (co-supervised by Dr. Amir Roshdy from EMS),Dr. Amr Hussien Elmougy ,Dr. Ahmed ElSheikh,Thursday 15th of June 2023,10:30 - 11:00,C6.204,,
+351,Doaa Ahmed Abdelmola Aly,Cyber Attacks on Self-Driving Cars by Manipulating Deep Learning Models,Dr. Amr Hussien Elmougy ,Dr. Ahmed ElSheikh,Thursday 15th of June 2023,11:00 - 11:30,C6.204,,
+352,Omar Khaled Hosny Mohamed Abdelrahman Eid,Investigating Voice Recognition-Based Authentication Systems,Dr. Amr Hussien Elmougy ,Dr. Ahmed ElSheikh,Thursday 15th of June 2023,12:00 - 12:30,C6.204,,
+353,Seif Borhaneldin Safwat Khattab Omar,Haptic Feedback System in VR Environments using Object Recognition (Co-supervised by Dr. Amir Roshdy from EMS),Dr. Amr Hussien Elmougy ,Dr. Ahmed ElSheikh,Thursday 15th of June 2023,12:30 - 01:00,C6.204,,
+354,Mazen Fayad Mohamed Hosni Ahmed Issa,Investigating Gait-Based Authentication Mechanisms,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,01:30 - 02:00,C6.204,,
+355,Mohamed Mostafa Rabie Mohamed Gad,Using VR Games to Detect Problems with Social Behavior,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,02:30 - 03:00,C6.204,,
+356,Omar Ashraf Mostafa Abdulhafiz,Retrospective Contact Tracing Using Graph Algorithms and Deep Learning,Dr. Amr Hussien Elmougy ,Dr. Ahmed ElSheikh,Thursday 15th of June 2023,01:00 - 01:30,C6.204,,
+357,Omar Sameh Mohamed Ibrahim Badr,Deepfake Systems for Emotion Detection Using Affective Cues and Speech Emotion Recognition ,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,03:00 - 03:30,C6.204,,
+358,Mohamed Saeed Mohamed Rageh,Constrained Dynamic Scheduling for the MET,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,03:30 - 04:00,C6.204,,
+359,George Reda George Habib,Social Listening for Social Good II: Analysis of Public’s Perception of Government’s Policies (Dell/MCIT Hackathon),Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Wednesday 21st of June 2023,10:00 - 10:30,C6.203,,
+360,Mayar Khaled Abdelrahman Mohamed,Quality of Explanations Analysis across Diverse Recommendation Systems,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 24th of June 2023,09:00 - 09:30,C5.202,,
+361,Salma Hany Mohamed Safwat Sleem,Fluid: Dynamic Adaptive User Interfaces from Continuous User Interactions Analysis,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Wednesday 21st of June 2023,10:30 - 11:00,C6.203,,
+362,Farida Tarek Kamal Kassem,Green SC: Supply Chain Environmental Compliance Analysis (DAAD Project with HTW Berlin),Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Wednesday 21st of June 2023,11:00 - 11:30,C6.203,,
+363,Nada Aiman Mohamed Farid,Assessing the Market Gap in CS Jobs via Analysis of Job Postings vs. CS Curricula,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 24th of June 2023,09:30 - 10:00,C5.202,,
+364,Malak Hesham Mohamed Hegazy,Know Me: Persona Inference from Recommender Sessions,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Wednesday 21st of June 2023,12:00 - 12:30,C6.203,,
+365,Ahmed Reda Ragheb Hassan Eldemery,Building a Chatbot for Students Mentorship based on Pre-trained Language Models,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 24th of June 2023,10:00 - 10:30,C5.202,,
+366,Yousef Moataz Negmeldeen Mohamed,CI for Machine Learning: Integration of ML Models into Software,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 24th of June 2023,10:30 - 11:00,C5.202,,
+367,Andrew Ayman Wadie Labib Mousa,SC Resilience: Identifying Equivalent Alternative Graphs for a Supply Chain,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Wednesday 21st of June 2023,12:30 - 01:00,C6.203,,
+368,David Samy Naeem Ywakeem,Building a Chatbot for Students Mentorship based on Extracted Knowledge Graphs,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 24th of June 2023,12:00 - 12:30,C5.202,,
+369,Ganna Mohamed Abdelhafiz Elsayed,Data Tests: Designing a Data Quality Framework for Machine Learning Pipelines,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Wednesday 21st of June 2023,01:00 - 01:30,C6.203,,
+371,Karim Ahmed Abouzeid Hassanein Khalil,Architectural Patterns for Machine Learning and AI Systems,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Saturday 24th of June 2023,01:30 - 02:00,C5.204,,
+372,Alaa Hesham Mohamed Abdulla Hussein,Know Me: Persona Inference from User Interactions (Co-supervised with Dr. Nada Sharaf),Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Saturday 24th of June 2023,02:00 - 02:30,C5.204,,
+373,Bassel Essam Abdallah Khalifa,SC Risk Assessment: Analysis of Risk Propagation through Causal Graphs,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Ahmed Hassan Mohamed Yousef,Saturday 24th of June 2023,12:30 - 01:00,C5.202,,
+374,Gamila Hesham Arafa Mahmoud Farghaly,Investigating and Designing Dataset-level Bias and Fairness Metrics,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Saturday 24th of June 2023,03:00 - 03:30,C5.204,,
+375,Omar Sherif Ali Hassan,Social Listening for Social Good I: Analysis of Public’s Perception of Government’s Policies (Dell/MCIT Hackathon),Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Saturday 24th of June 2023,03:30 - 04:00,C5.204,,
+376,Ahmed Yasser Elsayed Ragab Khedr,SC Optimization: Identifying Equivalent Minimal Graphs for a Supply Chain,Dr. Mervat Mustafa Fahmy Abuelkheir ,Dr. Cherif Salama,Saturday 24th of June 2023,04:00 - 04:30,C5.204,,
+377,Fady Mounir Fouad Elsokary,Avatar Realism and Social Interaction I ,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,10:30 - 11:00,C6.204,,
+378,Tony Amir Melad Gad Elsayed,Avatar Realism and Social Interaction II,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,11:00 - 11:30,C6.204,,
+379,Mariam Amr Salah Mohamed Faggal,AntiDepressant: Gamification for Helping Individuals with Depression ,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,11:30 - 12:00,C6.204,,
+380,Mariam Tamer Mohamed Abdelhadi,The Brain Game: Improving Brain Health and Cognitive Skills though Games,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,12:30 - 01:00,C6.204,,
+381,Soha Samir Ibrahim Ahmed,Artificial Intelligence Chatbot for Behavior Change,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,01:00 - 01:30,C6.204,,
+382,Mohamed Omar Mohamed Taha Omar,Detection of Depressive Symptoms by Detecting Changes in Everyday Activities,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,01:30 - 02:00,C6.204,,
+383,Yehia Mohamed Galal Abdelfattah Mohamed Galal Yakout,DeStress: Investigating Stress and Anxiety Reduction through Gamification ,Prof. Dr. Slim . Abdennadher ,Dr. Sherif G. Aly,Wednesday 21st of June 2023,02:00 - 02:30,C6.204,,
+384,Mohamed Medhat Adel Helal,Optimizing Restaurant Operations through predictive Modeling of order readiness time: A study in just-in-time dispatch of food Captains - Careem,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,04:00 - 04:30,C6.204,,
+385,Marwan Ashraf Mahmoud Amin,Exploring the Accuracy of predictive models for estimating time of Arrival of Food orders: A study in Customer Satisfaction - Careem,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,04:30 - 05:00,C6.204,,
+386,Hazem Sameh Ibrahim Ghaniem Soliman,Decoding the complexities of ride hailing : A predictive analysis of Driver activity phases and its impact on improving ETA Estimation and optimizing operations - Careem,Dr. Amr Hussien Elmougy ,Dr. Seif Eldawlatly,Sunday 18th of June 2023,05:00 - 05:30,C6.204,,
