@@ -1,0 +1,356 @@
+Student ID,Student Name,Student Email,Topic Title,GUC Supervisor,External Reviewer Name
+49-14632,Abdallah Mohamed Adel Mamoun Sayed Ahmed Nada,abdallah.nada@student.guc.edu.eg,Investigating Reinforcement Learning for Mitigative Actions Addressing Network Vulnerabilities,Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+32-17306,Abdallah Mohamed Ahmed Moussa Mohamed,abdallah.moussa@student.guc.edu.eg,Remote Sensing Image Captioning Using Convolutional Neural Networks,Mohammed Abdel Megeed Salem,Galal Nadim
+31-5774,Abdel-haliem Ahmed Elsayed Refaat Shokeir,abdel-haliem.shokeir@student.guc.edu.eg,Algorithms for Conjunctive Query Evaluation I,Haytham Osman Ismail,Mona Farouk
+46-11334,Abdelrahman Ahmed Mohamed Badran,abdel-rahman.badran@student.guc.edu.eg,Data Preparation and Annotation Pipelines for Natural Language Analysis Tasks,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+46-2085,Abdelrahman Hany Farouk Abdelbaky,abdel-rahman.farouk@student.guc.edu.eg,The Virtual Turing Machine,Haytham Osman Ismail,Samar Hesham
+46-12167,Abdelrahman Mahmoud Mohamed Hafez,abdelrahman.hafez@student.guc.edu.eg,Graphical Automata Simulator,Haytham Osman Ismail,Hassen Taher Dorrah
+43-15041,Abdelrahman Mohamed Abdelrahman Omar,abdelrahman.omar@student.guc.edu.eg,Model Agnostic Methods for Explainable AI: Counterfactuals-Based Explanations,Nourhan Ehab Azab,Samah Tantawy
+46-12187,Abdelrahman Mohamed Hegab Abdelhady,abdelrahman.hegab@student.guc.edu.eg,Combining Various Networks for Sound Event Localization and Detection,Hisham Hassaballah Othman,Islam Ahmed Mahmoud El-Maddah 
+46-1292,Abdelrahman Mostafa Salahelden Ahmed,abdel-rahman.mostafa@student.guc.edu.eg,Autoregressive Domain-Dependent Model for Anomalous Sounds Detection,Hisham Hassaballah Othman,Hassen Taher Dorrah
+46-4048,Abdelrahman Sherif Fathy Abdelsattar,abdelrahman.sherif@student.guc.edu.eg,Waves Experiment Simulation using Unity (Co-Supervised by Dr. Hesham Othman)),Amr Abdallah Abou Shousha,Hussein Abdelaty
+46-1001,Abdelrhman Khaled Mohamed Masoud,abdelrhman.masoud@student.guc.edu.eg,Night Vision for Autonomous Vehicles using Monocular Depth Estimation,Amr Hussein ElMougy,Ahmed El Sheikh
+46-4677,Abdullah Ahmed Abdelaziz Ahmed Saafan,abdullah.saafan@student.guc.edu.eg,Image to 3D Model Construction for E-Commerce Applications - Augmania Egypt,Mohammed Abdel Megeed Salem,Hesham N. Elmahdy
+46-1817,Adel Mohamed Elsayed Ahmed Elhenawy,adel.elhenawy@student.guc.edu.eg,Evolving UIs: Adapting UI Design to Support Evolving Usability,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-0388,Adham Amr Mohamed Hassan Shamseldin,adham.shamsaldain@student.guc.edu.eg,Internet of Wearable Medical Things (IoWMT) for Covid-19 : Data Analysis & App Development,Maggie Ahmed Ezzat,Nawal Ahmed El-Fishawy
+46-7855,Adham Ayman Ali Kamel Almadany,adham.almadany@student.guc.edu.eg,Audio-based Quran Verses Recognition Using Deep Learning Models,Mohammed Abdel Megeed Salem,Hesham N. Elmahdy
+46-2887,Adham Ehab Abdelmoghny Mohamed Elsheikh,adham.elsheikh@student.guc.edu.eg,Mobile Net v2 Baseline for Anomalous Sounds Detection,Hisham Hassaballah Othman,Hussein Abdelaty
+46-0746,Adham Hisham Elsadek Kandeel,adham.kandeel@student.guc.edu.eg,Exploring the Behavior of Thermal Cameras in Autonomous Vehicles,Amr Hussein ElMougy,Ahmed El Sheikh
+46-3274,Adham Mohamed Salaheldeen Abdelhafiz Mohamed,adham.abdelhafiz@student.guc.edu.eg,Texture 3D Furniture,Mohammed Abdel Megeed Salem,Mohamed Refky Amin
+46-7344,Adham Tarek Fathy Abdallah,adham.fathy@student.guc.edu.eg,Emotional Agent Desktop Replacement III (CV),Wael Mohamed AbulSadat,Hossam Abdelonem
+46-16450,Ahmad Hassan Sayed Ahmad Taha,ahmad.taha@student.guc.edu.eg,DSP Runtime Emulator on FPGA,Hassan . Soubra,Walaa Ibrahim Gabr
+46-2859,Ahmed Abdelraheem Saad Elamory,ahmed.elamory@student.guc.edu.eg,Explainable AI meets Knowledge Graphs I,Nourhan Ehab Azab,Hassen Taher Dorrah
+46-4554,Ahmed Ahmed Ahmed Eletreiby,ahmed.eletreiby@student.guc.edu.eg,3-D virtual grocery store Task I,Milad Michel Ghantous,Hussein Shahin
+46-4982,Ahmed Alaa Mohamed Youssef Attawia,ahmed.attawia@student.guc.edu.eg,Federated Learning for Personalizing Autocomplete Models,Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+43-1530,Ahmed Alaa Mostafa Hamouda,ahmed.mostafahamouda@student.guc.edu.eg,Incorporating Auxiliary Data for Urban Sound Tagging System 1,Hisham Hassaballah Othman,Hussein Abdelaty
+46-2138,Ahmed Amin Abdelghafar Mosalam Naem,ahmed.naem@student.guc.edu.eg,Incorporating Auxiliary Data for Urban Sound Tagging System 3,Hisham Hassaballah Othman,Hussein Abdelaty
+46-3694,Ahmed Amr Abdalsalam Mohamed Atwan,ahmed.atwan@student.guc.edu.eg,fMRI-based Recognition of Alzheimer’s Disease,Seif El Dawlatly,Hussein Shahin
+34-14498,Ahmed Ashraf Ahmed Mohamed,ahmed.ashraf-mohamed@student.guc.edu.eg,ECG Analysis Based on Deep Compressed Sensing techniques\,Amr Talaat Abdel-Hamid,Galal Nadim
+40-17002,Ahmed Ashraf Ahmed Zaki Ibrahim Ali,ahmed.ibrahimali@student.guc.edu.eg,Edge computing for burst computational needs,Hassan . Soubra,Wagdy Anis Aziz
+43-3187,Ahmed Atef Abdelmaksoud Marouf,ahmed.marouf@student.guc.edu.eg,Creating smooth Bezier surfaces utilizing corners in 3D space,Rimon . Elias,Tamer Heshmat
+46-3547,Ahmed Ayman Mamdouh Abdelmonem Eloraby,ahmed.eloraby@student.guc.edu.eg,Home Robots Control using P300-based Brain-Computer Interface,Seif El Dawlatly,Gamal Eldin Mohamed Aly
+46-2004,Ahmed Diaa Mahmoud Ali Fahmy,ahmed.alifahmy@student.guc.edu.eg,A Comparative Study On Different approaches for Arabic Sentiment Analysis,Milad Michel Ghantous,Hanaa Bayoumi
+34-3465,Ahmed Hossam Eldin Ahmed Abd Elfatah Mohamed,ahmed.ahmedmohamed@student.guc.edu.eg,Explainable Ontologies,Nourhan Ehab Azab,Ahmed Hassan
+34-0722,Ahmed Hossam Mostafa Hassan Mostafa,ahmed.hassan-mostafa@student.guc.edu.eg,Using the DREAM Generation Platform to Simulate Different Weather Conditions to experiment with Autonomous Driving Tasks,Amr Hussein ElMougy,Sahar Selim
+46-4861,Ahmed Hossameldin Zakaria Mohamed Ali,ahmed.zakariaali@student.guc.edu.eg,Smart Bike Intrusion Detection System,Hassan . Soubra,Abeer ElKorany
+46-0726,Ahmed Hussein Youssif Marzouk,ahmed.youssifmarzouk@student.guc.edu.eg,Investigating Explanation Methods for Deep Neural Networks I,Nourhan Ehab Azab,Hanaa Bayoumi
+46-8041,Ahmed Ibrahim Ahmed Ibrahim,ahmed.eltawel@student.guc.edu.eg,Conflicting Moral Codes Simulation for Self Driving Cars: The Single Car Case (Co-Supervised with Assoc. Prof. Amr Elmougy),Nourhan Ehab Azab,Mohamed Refky Amin
+46-0663,Ahmed Ihab Abdelaziz Mohamed,ahmed.ihabmohamed@student.guc.edu.eg,Context-Sensitive Explainable AI Systems,Nourhan Ehab Azab,Hanaa Bayoumi
+46-0458,Ahmed Khaled Ekram Rifky Mahmoud Abdelkhaliq,ahmed.abdelkhaliq@student.guc.edu.eg,Multi-label Multi-layer perceptron for Urban Sound Tagging,Hisham Hassaballah Othman,Hanaa Bayoumi
+46-6594,Ahmed Khaled Mohamed Rashad,ahmed.mahmoudabdo@student.guc.edu.eg,Emotional Agent Desktop Replacement I (NLP),Wael Mohamed AbulSadat,Hanaa Bayoumi
+46-1955,Ahmed Mohamed Abuelyazeed Zaher Ahmed Emara,ahmed.abuelyazeed@student.guc.edu.eg,Federated Reinforcement Learning,Mohammed Abdel Megeed Salem,Mahmoud I Khalil
+46-12591,Ahmed Mohamed Farouk Mohamed Abdelsalam,ahmed.faroukmohamed@student.guc.edu.eg,Tracking Moving Objects for Visual Prosthesis,Seif El Dawlatly,Galal Nadim
+46-16589,Ahmed Mohamed Ramadan Mohamed,ahmed.mohamedselim@student.guc.edu.eg,Analysis of Emotional Arcs in Music Playlists for Improved Recommendations,Mervat Mustafa Fahmy Abuelkheir,Yasmin Afify
+43-15549,Ahmed Mohammed Abdelghany Alfiki,ahmed.alfiki@student.guc.edu.eg,Information Revision in Java SNePS 3.0,Haytham Osman Ismail,Mostafa ElAttar
+46-13429,Ahmed Mohammed Osman Serry Abdelrahman,ahmed.osmanserry@student.guc.edu.eg,Modeling and Analysis of Business Process Workflows,Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+46-4717,Ahmed Mostafa Ahmed Fawzy Mostafa Abdelkhalek,ahmed.fawzymostafa@student.guc.edu.eg,Face Voice & Gesture Recognition For Smart Homes,Mohammed Abdel Megeed Salem,Magdy Abdlghany Soliman Aboelela
+46-18324,Ahmed Ramadan Mohamed Hassan,ahmed.ramadanhassan@student.guc.edu.eg,Predicting Human Visual Brain fMRI Responses to Short Video Clips using Deep Learning,Seif El Dawlatly,Mahmoud I Khalil
+46-0466,Ahmed Sameh Alshabrawi Ahmed,ahmed.alshabrawi@student.guc.edu.eg,Automated IoT metrics,Hassan . Soubra,Nawal Ahmed El-Fishawy
+46-6310,Ahmed Sameh Mohamed Noureldin Abdelrazik Fahmy,ahmed.abdelrazik@student.guc.edu.eg,Creating a Digital Twin to Control the xArm6 (Co-Supervised with Dr. Maggie Mashaly),Nada Ahmed Hamed,Fatma Omara
+46-1819,Ahmed Shamel Nabil Nazmy,ahmed.nazmy@student.guc.edu.eg,Autoregressive Domain-independent Model for Anomalous Sounds Detection,Hisham Hassaballah Othman,Hussein Abdelaty
+46-3494,Ahmed Tamer Ahmed Abdelaleem Lokma,ahmed.lokma@student.guc.edu.eg,Building a Simulator for Task-oriented Dialogue System,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-5386,Ahmed Tamer Ahmed Mohamed Moussa,ahmed.ahmedmoussa@student.guc.edu.eg,Smart Bike Insurance Safety metrics: Software,Hassan . Soubra,Abeer ElKorany
+46-6560,Ahmed Yasser Abdelhamid Ahmed Elfarrash,ahmed.elfarrash@student.guc.edu.eg,Multi-tasking models for Urban Sound Tagging,Hisham Hassaballah Othman,Hussein Abdelaty
+46-5197,Ahmed Yehia Mohamed Kamel Taksira,ahmed.taksira@student.guc.edu.eg,AI Applications in Health Care II: Exploring IBM Watson's Diagnostic Platform (Co-supervised by Dr. Nourhan Ehab),Amr Hussein ElMougy,Cherif Salama
+46-12699,Alaa Amr Mohamed Abdelazeem Mohamed,alaa.abdelazeem@student.guc.edu.eg,Decoding Electromyography (EMG) Signals to Identify Movements,Seif El Dawlatly,Hussein Shahin
+46-2595,Alfarouk Amr Ali Sabry,alfarouk.sabry@student.guc.edu.eg,Simulation of Driving Profiles in Challenging Weather Conditions and Scenarios,Amr Hussein ElMougy,Ahmed El Sheikh
+46-2960,Ali Amr Mostafa Abdelhamid Youssef,ali.amr@student.guc.edu.eg,Scheduling mobile app for GUC staff and students,Milad Michel Ghantous,Hanaa Bayoumi
+46-3674,Ali Helmy Youssef Mohamed Qrdash,ali.ardash@student.guc.edu.eg,GUC campus AR app for halls and offices and food outlet localization,Milad Michel Ghantous,Mona Farouk
+46-8124,Ali Khaled Ali Hassan Elsayed Elbarbary,ali.elbarbary@student.guc.edu.eg,LiDAR-based Scene Understanding for Autonomous Vehicles,Amr Hussein ElMougy,Ahmed El Sheikh
+46-13806,Ali Mohamed Farid Elsayed Massoud,ali.massoud@student.guc.edu.eg,Design of a visualization GUI for atomistic modeling of materials,Ahmed Abd El-Hamid Mohamed Shafik Maarouf,Tamer Heshmat
+43-12207,Ali Mohamed Kamal Abdelaziz,ali.abdelaziz@student.guc.edu.eg,I-REDU: Interpretable Recommender System for Learning and Educational Purposes,Mervat Mustafa Fahmy Abuelkheir,Yasmin Afify
+46-1010,Ali Rasheed Mazhar Ali Mazhar,ali.mazhar@student.guc.edu.eg,Abduction in Log_A G,Haytham Osman Ismail,Azza Taha
+46-7537,Alia Ahmed Saddik Mohamed Saleh,alia.saleh@student.guc.edu.eg,Java/Web3 Framework II,Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-2207,Alia Mahmoud Ali Sayed Ahmed Khalifa,alia.khalifa@student.guc.edu.eg,Semantic image segmentation for speedbump detection,Milad Michel Ghantous,Hossam Abdelonem
+46-1784,Aly Ahmed Hatem Elsayed Youssef Elashram,aly.elashram@student.guc.edu.eg,ITS-ML based pollution measurement of CAIRO,Hassan . Soubra,Nawal Ahmed El-Fishawy
+46-1545,Aly Bahaa Elsaid Ahmed Nasr,aly.elsaid@student.guc.edu.eg,Model Agnostic Methods for Explainable AI: Local Surrogate (LIME),Nourhan Ehab Azab,Ahmed Hassan
+46-4657,Aly Nader Sobhy Helmy Mansour,aly.helmy@student.guc.edu.eg,Spectrotemporally-Aligned Features and Gated Recurrent Unit for Sound Event Localization and Detection,Hisham Hassaballah Othman,Mahmoud I Khalil
+46-0371,Aly Yasser Fathy Sayed Hegazy,aly.hegazy@student.guc.edu.eg,Augmented reality for outdoor monuments,Rimon . Elias,Fatma Omara
+46-0254,Amina Yasser Azmy Abdelhamid Sakr,amina.sakr@student.guc.edu.eg,Automatic Instrument Recognition and Music Scripting Using Machine Learning Techniques,Mohammed Abdel Megeed Salem,Gamal Eldin Mohamed Aly
+46-1073,Amira Hossameldin Roshdy Abdelbaky Omar,amira.abdelbaky@student.guc.edu.eg,IoT malware analysis II,Hassan . Soubra,Wagdy Anis Aziz
+46-7305,Amira Salah Fathy Ibrahim Soliman,amira.soliman@student.guc.edu.eg,Predicting Epileptic Seizures from Brain Activity using Deep Learning Techniques,Seif El Dawlatly,Mahmoud I Khalil
+43-2982,Amr Ahmed Ibrahim Lamei Mohamed,amr.lamei@student.guc.edu.eg,Mind GRAF: Message Passing II (Co-Supervised with Assoc. Prof. Haythem Ismail),Nourhan Ehab Azab,Abeer ElKorany
+46-13257,Amr Aly Mahmoud Hoballah,amr.hoballah@student.guc.edu.eg,Algobucks: A Private Blockchain for Electronic Healthcare Records and Clinic Management,Amr Hussein ElMougy,Cherif Salama
+46-6226,Anas Alaaeldin Abdelmoanem Elnemr,anas.elnemr@student.guc.edu.eg,Ethical Frameworks for Self Driving Cars: The Deontological Framework (Co-Supervised with Assoc. Prof. Amr Elmougy),Nourhan Ehab Azab,Mohamed Refky Amin
+46-9403,Anas Ayman Ahmed Abdelghany Hassanin,anas.hassanin@student.guc.edu.eg,Multiplatform Tour-guiding Backend,Mohamed Ehsan Ashour,Ahmed Hassan
+46-12721,Andrew Ashraf Attia Melouka,andrew.melouka@student.guc.edu.eg,Algorithms for Belief State Compression: Correctness Proofs,Haytham Osman Ismail,Azza Taha
+46-9045,Andrew Hany Shaker Morgan Gaser,andrew.gaser@student.guc.edu.eg,A Moral Machine for Self-Driving Cars using the CARLA Simulator (Co-supervised by Dr. Nourhan Ehab),Amr Hussein ElMougy,Cherif Salama
+43-10239,Antony Makram Wahba Zakhary,antony.zakhary@student.guc.edu.eg,Mind GRAF: Revision II (Co-Supervised with Assoc. Prof. Haythem Ismail),Nourhan Ehab Azab,Ahmed Abdelfattah
+43-4245,Anwar Mohamed Alaaeldin Hamed Anwar Elshenawy,anwar.elshenawy@student.guc.edu.eg,Creating smooth NURBS surfaces utilizing corners in 3D space,Rimon . Elias,Tamer Heshmat
+46-3527,Anwar Rehab Anwar Hamada,anwar.hamada@student.guc.edu.eg,Explainable AI meets Knowledge Graphs II,Nourhan Ehab Azab,Mona Farouk
+46-3902,Ayaallah Ahmed Ali Sayed Ahmed Saleh,ayaallah.saleh@student.guc.edu.eg,Visual programming for computational/architectural design II,Rimon . Elias,Islam Ahmed Mahmoud El-Maddah 
+46-2545,Badr Mohammad Badreldin Alsayed,badr.alsayed@student.guc.edu.eg,ResNet Domain Adaptation for Anomalous Sounds Detection,Hisham Hassaballah Othman,Nawal Ahmed El-Fishawy
+49-21642,Begad Ahmed Sabry Roston,begad.roston@student.guc.edu.eg,Detection of 3D Corners,Rimon . Elias,Hossam Abdelonem
+46-0285,Carol Emad Abdelmonem Halim,carol.halim@student.guc.edu.eg,Smart Bike Automatic Autonomy adaptation for rider assistance,Hassan . Soubra,Walaa Ibrahim Gabr
+46-2078,Danial Amir Ayad Shehata,danial.shehata@student.guc.edu.eg,Creating Character Animation in Maya using MEL,Rimon . Elias,Hanaa Bayoumi
+46-0416,Dareen Mohamed Abuelmagd Abdelwareth,dareen.abdelwareth@student.guc.edu.eg,Image and point cloud fusion for pedestrians detection,Milad Michel Ghantous,Hanaa Bayoumi
+46-5880,Daryn Essam Moustafa Abdelgalil Abouhashish,daryn.abouhashish@student.guc.edu.eg,Animating cartoon characters with augmented reality - Augmania Egypt,Mohammed Abdel Megeed Salem,Nawal Ahmed El-Fishawy
+46-10582,David Edwar Attia Shwail,david.shwail@student.guc.edu.eg,Model Ensemble Domain Adaptation for Anomalous Sounds Detection,Hisham Hassaballah Othman,Mahmoud I Khalil
+46-0768,David Said Wahba Zarif Said Abdelmalek,david.abdelmalek@student.guc.edu.eg,Automated Quality Control in Industry 4.0 : Digital Twinning for Robotic Arm (co-supervised with Dr. Nada Sharaf),Maggie Ahmed Ezzat,Tamer Heshmat
+46-18006,Dinah Waref Mohamed Lamei Shalaby,dinah.shalaby@student.guc.edu.eg,Efficiency and Privacy in Deep Learning Using Split Federated Learning,Mohammed Abdel Megeed Salem,Mahmoud I Khalil
+46-12691,Donia Mohamed Shahin Youssef Mohamed,donia.shahin@student.guc.edu.eg,Shape grammar for computational/architectural design I,Rimon . Elias,Mona Farouk
+46-7934,Eman Osama Saad Abdelaziz,eman.abdelaziz@student.guc.edu.eg,Developing a Simulation Environment of Visual Pathway Neuronal Activity,Seif El Dawlatly,Sahar Selim
+46-18482,Engy Khaled Ahmed Abdelkader Ezz Elarab,engy.elarab@student.guc.edu.eg,Wheelchair Control using Steady-state Visual Evoked Potential (SSVEP) Brain-Computer Interfaces,Seif El Dawlatly,Gamal Eldin Mohamed Aly
+46-3759,Eslam Tamer Mohamed Adel Mohamed Tawfick,eslam.tawfick@student.guc.edu.eg,Smart Power Signature for IOT Security Analysis,Amr Talaat Abdel-Hamid,Ismail Mohammed Hafez
+46-1666,Esraa Ahmed Abdelmotagaly Mohammed Elashmawy,esraa.elashmawy@student.guc.edu.eg,Multimodal medical image fusion,Milad Michel Ghantous,Hanaa Bayoumi
+46-2018,Ezzat Mohammed Ezzat Mohamed Abuelkheir,ezzat.abuelkheir@student.guc.edu.eg,Building a Business Supply Chain Simulator,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+46-9988,Fadi Saber Gamil Asham,fadi.asham@student.guc.edu.eg,Mobile: Smart Parking Spot Finder Using IP Cameras and Smartphone GPS,Milad Michel Ghantous,Wagdy Anis Aziz
+46-19149,Fady Gerges Rezk Samaan,fady.rezk@student.guc.edu.eg,Navigation Enhancement for Visual Prostheses,Seif El Dawlatly,Hossam Abdelonem
+46-0819,Fady Magdy Mikhail Salama,fady.salama@student.guc.edu.eg,Studying User Understanding/Attitude/Feeling towards Crypto Currency and Crypto Transactions (Qualitative Study),Wael Mohamed AbulSadat,Ahmed Hassan
+46-0896,Fady Samy Farahat Ibrahim,fady.farahat@student.guc.edu.eg,Generation and Analysis of Touristic Walking Trips,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-8240,Farah Ayman Taha Moghazy,farah.moghazy@student.guc.edu.eg,Non-Monotonic Reasoning Patterns in Log_A G,Haytham Osman Ismail,Azza Taha
+46-6815,Farah Ehab Fawzi Abdelkawi,farah.abdelkawi@student.guc.edu.eg,Smart Power Signature for IOT Security Analysis,Amr Talaat Abdel-Hamid,Ismail Mohammed Hafez
+46-4649,Farah Hassan Mohamed Ali,farah.mohamedali@student.guc.edu.eg,Effect of Virtual Store Layouts on Customers’ experience,Nada Ahmed Hamed,Hesham N. Elmahdy
+46-0383,Farah Mohamed Elsaeed Elsayed Temraz,farah.temraz@student.guc.edu.eg,Quality of Interpretations for Recommender Systems,Mervat Mustafa Fahmy Abuelkheir,Yasmin Afify
+46-0728,Farah Walid Mohamed Mohamed Ghonema,farah.ghonema@student.guc.edu.eg,Gesture Detection for Touchless Fast Food Menus,Milad Michel Ghantous,Galal Nadim
+46-0919,Faress Ahmed Hamed Gad,faress.gad@student.guc.edu.eg,EfficientNet-B3 Architecture for Urban Sound Tagging,Hisham Hassaballah Othman,Hussein Abdelaty
+46-0305,Farida Ashraf Ragaey Azab,farida.azab@student.guc.edu.eg,ITS-multi-vehicle pollution management system,Hassan . Soubra,Ahmed Hassan
+46-2291,Farida Ayman Elsayed Elgenedi,farida.elgenedi@student.guc.edu.eg,Game development using Unity and Oculus,Rimon . Elias,Mohamed Refky Amin
+46-0402,Farida Samer Ahmed Aldesouky,farida.aldesouky@student.guc.edu.eg,Creating Character Animation in Maya using Python,Rimon . Elias,Hanaa Bayoumi
+46-4994,George Kamal Aniss Abdulraouf Haroon,george.haroon@student.guc.edu.eg,Per-Channel Image Super Resolution,Milad Michel Ghantous,Mohamed H Farouk 
+46-10249,George Naguib Kameel Naguib Shedoudy,george.shedoudy@student.guc.edu.eg,CRNN baseline for Sound Event Localization and Detection,Hisham Hassaballah Othman,Mohamed H Farouk 
+46-0855,Habiba Sherif Fathy Omar,habiba.omar@student.guc.edu.eg,Development of an AI-assisted tool for Industry 4.0: Backend development,Maggie Ahmed Ezzat,Tamer Heshmat
+46-0280,Hadeer Elhussen Badereldin Ibrahim Fahmy,hadeer.fahmy@student.guc.edu.eg,Creating interactive web contents using Blend4Web and JavaScript,Rimon . Elias,Hanaa Bayoumi
+46-1804,Haidy Ayman Abdelkhalek Abdelrazik Tohfa,haidy.tohfa@student.guc.edu.eg,Smart Planter System IV,Hassan . Soubra,Nawal Ahmed El-Fishawy
+43-1051,Hamed Ashraf Hamed Mohamed,hamed.hamed@student.guc.edu.eg,Recipient-Sensitive Explainable AI Systems,Nourhan Ehab Azab,Ahmed Hassan
+46-0377,Hana Adel Mohamed Shaaban,hana.shaaban@student.guc.edu.eg,Medical Image Classification Using Cross-Silo Federated Learning,Mohammed Abdel Megeed Salem,Hanaa Bayoumi
+46-0555,Hana Ehab Mohamed Abdelfattah Mongi,hana.mongi@student.guc.edu.eg,Using AI for Appointment/Availability Forecasting and Optimization in Healthcare Clinics,Amr Hussein ElMougy,Cherif Salama
+46-1816,Hana Hussein Ahmed Khalifa,hana.ahmedkhalifa@student.guc.edu.eg,Smart Bike Path odometry,Hassan . Soubra,Abeer ElKorany
+46-1450,Hania Ashraf Hamed Mahmoud Hamed,hania.hamed@student.guc.edu.eg,Using high performance computing to predict electronic properties of materials,Ahmed Abd El-Hamid Mohamed Shafik Maarouf,Mohamed Refky Amin
+46-7291,Hassan Mohamed Hassan Mohamed Ibrahim,hassan.hassanmohamed@student.guc.edu.eg,Registration of points in 3D space,Rimon . Elias,Mohamed Refky Amin
+46-6959,Hatem Naier Mohamed Ahmed Dawa,hatem.dawa@student.guc.edu.eg,Model Agnostic Methods for Explainable AI: Argumentation-Based Explanations,Nourhan Ehab Azab,Ismail Mohammed Hafez
+46-2472,Haya Tawakol Mohamed Mounir Abdelghafour,haya.abdelghafour@student.guc.edu.eg,Algorithms for Conjunctive Query Evaluation II,Haytham Osman Ismail,Mona Farouk
+46-3469,Hazem Ahmed Fahmy Aly Hetaba,hazem.hetaba@student.guc.edu.eg,STEM Experiment Designer II (Augmented Reality - Runtime Android-based Environment),Wael Mohamed AbulSadat,Islam Ahmed Mahmoud El-Maddah 
+46-7679,Hazem Effat Mohamed Fakhry Khalaf,hazem.abdelrahman@student.guc.edu.eg,Adaptive Hybrid Convolution for Sound Event Localization and Detection,Hisham Hassaballah Othman,Islam Ahmed Mahmoud El-Maddah 
+46-13128,Hazem Hisham Omran Hassan,hazem.hassan@student.guc.edu.eg,Object Recognition Enhancement for Visual Prostheses,Seif El Dawlatly,Mahmoud I Khalil
+46-20606,Hesham Mohamed Moneer Saleh,hesham.moneer@student.guc.edu.eg,Eye Detection and Face Recognition for Visual Prostheses,Seif El Dawlatly,Galal Nadim
+46-1492,Honey Mohamed Ali Abdelkader,honey.abdelkader@student.guc.edu.eg,Play Bricks III: Building 3D Architectural Models in VR,Mohammed Abdel Megeed Salem,Gamal Eldin Mohamed Aly
+46-2935,Hossam Magdy Mohamed Elhattab,hossam.elhattab@student.guc.edu.eg,Adaptivity in V-Commerce,Nada Ahmed Hamed,Hassen Taher Dorrah
+46-17614,Hossam Mohamed Ali Abdellatif,hossam.aliabdellatif@student.guc.edu.eg,An Integrated Tracking Framework for omni-directional conveyor using Computer Vision,Maggie Ahmed Ezzat,Mahmoud I Khalil
+46-4640,Hussein Magdy Gamal Abdelkader Youssef,hussein.youssef@student.guc.edu.eg,Smart Contract EcoSystem I (Consensus Algorithms),Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-4587,Ibrahim Ahmed Ibrahim Elmetwally Fahim,ibrahim.fahim@student.guc.edu.eg,EfficientNet-B4 Architecture for Urban Sound Tagging,Hisham Hassaballah Othman,Mohamed H Farouk 
+46-4847,Ismail Ahmed Hamed Anwar Elshinnawy,ismail.elshinnawy@student.guc.edu.eg ,Food Ordering App I,Slim . Abdennadher,Cherif Salama
+46-0269,Jana Tamer Mohamed Elraggal,jana.elraggal@student.guc.edu.eg,Play Bricks III: Integrating Architectural Style with Desktop Play Bricks App,Mohammed Abdel Megeed Salem,Sahar Selim
+46-2999,John Magdy Bekheet Hanna Khla,john.khla@student.guc.edu.eg,Single-tasking models for Urban Sound Tagging,Hisham Hassaballah Othman,Hussein Abdelaty
+46-3935,John Moenes Hanna Halim Sedrak,john.sedrak@student.guc.edu.eg,Robotic Arm Control using P300-based Brain-Computer Interfaces,Seif El Dawlatly,Walaa Ibrahim Gabr
+46-19160,Jomana Wael Salaheldeen Mohamed,jomana.abdelrehem@student.guc.edu.eg,Deep fashion: virtual try-on,Milad Michel Ghantous,Mahmoud I Khalil
+46-3211,Kareem Mohamed Reda Afifi,kareem.reda@student.guc.edu.eg,COVID-19 Diagnosis from Chest X-rays using Machine Learning,Seif El Dawlatly,Magdy Abdlghany Soliman Aboelela
+46-13534,Kareem Yasser Yousef Ezzeldin Mohamed Saleh,kareem.ezzeldin@student.guc.edu.eg,Automated Device identification in Fine Grained smart Meters,Amr Talaat Abdel-Hamid,Mohamed H Farouk 
+46-15042,Karim Gamal Badawy Mohamed Elshaarawy,karim.elshaarawy@student.guc.edu.eg,Anonymous DEX II (Solana),Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-1702,Katrin Emad Fathy Ibrahim,katrin.ibrahim@student.guc.edu.eg,EfficientNet-B1 Architecture for Urban Sound Tagging,Hisham Hassaballah Othman,Hussein Abdelaty
+46-19746,Kerolos Romany Bekit Aziz Balamon,kerolos.balamon@student.guc.edu.eg,Smart Image Analysis for LED Screen Performance,Amr Talaat Abdel-Hamid,Islam Ahmed Mahmoud El-Maddah 
+46-10267,Khadija Mohamed Riad Mohamed Elbadrawy,khadija.elbadrawy@student.guc.edu.eg,Face Processing and Decoding using Brain Activity,Seif El Dawlatly,Hesham N. Elmahdy
+46-10603,Khaled Ashraf Elsayed Youssef Khattab,khaled.khattab@student.guc.edu.eg,Quantum Metrics,Hassan . Soubra,Mohamed H Farouk 
+46-1120,Khaled Mohamed Mahmoud Mohamed Youssef Romeh,khaled.romeh@student.guc.edu.eg,Data Augmentation for P300-based Brain-Computer Interfaces,Seif El Dawlatly,Gamal Eldin Mohamed Aly
+46-4854,Khaled Tamer Aly Mohamed,khaled.tamer@student.guc.edu.eg,Conflicting Moral Codes Simulation for Self Driving Cars: The Swarm Case (Co-Supervised with Assoc. Prof. Amr Elmougy),Nourhan Ehab Azab,Mohamed H Farouk 
+46-4823,Khaled Tarek Ali Hassan Hegazy,khaled.tarek@student.guc.edu.eg,Dynamic Path Planning for Autonomous Vehicles based on Augmented Lanes,Amr Hussein ElMougy,Ahmed El Sheikh
+46-11929,Khalid Ashraf Mohamed Mohamed Awad,khalid.awad@student.guc.edu.eg,IoT based smart agriculture system,Milad Michel Ghantous,Wagdy Anis Aziz
+46-0845,Kirea Ashraf Armia Samuel,kirea.samuel@student.guc.edu.eg,Restoration of damaged archaeological 2D parts using deep learning,Rimon . Elias,Hanaa Bayoumi
+46-1062,Kirollos Samir Guirguis Latif,kirollos.latif@student.guc.edu.eg,Deep learning for computational/architectural design I,Rimon . Elias,Hassen Taher Dorrah
+46-0770,Kirolos Elkess Habib Gerguis Shehata Rezallah,kirolos.rezallah@student.guc.edu.eg,Long-Term Action Recognition in Video Surveillance,Mohammed Abdel Megeed Salem,Hossam Abdelonem
+46-1362,Lina Walid Salaheldin Zakaria Shaheen,lina.shaheen@student.guc.edu.eg,Action Recognition in multi-Camera Video Surveillance,Mohammed Abdel Megeed Salem,Wagdy Anis Aziz
+46-3075,Linah Hossam Mohamed Mahmoud,linah.mahmoud@student.guc.edu.eg,Enhancing Character Recognition for Visual Prostheses,Seif El Dawlatly,Mahmoud I Khalil
+46-0384,Lobna Nader Nabil Taher Elnahas,lobna.elnahas@student.guc.edu.eg,Mind GRAF: Acting I (Co-Supervised with Dr. Nourhan Ehab),Haytham Osman Ismail,Ahmed Abdelfattah
+46-13014,Lougina Hatem Yahia Abdulwahab Backar,lougina.backar@student.guc.edu.eg,In-Vehilce monitoring for Passengers' Safety,Mohammed Abdel Megeed Salem,Wael Zakaria
+46-2066,Maged George Saied Abdelsayed,maged.abdelsayed@student.guc.edu.eg,Online virtual tours of remote sites,Rimon . Elias,Samar Hesham
+46-18954,Mahmoud Ahmed Abdelkhalek Rasheidy,mahmoud.rasheidy@student.guc.edu.eg,Anonymous DEX I (Cardano),Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-5151,Mahmoud Hesham Saad Abdelfatah Ahmed,mahmoud.saadahmed@student.guc.edu.eg,Characterizing and Evaluating Data Integration Plans for Time-series Analysis,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+43-15405,Mahmoud Khalid Zakria Badawy,mahmoud.badawy@student.guc.edu.eg,Mind GRAF: Acting II (Co-Supervised with Assoc. Prof. Haythem Ismail),Nourhan Ehab Azab,Ahmed Abdelfattah
+46-18406,Mahmoud Mohamed Aly Abdallah,mahmoud.badawy@student.guc.edu.eg,Mind GRAF: Acting II (Co-Supervised with Assoc. Prof. Haythem Ismail),Mohammed Abdel Megeed Salem,Wagdy Anis
+46-5700,Mahmoud Nabil Hussein Abdelhalim Hemida,mahmoud.hemida@student.guc.edu.eg,Creating 360 deg Views From Cameras Viewing the Road Scene,Amr Hussein ElMougy,Cherif Salama
+46-2507,Mai Alaaeldin Mohamed Ammar,mai.mohamedammar@student.guc.edu.eg,Shape grammar for computational/architectural design II,Rimon . Elias,Islam Ahmed Mahmoud El-Maddah 
+46-6070,Maiar Ashraf Mohamed Kamaleldin Abbas,maiar.abbas@student.guc.edu.eg,Mind GRAF: User Interface I (Co-Supervised with Dr. Nourhan Ehab),Haytham Osman Ismail,Ahmed Abdelfattah
+46-0406,Malak Mostafa Mohamed Mostafa Elhabak,malak.elhabak@student.guc.edu.eg,Mind GRAF: Revision I (Co-Supervised with Dr. Nourhan Ehab),Haytham Osman Ismail,Ahmed Abdelfattah
+46-8504,Maram Anwar Mansour Benamer,maram.benamer@student.guc.edu.eg,Deep learning for computational/architectural design II,Rimon . Elias,Mahmoud I Khalil
+46-0433,Maria Maged Mourad William Iskander,maria.iskander@student.guc.edu.eg,Academic Calendar: Research Agenda,Haytham Osman Ismail,Mona Farouk
+46-2895,Mariam Ahmed Saied Ahmed Osman,mariam.osman@student.guc.edu.eg,Assessment Metrics for the Quality of Data across a Data Pipeline,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+46-3556,Mariam Ehab Shoukry Beshay,mariam.beshay@student.guc.edu.eg,Fast LiDAR Pre-processing for Critical Real-Time Actions in Autonomous Vehicles,Amr Hussein ElMougy,Ahmed El Sheikh
+46-3987,Mariam Mohamed Hamdy Eissa,mariam.eissa@student.guc.edu.eg,Software Usability Patterns Extraction and Analysis for Improving User Engagement II,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-0296,Mariam Mohamed Mostafa Kamal Mowafy Ramadan,mariam.mowafy@student.guc.edu.eg,Multiplatform Tour-guiding Front End,Mohamed Ehsan Ashour,Ahmed Hassan
+46-0733,Mariam Mohamed Nabil Khalifa,mariam.khalifa@student.guc.edu.eg,Pneumonia classification in Xray using deep learning,Milad Michel Ghantous,Mona Farouk
+46-2427,Mariam Sherif Zaki Seoudi,mariam.zaki@student.guc.edu.eg,Smart bike Green route path finding,Hassan . Soubra,Hassen Taher Dorrah
+46-0774,Mariam Tamer Mohamed Hamdy Sabry Elshakankiry,mariam.elshakankiry@student.guc.edu.eg,Emotional Agent Desktop Replacement II (Affective 3D-Model/Graphics/Animation),Wael Mohamed AbulSadat,Hossam Abdelonem
+46-1356,Mariam Wael Talaat Sayed,mariam.talaat@student.guc.edu.eg,AutoEncoder Baseline for Anomalous Sounds Detection,Hisham Hassaballah Othman,Samar Hesham
+46-0978,Mario Ayman Michel Beshai,mario.beshai@student.guc.edu.eg,head pose and gaze tracking for assessing critical and non critical driver attention,Milad Michel Ghantous,Hossam Abdelonem
+46-5861,Mark Emeel Yacoub Sroor,mark.sroor@student.guc.edu.eg,Psychiatry Counseling in the Metaverse I (VR),Wael Mohamed AbulSadat,Galal Nadim
+46-1616,Mark Malak Amin Armanious,mark.armanious@student.guc.edu.eg,Automated Teaching Load Distribution,Haytham Osman Ismail,Hanaa Bayoumi
+46-0719,Mark Wafik Adel Francis,mark.francis@student.guc.edu.eg,Talk about the City: Identifying Urban Themes in Tweets and Analyzing their Associated Sentiments,Mervat Mustafa Fahmy Abuelkheir,Yasmin Afify
+46-5518,Marwa Mohamed Mahmoud Elsayed Aly,marwa.elsayed@student.guc.edu.eg,Immersive AR and the dimensions of sensibility,Mohammed Abdel Megeed Salem,Ahmed El-Bialy
+46-1813,Marwan Ayman Elsayed Ahmed Badr,marwan.badr@student.guc.edu.eg,Dynamic Noise cancellation system SW Simulation,Hassan . Soubra,Hanaa Bayoumi
+40-16368,Marwan Ayman Hamid Ismail,marwan.ismail@student.guc.edu.eg,Model Agnostic Methods for Explainable AI: Break Down,Nourhan Ehab Azab,Hanaa Bayoumi
+46-18972,Marwan Mohsen Khalil Aboelmagd,marwan.khalil@student.guc.edu.eg,Automated Brain Tumor Detection from MRI Scans,Seif El Dawlatly,Hussein Shahin
+46-3294,Maryam Ayman Mamdouh Abdelmonem Eloraby,maryam.eloraby@student.guc.edu.eg,Mapping and Tracking Sentiment Arcs in Social Media Streams,Mervat Mustafa Fahmy Abuelkheir,Yasmin Afify
+46-4542,Maryam Magdy Mohamed Bayoumy Abdelsalam Ghonim,maryam.ghonim@student.guc.edu.eg,EfficientNet-B0 Architecture for Urban Sound Tagging,Hisham Hassaballah Othman,Mohamed H Farouk 
+46-1035,Maryse Fahim Tadros Fahim,maryse.fahim@student.guc.edu.eg,video super-resolution using deep learning,Milad Michel Ghantous,Hossam Abdelonem
+46-5830,May Magdy Ahmed Hossien,may.hossien@student.guc.edu.eg,Major Depressive Disorder Diagnosis from EEG Signals using Machine Learning,Seif El Dawlatly,Mohamed H Farouk 
+46-5809,Maya Khaled Fouad Ezzat,maya.ezzat@student.guc.edu.eg,3-D virtual grocery store Task II,Milad Michel Ghantous,Hussein Shahin
+46-0519,Mayar Ezzeldin Tawfik Aggag,mayar.aggag@student.guc.edu.eg,Kripke's Worlds,Haytham Osman Ismail,Ahmed Abdelfattah
+46-0769,Mazen Wael Ahmed Mahmoud Sadek,mazen.sadek@student.guc.edu.eg,Java/Web3 Framework I,Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-0616,Menatalla Wael Abdelmegid Mahmoud Mohamed Elnemr,menatalla.elnemr@student.guc.edu.eg,Smart Bike Insurance Safety metrics: Hardware,Hassan . Soubra,Wagdy Anis Aziz
+46-5183,Menna Mohamed Saeed Abdelaziz Bedir,menna.bedir@student.guc.edu.eg,Long-Term People Re-Identification in Video Surveillance,Mohammed Abdel Megeed Salem,Mona Farouk
+46-3693,Mennatallah Ahmed Abdelsamie Mohamed Abdelhamid,menatalah.abdelhamid@student.guc.edu.eg,Semantic Alignment for Anomalous Sounds Detection,Hisham Hassaballah Othman,Mahmoud I Khalil
+46-0910,Mennatallah Hesham Mohamed Shoulkamy,mennatallah.hesham@student.guc.edu.eg,Peer-to-peer GUC bus riding and map route generation,Milad Michel Ghantous,Samah Tantawy
+46-1728,Michael George Alphonse Zakhary,michael.alphonse@student.guc.edu.eg,dumy topic,Seif El Dawlatly,Gamal Eldin Mohamed Aly
+46-3945,Michael Tito Girges Bassily,michael.girges@student.guc.edu.eg,Improving ASR transcript punctuation and disfluency detection for downstream task Machine translation - Microsoft,Hisham Hassaballah Othman,Mahmoud I Khalil
+43-1924,Miral Hammam Mohamed Abdallah Ragab,miral.ragab@student.guc.edu.eg,Design and Evaluation of Navigation Interaction Techniques in a VR Environment,Wael Mohamed AbulSadat,Sahar Ali Fawzi
+46-17050,Moamen Khaled Saad Shoman,moamen.shoman@student.guc.edu.eg,dumy topicc,Seif El Dawlatly,Magdy Abdlghany Soliman Aboelela
+46-5549,Moataz Ahmed Mohamed Aly Morsy,moataz.morsy@student.guc.edu.eg,Psychiatry Counseling in the Metaverse IV (CV),Wael Mohamed AbulSadat,Mohamed H Farouk 
+46-5250,Moemen Ashraf Shehata Salem,moemen.salem@student.guc.edu.eg,Detecting obstacles using projective geometry,Rimon . Elias,Hesham N. Elmahdy
+46-13323,Mohamed Adel Mohamed Elshafei,mohamed.elshafei@student.guc.edu.eg,Semantic image segmentation for pothole detection,Milad Michel Ghantous,Mahmoud I Khalil
+46-1045,Mohamed Ahmed Mohamed Emarah,mohamed.emarah@student.guc.edu.eg,Psychiatry Counseling in the Metaverse II (Graphics/Animation),Wael Mohamed AbulSadat,Ahmed Hassan
+46-1272,Mohamed Ahmed Samir Singer,mohamed.singer@student.guc.edu.eg,Efficiency and Privacy in Deep Active Learning,Mohammed Abdel Megeed Salem,Hossam Abdelonem
+46-6182,Mohamed Ahmed Zakaria Mostafa Idris,mohamed.idris@student.guc.edu.eg,End-to-End Task-oriented Dialogue System,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-8421,Mohamed Alaaeldin Ahmed Elsayed Ali Eskander Elassyouty,mohamed.elassyouty@student.guc.edu.eg,Dynamic question-bank based online assessment tool,Milad Michel Ghantous,Hesham N. Elmahdy
+46-0831,Mohamed Ashraf Mohamed Elsaeed Abdelaziz Hassan,mohamed.elsaed@student.guc.edu.eg,Robotic Brain for Sensor Modality Switching in Autonomous Vehicles,Amr Hussein ElMougy,Cherif Salama
+46-5930,Mohamed Ashraf Mohamed Mohamed,mohammed.ashraf@student.guc.edu.eg,Direct-Manipulation Tangible Desktop Framework II (OS interfacing),Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-9061,Mohamed Ashraf Mohamed Sami Hassanin Badreldin,mohamed.badreldin@student.guc.edu.eg,Incorporating Uncertainty in Knowledge Graphs,Nourhan Ehab Azab,Hassen Taher Dorrah
+46-1353,Mohamed Assem Hussein Ahmed Sonbol,mohamed.ahmedsonbol@student.guc.edu.eg,Smart Contract EcoSystem III (Contract language/compiler),Wael Mohamed AbulSadat,Hesham N. Elmahdy
+46-6671,Mohamed Emadeldin Ahmed Fouad Zaki Safar,mohamed.safar@student.guc.edu.eg,Mobile Application for 3D Mesh Model Enhancement for AR Applications,Mohammed Abdel Megeed Salem,Hesham N. Elmahdy
+46-15031,Mohamed Gamal Badawy Mohamed Elshaarawy,mohamed.elshaarawy@student.guc.edu.eg,Anonymous DEX III (Ethereum),Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-2726,Mohamed Hesham Mohamed Helmy Ahmed Eltaher,mohamed.ahmedeltaher@student.guc.edu.eg,Multimodal Metrics for Assessing Street- and Neighborhood-level Safety,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+46-9261,Mohamed Hossam Mohamed Abdelwahab,mohamed.hosammohamed@student.guc.edu.eg,Biometric Identification from Electrocardiography (ECG) Signals,Seif El Dawlatly,Gamal Eldin Mohamed Aly
+46-12309,Mohamed Hossameldin Mohamed Riad Khalifa,mohamed.riadkhalifa@student.guc.edu.eg,Decidable Fragments of Log_A G (II),Haytham Osman Ismail,Azza Taha
+46-13908,Mohamed Ibrahim Abdelgalil Mohamed Shetewi,mohamed.riadkhalifa@student.guc.edu.eg,Decidable Fragments of Log_A G (II),Wael Mohamed AbulSadat,Wagdy Anis
+46-7203,Mohamed Kamal Monir Abdelaziz Gamil,mohamed.monir@student.guc.edu.eg,A generalized seizure prediction approach for EEG seizure signals using advanced machine learning algorithms,Yasmin Mohamed Massoud,Mohamed H Farouk 
+46-1126,Mohamed Khaled Rostom Mohamed Helmy,mohamed.rostom@student.guc.edu.eg,Reinforcement-based Task-oriented Dialogue System,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-20734,Mohamed Mahmoud Mohamed Ahmed Eshiba,mohamed.eshiba@student.guc.edu.eg,American Sign Language Recognition using MediaPipe and Deep Learning,Milad Michel Ghantous,Nawal Ahmed El-Fishawy
+46-14531,Mohamed Mahmoud Mohamed Mohamed Amin,mohamed.mahmoudamin@student.guc.edu.eg,Character rigging in Maya using MEL,Rimon . Elias,Mostafa ElAttar
+46-0888,Mohamed Sherif Mohamed Abdou Elokby,mohamed.elokby@student.guc.edu.eg,Restoration of damaged archaeological 3D parts using deep learning,Rimon . Elias,Mahmoud I Khalil
+46-0916,Mohamed Yehia Mohamed Abdelhalim Elhusseiny,mohamed.elhuseiny@student.guc.edu.eg,Generative Adversarial Network for Anomalous Sounds Detection,Hisham Hassaballah Othman,Mahmoud I Khalil
+46-17077,Mohamed Youssef Saad Mohamed Ismail,mohamed.saadismail@student.guc.edu.eg,Obstacle Avoidance and Object Recognition Enhancement for Visual Prostheses,Seif El Dawlatly,Mohamed H Farouk 
+46-16738,Mohammed Ahmed Mohammed Abdelhamid Mohamed Neaima,mohammed.abd-elhamid@student.guc.edu.eg,Ranking Fear Emotions using EEG and ML,Wael Mohamed AbulSadat,Nawal Ahmed El-Fishawy
+46-17501,Mohammed Mahmoud Abdulatif Abdelgaber,mohammed.abdelgaber@student.guc.edu.eg,From Code to Model: Building Language Models for Source Code Generation (Co-supervised with Dr. Nada Sharaf),Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+46-1478,Mohammed Yasser Anwar Khafagy,mohammed.khafagy@student.guc.edu.eg,STEM Experiment Designer I (Visual Language Desktop App),Wael Mohamed AbulSadat,Islam Ahmed Mahmoud El-Maddah 
+46-16585,Mohmed Nabil Mosad Ahmed Abokammer,mohammed.khafagy@student.guc.edu.eg,STEM Experiment Designer I (Visual Language Desktop App),Wael Mohamed AbulSadat,Wagdy Anis
+46-17080,Mostafa Abobkr Mostafa Mohamed,mostafa.abobkr@student.guc.edu.eg,AI Applications in Health Care I: Robot Doctor using Ontology Design (Co-Supervised with Assoc. Prof. Amr Elmougy),Nourhan Ehab Azab,Mona Farouk
+43-6084,Mostafa Abubakr Mahmoud Galal Ali,mostafa.galal@student.guc.edu.eg,Dynamic Noise cancellation system HW Implementation,Hassan . Soubra,Wagdy Anis Aziz
+46-5535,Mostafa Ahmed Abdelhalem Afifi Shaalan,mostafa.shaalan@student.guc.edu.eg,Development of virtual lab experiments Electromagnetism - Thermodynamis - in cooperation with Dr. Hisham Osman,Tarek Abbas Metwally Khalil,Mohamed H Farouk 
+46-2690,Mostafa Mohamed Aly Sharaf,mostafa.alysharaf@student.guc.edu.eg,Smart Bike- estimation of processing power needs for routing purposes,Hassan . Soubra,Wagdy Anis Aziz
+46-0409,Mostafa Mohamed Ibrahim Yousif,mostafa.yousif@student.guc.edu.eg,Evaluating the Reliability of Camera Data in Autonomous Vehicles under Different Conditions,Amr Hussein ElMougy,Ahmed El Sheikh
+46-4124,Mostafa Mohamed Mostafa Hassan,mostafa.hasan@student.guc.edu.eg,Read Me: Interpretable Article Recommender System,Mervat Mustafa Fahmy Abuelkheir,Yasmin Afify
+46-4223,Moustafa Ahmed Mohamed Fahmy Elwatidy,moustafa.elwatidy@student.guc.edu.eg,Smart Bike- Energy needs estimation,Hassan . Soubra,Wagdy Anis Aziz
+46-8194,Moustafa Ashraf Abdeltawab Ibrahim Khattab,moustafa.khattab@student.guc.edu.eg,Exploring AI Techniques for Algorithmic Bias Detection and Mitigation,Nourhan Ehab Azab,Hossam Abdelonem
+43-13821,Moustafa Mohamed Abdelmonem Abdelhamid Sallam,moustafa.sallam@student.guc.edu.eg,Panoptic Vision for Autonomous Vehicles using Spiking Neural Networks,Amr Hussein ElMougy,Ahmed El Sheikh
+46-17022,Mustafa Mahmoud Abdelhalim Omran,mustafa.omran@student.guc.edu.eg,Data Augmentation for Steady-state Visual Evoked Potential (SSVEP) Brain-Computer Interfaces,Seif El Dawlatly,Mona Farouk
+46-18492,Nada Abdo Badwy Abdelkader,mustafa.omran@student.guc.edu.eg,Data Augmentation for Steady-state Visual Evoked Potential (SSVEP) Brain-Computer Interfaces,Seif El Dawlatly,Sahar Ali Fawzi
+46-0898,Nadeen Eslam Mohamed Ahmed,nadeen.ahmed@student.guc.edu.eg,Structure form Motion for 3D Object Model Construction,Mohammed Abdel Megeed Salem,Sahar Selim
+46-1564,Nadeen Sayed Abdelmoniem Ibrahim,nadeen.ibrahim@student.guc.edu.eg,skin disease classification using deep learning,Milad Michel Ghantous,Nawal Ahmed El-Fishawy
+46-0976,Nadim Ramy Anis Iskander,nadim.iskander@student.guc.edu.eg,Creating interactive web contents using PlayCanvas and JavaScript,Rimon . Elias,Fatma Omara
+46-0363,Nadine Khaled Salem Khaled Fouda,nadine.fouda@student.guc.edu.eg,Analyzing The Factors Impacting Production Quality for sustainable Industries (Co-supervised with Dr. Amna Ramzy),Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+46-0945,Nayer Hany William Sanad,nayer.sanad@student.guc.edu.eg,Stable Fully-Backed Coin System (blockchain),Wael Mohamed AbulSadat,Mostafa ElAttar
+46-3346,Nerimane Mohamed Mostafa Elrefai,nerimane.elrefai@student.guc.edu.eg,Enhancing Interactivity in a Virtual Super Market,Nada Ahmed Hamed,Mona Farouk
+46-8464,Nesma Hatem Mohamed Mohamed Harraz,nesma.harraz@student.guc.edu.eg,Using Block Chain in Smart Supply Chains (Co-Supervised with Dr. Maggie Mashaly),Nada Ahmed Hamed,Nawal Ahmed El-Fishawy
+43-1564,Nour Aly Ragheb Abouzeid,nour.abouzeid@student.guc.edu.eg,STEM Experiment Designer IV (Interaction),Wael Mohamed AbulSadat,Islam Ahmed Mahmoud El-Maddah 
+46-1682,Nour Wessam Yehia Mostafa Elgazzar,nour.elgazzar@student.guc.edu.eg,Development of an AI-assisted tool for Industry 4.0: Front-end development,Maggie Ahmed Ezzat,Ahmed Hassan
+46-0328,Nouran Ayman Mohamed Farouk Younis,nouran.younis@student.guc.edu.eg,Masked Autoencoder Distribution Estimation for Anomalous Sounds Detection,Hisham Hassaballah Othman,Hussein Abdelaty
+46-18385,Nouran Khaled Aboelmagd Abobakr Abdelaal,nouran.abdelaal@student.guc.edu.eg,Ranking Sadness Emotions using EEG and ML,Wael Mohamed AbulSadat,Nawal Ahmed El-Fishawy
+46-12946,Noureldin Hesham Abdelazim Elhusseiny Awad,noureldin.elhusseiny@student.guc.edu.eg,Smart Bike Secure B2X,Hassan . Soubra,Wagdy Anis Aziz
+46-5432,Omar Ahmed Abdelrahman Mousa Aref,omar.mousaaref@student.guc.edu.eg,Web-based Smart billboard Ads with image analysis and raspberry-pi,Milad Michel Ghantous,Hanaa Bayoumi
+46-8626,Omar Ahmed Ibrahim Altantawy,omar.altantawy@student.guc.edu.eg,Tactile Driving of Remote Vehicles over the Internet using VR,Amr Hussein ElMougy,Cherif Salama
+46-2224,Omar Ashraf Abdelmaboud Elsayed Wahbi,omar.wahbi@student.guc.edu.eg,Explainable AI for Self Driving Cars (Co-Supervised with Assoc. Prof. Amr Elmougy),Nourhan Ehab Azab,Nawal Ahmed El-Fishawy
+46-10229,Omar Ashraf Fathy Ali Elnahtawy,omar.elnahtawy@student.guc.edu.eg,Psychiatry Counseling in the Metaverse III (Interaction),Wael Mohamed AbulSadat,Galal Nadim
+46-5347,Omar Ashraf Mohamed Elsawi,omar.elsawi@student.guc.edu.eg,Predictive AI for Tactile Driving over the Internet,Amr Hussein ElMougy,Cherif Salama
+46-0877,Omar Ayman Mohamed Samir Zaki Abbas,omar.zakiabbas@student.guc.edu.eg,Visual programming for computational/architectural design I,Rimon . Elias,Islam Ahmed Mahmoud El-Maddah 
+46-4937,Omar Emad Youssef Elsherif,omar.youssefelsherif@student.guc.edu.eg,STEM Experiment Designer III (Language/compiler),Wael Mohamed AbulSadat,Islam Ahmed Mahmoud El-Maddah 
+46-17144,Omar Gamal Mohamed Elaraby Ahmed Hamada,omar.youssefelsherif@student.guc.edu.eg,STEM Experiment Designer III (Language/compiler),Milad Michel Ghantous,Sahar Ali Fawzi
+46-2654,Omar Hatem Mohamed Zaki Baghdady,omar.baghdady@student.guc.edu.eg,Kripke's Virtual Worlds,Haytham Osman Ismail,Ahmed Abdelfattah
+46-4215,Omar Hossam Ahmed Farahat,omar.farahat@student.guc.edu.eg,Time2Vec for Urban Sound Tagging System 3,Hisham Hassaballah Othman,Mohamed H Farouk 
+46-5257,Omar Hussam Abdellatif Mostafa,omar.hussammostafa@student.guc.edu.eg,Cooperative Decision Making in Unavoidable Accident Scenarios of Self Driving Cars (Co-supervised by Dr. Nourhan Ehab),Amr Hussein ElMougy,Cherif Salama
+46-1259,Omar Khaled Mohamed Kamaleldin Mohamed Nasser,omar.mohamednasser@student.guc.edu.eg,Federated Learning on Non- independent and identically distributed Data.,Mohammed Abdel Megeed Salem,Fatma Omara
+46-1152,Omar Khaled Sayed Ismail,omar.sayedismail@student.guc.edu.eg,Creating a Digital Twin for a Simple 3D Wire-Bending Machine (Co-supervised by Dr. Amir Roushdy from EMS),Amr Hussein ElMougy,Ahmed El Sheikh
+46-4439,Omar Medhat Mohiyeldin Abdellatif Ibrahim,omar.mohiyeldin@student.guc.edu.eg,Direct-Manipulation Tangible Desktop Framework I (Interaction),Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-1014,Omar Mohamed Amin Seifallah,omar.seifallah@student.guc.edu.eg,Cyber-attacks on Implanted Medical Devices Using Compatible Novel Bio-Mechatronics Technique (Co-supervised by Dr. Amir Roushdy from EMS),Amr Hussein ElMougy,Ahmed El Sheikh
+46-3579,Omar Mohamed Fahim Abdelaziz Obaia,omar.obaia@student.guc.edu.eg,Spectrotemporally-Aligned Features and Multi-Head Self-Attention for Sound Event Localization and Detection,Hisham Hassaballah Othman,Islam Ahmed Mahmoud El-Maddah 
+46-1632,Omar Mohamed Hussein Ezzeldin Zaki,omar.ezzeldinzaki@student.guc.edu.eg,Character rigging in Maya using Python,Rimon . Elias,Ahmed El-Bialy
+46-0292,Omar Mostafa Fathy Elkersh,omar.elkersh@student.guc.edu.eg,Domain-Knowledge Aided Explainable Systems,Nourhan Ehab Azab,Mona Farouk
+46-3097,Omar Osama Kamal Ibrahim Mohamed,omar.kamalmohamed@student.guc.edu.eg,ML IoT Smart Pet Feeder,Hassan . Soubra,Gamal Eldin Mohamed Aly
+46-1299,Omar Tarek Mohamed Youssef Darwish,omar.youssefdarwish@student.guc.edu.eg,Augmented-Virtuality Exercise System (VR),Wael Mohamed AbulSadat,Mostafa ElAttar
+43-7913,Omar Tarek Saeed Almarsafawy,omar.almarsafawy@student.guc.edu.eg,Smart bike Module Scheduling system,Hassan . Soubra,Wagdy Anis Aziz
+46-10418,Omar Usama Mahmoud Elnagar,omar.elnagar@student.guc.edu.eg,Smart Bike obstacle detection and avoidance,Hassan . Soubra,Magdy Abdlghany Soliman Aboelela
+46-6401,Peter Ashraf Mounir Hanna Sharobim,peter.sharobim@student.guc.edu.eg,Residual CNNS for Sound Event Localization and Detection,Hisham Hassaballah Othman,Mahmoud I Khalil
+46-16082,Peter Fahmi Ramzy,peter.sharobim@student.guc.edu.eg,Residual CNNS for Sound Event Localization and Detection,Mervat Mustafa Fahmy Abuelkheir,Wagdy Anis
+46-4128,Peter Osama Laban Ragheb Gendy,peter.ragheb@student.guc.edu.eg,Spectrotemporally-Aligned Features and Long Short-Term Memory for Sound Event Localization and Detection,Hisham Hassaballah Othman,Mona Farouk
+46-2230,Philopateer Amgad Mikhail Fouad,philopateer.fouad@student.guc.edu.eg,COVID-19 Diagnosis from CT Scans using Machine Learning,Seif El Dawlatly,Gamal Eldin Mohamed Aly
+46-1116,Philopateer Atef Badeer Ghattas,philopateer.ghattas@student.guc.edu.eg,Predicting Depressive Symptoms in Social Contexts from Recorded EEG Signals using Machine Learning,Seif El Dawlatly,Mona Farouk
+46-1548,Raghad Mohamed Mohamed Lotfy Abdeltawab,raghad.abdeltawab@student.guc.edu.eg,Remote sensing image semantic segmentation Using Feedforward CNN,Mohammed Abdel Megeed Salem,Hossam Abdelonem
+46-17621,Raghda Essam Taha Othman Hussein,raghda.hussein@student.guc.edu.eg,Investigating Intrinsically Interpretable Methods for Explainable AI,Nourhan Ehab Azab,Mona Farouk
+46-0908,Rana Rafat Mohamed Mohamed Mostafa,rana.rafat@student.guc.edu.eg,2-D virtual grocery store with market basket analysis,Milad Michel Ghantous,Samar Hesham
+46-13489,Rawan Reda Ibrahim Youssef Fouda,rawan.fouda@student.guc.edu.eg,Indoor Scenes Understanding for Visual Prostheses,Seif El Dawlatly,Hossam Abdelonem
+46-0599,Roushan Sherief Muhammed Elwassif Abdelmaksoud,roushan.abdelmaksoud@student.guc.edu.eg,Efficiency and Privacy in Deep Meta-Learning,Mohammed Abdel Megeed Salem,Sahar Selim
+46-5055,Rowan Amgad Nabil Mohamed,rowan.nabil@student.guc.edu.eg,EyeSpy: A website to develop the cognitive skills of physically disabled children using eye and gaze tracking ,Milad Michel Ghantous,Galal Nadim
+46-0550,Salma Amr Abdelfattah Abuelnaga,salma.abuelnaga@student.guc.edu.eg,Federated Learning for Person Re-Identification,Mohammed Abdel Megeed Salem,Nawal Ahmed El-Fishawy
+46-0271,Salma Ashraf Ismail Abdelaal,salma.ismailabdelaal@student.guc.edu.eg,EfficientNet-B2 Architecture for Urban Sound Tagging,Hisham Hassaballah Othman,Hussein Abdelaty
+46-5953,Salma Khalid Elsayed Ali Hassan Shreef,salma.ismailabdelaal@student.guc.edu.eg,EfficientNet-B2 Architecture for Urban Sound Tagging,Wael Mohamed AbulSadat,Sahar Ali Fawzi
+46-7723,Salma Khalid Sayed Ahmed Ghazal,salma.khalid@student.guc.edu.eg,Rule Introduction in Java SNePS 3.0,Haytham Osman Ismail,Mostafa ElAttar
+46-17002,Salma Mohamed Hassan Aly Elshafey,salma.elshafey@student.guc.edu.eg,Evaluation of Pretrained Language Models for Machine Translation (Co-supervised with Dr. Caroline Sabty),Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+46-2101,Salma Osama Kamel Mostafa Kishk,salma.kishk@student.guc.edu.eg,Model Agnostic Methods for Explainable AI: Shapley Values (SHAP),Nourhan Ehab Azab,Samah Tantawy
+46-2285,Samaa Ahmed Mamdouh Ahmed Abdelraheem,samaa.abdelraheem@student.guc.edu.eg,Using ML to Define the Character Traits of Egyptian Women Enterpreneurs in STEM Fields on Social Media,Amr Hussein ElMougy,Cherif Salama
+46-18648,Samer Walaa Gabra Abdallah,samaa.abdelraheem@student.guc.edu.eg,Using ML to Define the Character Traits of Egyptian Women Enterpreneurs in STEM Fields on Social Media,Mohammed Abdel Megeed Salem,Sahar Ali Fawzi
+46-4736,Sara Noureldeen Samir Abdelhalim,sara.noureldeen@student.guc.edu.eg,Automatic categorization of tasks based on constraints,Hassan . Soubra,Islam Ahmed Mahmoud El-Maddah 
+46-0431,Sarah Ahmed Fouad Hella,sarah.hella@student.guc.edu.eg,UX Analysis for Online Collaboration Platforms,Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+46-5892,Sarah Hany Abdelhamid Aly Hassan,sarah.hany@student.guc.edu.eg,Multiplatform Tour-guiding Front End,Mohamed Ehsan Ashour,Ahmed Hassan
+46-1521,Seif Ahmed Fouad Abdelsalam,seif.abdelsalam@student.guc.edu.eg,Motion Stabilization for Autonomous Vehicles using Arduinos and Motor Feedback,Amr Hussein ElMougy,Cherif Salama
+46-1953,Seif Ahmed Mostafa Elberkawy,seif.elberkawy@student.guc.edu.eg,Similar Objects Grouping for Visual Prostheses,Seif El Dawlatly,Sahar Ali Fawzi
+46-3958,Seif Ramy Mahmoud Ibrahim,seif.ibrahim@student.guc.edu.eg,Design and Evaluation of Input Interaction Techniques in a VR Environment,Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+43-16664,Seifallah Alaaeldin Elsayed Ali Salem Arafaa,seifallah.arafaa@student.guc.edu.eg,Indoor 3D Scene Construction using Structure form Motion for Mobile Robots,Mohammed Abdel Megeed Salem,Wael Zakaria
+46-1691,Seifeldin Maged Elsayed Mounir Ibrahim,seifeldin.ibrahim@student.guc.edu.eg,Visual Questioning Answer for E-Commerce,Mohammed Abdel Megeed Salem,Mona Farouk
+46-5287,Shady Ahmed Zaki Ahmed Ali,shady.ahmedali@student.guc.edu.eg,Design and Evaluation of Selection Interaction Techniques in a VR Environment,Wael Mohamed AbulSadat,Mohamed Watheq Elkharashy
+46-1105,Shahd Medhat Mahmoud Abdallah Koura,shahd.koura@student.guc.edu.eg,Measuring User Engagement with Different UI Designs for a Recommender System (Co-supervised with Dr. Nada Sharaf),Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+46-4880,Shams Tarek Tawfik Elsayed Ahmed,shams.elsayed@student.guc.edu.eg,Incorporating Auxiliary Data for Urban Sound Tagging System 4,Hisham Hassaballah Othman,Hussein Abdelaty
+46-3502,Shawky Haitham Lotfy Abdelsalam,shawky.abdelsalam@student.guc.edu.eg,Anomaly detection in Fine Grained smart Meters,Amr Talaat Abdel-Hamid,Mohamed H Farouk 
+46-12355,Shaza Hamdy Ibrahim Amer Mosleh,shaza.mosleh@student.guc.edu.eg,Illumination Transfer from Images to Animated Graphics,Mohammed Abdel Megeed Salem,Hossam Abdelonem
+46-1163,Sherif Moataz Abdelsattar Ibrahim Bialy,sherif.bialy@student.guc.edu.eg,Time2Vec for Urban Sound Tagging System 2,Hisham Hassaballah Othman,Mohamed H Farouk 
+46-1206,Shorook Mohamed Said Mostafa Soliman,shorook.soliman@student.guc.edu.eg,Incorporating Auxiliary Data for Urban Sound Tagging System 2,Hisham Hassaballah Othman,Hussein Abdelaty
+46-5198,Tasneem Ahmed Abdelhady Otefy,tasneem.otefy@student.guc.edu.eg,Multimodal Metrics for Assessing City Vibrancy,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+46-5144,Tasneem Hazem Ibrahim Ahmed,tasneem.ahmed@student.guc.edu.eg,DSP Runtime Simulator on Simulink,Hassan . Soubra,Hossam Abdelonem
+46-2248,Veronika Fayez Shehata Youssef,veronika.youssef@student.guc.edu.eg,Creating Animated Graphics for Printed Matters,Mohammed Abdel Megeed Salem,Hanaa Bayoumi
+46-0737,Yara Ahmed Hassan Fahmy Aboelhamayed,yara.aboelhamayed@student.guc.edu.eg,Mood Extraction from Franco-Arabic Data using Deep Learning Techniques,Nada Ahmed Hamed,Sahar Ali Fawzi
+46-1575,Yasmeen Hassan Mohamed Bahaaeldin Helal,yasmeen.helal@student.guc.edu.eg,Multivalued Algebraic Logic,Haytham Osman Ismail,Ahmed Hassan
+46-1847,Yasmine Ahmed Yehia Abdelrahman,yasmine.yehia@student.guc.edu.eg,Using high performance computing to predict mechanical properties of materials,Ahmed Abd El-Hamid Mohamed Shafik Maarouf,Tamer Heshmat
+46-1357,Yasmine Mohamed Ibrahim Ali Elfares,yasmine.yehia@student.guc.edu.eg,Using high performance computing to predict mechanical properties of materials,Mohammed Abdel Megeed Salem,Wagdy Anis
+46-13722,Yomna Islam Youssef Alayary,yomna.alayary@student.guc.edu.eg,Face masked and unmasked humans detection and tracking in video surveillance,Mohammed Abdel Megeed Salem,Mohamed H Farouk 
+46-2387,Yousef Magdy Hany Abdelhalim Aly Elbon,yousef.elbon@student.guc.edu.eg,traffic light recognition with prior maps,Milad Michel Ghantous,Hossam Abdelonem
+46-2911,Yousef Sayed Kamal Sayed Hassanein,yousef.hassanein@student.guc.edu.eg,Game development using Unreal and Oculus,Rimon . Elias,Mohamed Refky Amin
+46-10406,Youseff Mohamed Moustafa Hassan Elgindy,youseff.elgindy@student.guc.edu.eg,Image and point cloud fusion for traffic sign detection,Milad Michel Ghantous,Magdy Abdlghany Soliman Aboelela
+46-2459,Youssef Ahmed Abdelghafour Aly,youssef.abdelghafour@student.guc.edu.eg,Autonomous vehicle route planning aided by pedestrian behavior prediction models,Amr Hussein ElMougy,Ahmed El Sheikh
+46-16452,Youssef Ahmed Kamal Ismail Aboulyousr,youssef.aboulyousr@student.guc.edu.eg,Priority-based constrained routing for road Vehicles,Hassan . Soubra,Hussein Shahin
+46-1043,Youssef Ahmed Mohamed Kamal Mohamed Abdelrazek,youssef.kamalmohamed@student.guc.edu.eg,Stable Fully-Backed Coin System (front-end),Wael Mohamed AbulSadat,Mostafa ElAttar
+46-7368,Youssef Alaaeldin Kamal Mohamed Thabet,youssef.thabet@student.guc.edu.eg,Enhanced Night Vision for Autonomous Vehicles using Sensor Fusion between LiDAR and Thermal Camera,Amr Hussein ElMougy,Ahmed El Sheikh
+46-3220,Youssef Amin Eshak Amin Eldalil,youssef.eldalel@student.guc.edu.eg,Pigmented Skin Lesions Recognition using Deep Learning,Seif El Dawlatly,Sahar Ali Fawzi
+46-3661,Youssef Amr Mohamed Ibrahim Ashour,youssef.ashour@student.guc.edu.eg,Software Usability Patterns Extraction and Analysis for Improving User Engagement I,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-0576,Youssef Amr Saied Shaker,youssef.shaker@student.guc.edu.eg,Modular Task-oriented Dialogue Systems,Mervat Mustafa Fahmy Abuelkheir,Mohamed Handosa
+46-3138,Youssef Amro Mostafa Kamal Mohamed Dessouky,youssef.dessouky@student.guc.edu.eg,Quantifying Acceptable Levels of Risk for Supply Chain through Graph Analytics,Mervat Mustafa Fahmy Abuelkheir,Cherif Salama
+43-2344,Youssef Elabbas Mohamed Anis Aboelnaga,youssef.aboelnaga@student.guc.edu.eg,Mind GRAF: Graphical Infrastructure II (Co-Supervised with Assoc. Prof. Haythem Ismail),Nourhan Ehab Azab,Abeer ElKorany
+46-5543,Youssef Hamdy Abdelmoniem Attallah,youssef.attallah@student.guc.edu.eg,COSMIC programming language compiler,Hassan . Soubra,Mona Farouk
+46-0583,Youssef Hatem Mohamed Abdelaziz Ammar,youssef.hatem@student.guc.edu.eg,Automated Process Workflow Extraction from Unstructured Data,Mervat Mustafa Fahmy Abuelkheir,Ahmed Hassan
+43-8939,Youssef Hesham Mohamed Eltaher,youssef.eltaher@student.guc.edu.eg,Machine Learning based Adaptive Approximate Computing,Amr Talaat Abdel-Hamid,Hesham N. Elmahdy
+46-0929,Youssef Magdy Mahmoud Abdelwaly Yehia,youssef.abdelwaly@student.guc.edu.eg,Investigating Explanation Methods for Deep Neural Networks II,Nourhan Ehab Azab,Walaa Ibrahim Gabr
+46-11401,Youssef Mohamed Mahmoud Moneer Mahmoud Algendy,youssef.algendy@student.guc.edu.eg,Academic Calendar: Student Tasks,Haytham Osman Ismail,Hanaa Bayoumi
+46-6130,Youssef Mohamed Moustafa Mohamed Kersha,youssef.kersha@student.guc.edu.eg,Brain-Computer Interfaces as Additional Inputs to Augmented Reality,Seif El Dawlatly,Hussein Shahin
+46-6157,Youssef Osama Elnabawy Elsabbagh,youssef.elnabawy@student.guc.edu.eg,Time2Vec for Urban Sound Tagging System 1,Hisham Hassaballah Othman,Hussein Abdelaty
+46-1566,Youssef Sameh Mohamed Saleh Ahmed,youssef.salehahmed@student.guc.edu.eg,STEM Experiment Designer IV (Interaction),Wael Mohamed AbulSadat,Islam Ahmed Mahmoud El-Maddah 
+46-1756,Youssef Yasser Aly Mohamed Elbassiouny,youssef.elbassiouny@student.guc.edu.eg,Physical 3D Display using LEDs (Hardware),Wael Mohamed AbulSadat,Mostafa ElAttar
+46-2496,Youssef Yasser Hussein Awadallah,youssef.awadallah@student.guc.edu.eg,Developing a Dashboard Platform for Smart City Video Surveillance,Mohammed Abdel Megeed Salem,Mohamed Refky Amin
+46-2188,Youssef Youhanna Abdelmessih Salama,youssef.abdelmessih@student.guc.edu.eg,Flipped Autonomous Driving using Road-side Units,Amr Hussein ElMougy,Ahmed El Sheikh
+46-13378,Yousseif Ahmed Hamed Abdou Abourefaei,yousseif.abourefaei@student.guc.edu.eg,Ranking Joy Emotions using EEG and ML,Wael Mohamed AbulSadat,Galal Nadim
+46-4827,Yusuf Muhammad Eissa Ahmed Eissa Ammar,yusuf.ammar@student.guc.edu.eg,Annotating Lecture Slides with Code-Switched Data,Nada Ahmed Hamed,Hanaa Bayoumi
+46-1327,Zeina Ahmed Mostafa Mahmoud Ibrahim Elkassas,zeina.elkassas@student.guc.edu.eg,Masked Autoregressive Flows for Anomalous Sounds Detection,Hisham Hassaballah Othman,Hussein Abdelaty
+46-16190,Zeyad Elsaeed Ibrahim Abbas Eissa,zeyad.eissa@student.guc.edu.eg,On the Difference Between Believing P and Believing that P is True,Haytham Osman Ismail,Mona Farouk
+37-2496,Ziad Amr Abdelmonem Mostafa Darwish,ziad.darwish@student.guc.edu.eg,Mind GRAF: User Interface II (Co-Supervised with Assoc. Prof. Haythem Ismail),Nourhan Ehab Azab,Ahmed Abdelfattah
+43-7329,Ziad Reda Abdellatif Mohamed Abdelaziz,ziad.abdellatif@student.guc.edu.eg,Tarski's Virtual World,Haytham Osman Ismail,Ahmed Abdelfattah
+46-4708,Mariam Hesham Aly Salem Aly,youssef.abdelmessih@student.guc.edu.eg,Flipped Autonomous Driving using Road-side Units,Slim . Abdennadher,Prof. Sherif Keshk
+46-0630,Kariman Khaled Anis Elkassaby Mohamed El Deswky,yousseif.abourefaei@student.guc.edu.eg,Ranking Joy Emotions using EEG and ML,Slim . Abdennadher,Prof. Sherif Keshk
+46-7750,Mohamed Ashraf Mohamed Salaheldin Abouras,yusuf.ammar@student.guc.edu.eg,Annotating Lecture Slides with Code-Switched Data,Slim . Abdennadher,Prof. Sherif Keshk
+46-0391,Donia Abdelrahman Abdelgawad Ibrahim Sharaf,zeina.elkassas@student.guc.edu.eg,Masked Autoregressive Flows for Anomalous Sounds Detection,Slim . Abdennadher,Prof. Sherif Keshk
+46-12029,Mohamed Sherif Ebrahem Alaaser,zeyad.eissa@student.guc.edu.eg,On the Difference Between Believing P and Believing that P is True,Slim . Abdennadher,Prof. Sherif Keshk
+46-1425,Farida Helmy Abdelhalem Eldessouky,ziad.darwish@student.guc.edu.eg,Mind GRAF: User Interface II (Co-Supervised with Assoc. Prof. Haythem Ismail),Slim . Abdennadher,Prof. Sherif Keshk
+46-2021,Mohanad Osama Abdelmoattamed Osman,ziad.abdellatif@student.guc.edu.eg,Tarski's Virtual World,Slim . Abdennadher,Prof. Sherif Keshk
+46-17502,Mohamed Ahmed Abdelreheem Mohamed Kenawy,youssef.abdelmessih@student.guc.edu.eg,Flipped Autonomous Driving using Road-side Units,Slim . Abdennadher,Prof. Sherif Keshk
+46-16754,Abdalla Adel Mahmoud Ahmed,yousseif.abourefaei@student.guc.edu.eg,Ranking Joy Emotions using EEG and ML,Slim . Abdennadher,Prof. Sherif Aly
+46-15000,Yassmine Mohamed Abdalla Darwish Haggag,yusuf.ammar@student.guc.edu.eg,Annotating Lecture Slides with Code-Switched Data,Slim . Abdennadher,Prof. Sherif Aly
+46-2261,Somia Hossameldin Hussien Hammouda,zeina.elkassas@student.guc.edu.eg,Masked Autoregressive Flows for Anomalous Sounds Detection,Slim . Abdennadher,Prof. Sherif Aly
+46-1907,Mariam Ayman Mostafa Abdelrahman,zeyad.eissa@student.guc.edu.eg,On the Difference Between Believing P and Believing that P is True,Slim . Abdennadher,Prof. Sherif Aly
+46-3688,Rama Hany Fathy Abdelbaky Elshahat,ziad.darwish@student.guc.edu.eg,Mind GRAF: User Interface II (Co-Supervised with Assoc. Prof. Haythem Ismail),Slim . Abdennadher,Prof. Sherif Aly
+46-0842,Abdulrahman Emad Mahrous Mohamed Aldahrawy,ziad.abdellatif@student.guc.edu.eg,Tarski's Virtual World,Slim . Abdennadher,Prof. Sherif Aly
+46-1165,Nour Sherif Mohamed Ahmed Ali Algokhy,youssef.abdelmessih@student.guc.edu.eg,Flipped Autonomous Driving using Road-side Units,Slim . Abdennadher,Prof. Sherif Aly
+46-2195,Abdelkareem Tarek Abdelkareem Hassan,yousseif.abourefaei@student.guc.edu.eg,Ranking Joy Emotions using EEG and ML,Slim . Abdennadher,Prof. Sherif Aly
